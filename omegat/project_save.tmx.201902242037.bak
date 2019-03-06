@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.6.0" segtype="sentence" srclang="EN-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Class List</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T122129Z" creationid="Administrator" creationdate="20190224T122129Z">
+        <seg>类列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Here are the classes, structs, unions and interfaces with brief descriptions:</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T122920Z" creationid="Administrator" creationdate="20190224T122920Z">
+        <seg>以下简要描述 类，数据结构，接口:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open Source Computer Vision</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T121949Z" creationid="Administrator" creationdate="20190224T121949Z">
+        <seg>开放源代码计算版本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OpenCV: Class List</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T121718Z" creationid="Administrator" creationdate="20190224T121718Z">
+        <seg>OpenCV: 类列表t</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

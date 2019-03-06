@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.6.0" segtype="sentence" srclang="EN-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"black box" representation of the file storage associated with a file on disk</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T135918Z" creationid="Administrator" creationdate="20190224T135918Z">
+        <seg>"黑盒"表示存储在磁盘上的文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a0&gt;Board&lt;/a0&gt; of markers</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T140114Z" creationid="Administrator" creationdate="20190224T140114Z">
+        <seg>&lt;a0&gt;板块&lt;/a0&gt; 标签</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;Board&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T140020Z" creationid="Administrator" creationdate="20190224T140020Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;板块&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Board of markers.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T140045Z" creationid="Administrator" creationdate="20190224T140045Z">
+        <seg>板块标签.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ChArUco board Specific class for ChArUco boards.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T140254Z" creationid="Administrator" creationdate="20190224T140254Z">
+        <seg>ChArUco 板块类规范</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Class List</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T122129Z" creationid="Administrator" creationdate="20190224T122129Z">
+        <seg>类列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Here are the classes, structs, unions and interfaces with brief descriptions:</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T122920Z" creationid="Administrator" creationdate="20190224T122920Z">
+        <seg>以下简要描述 类，数据结构，接口:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open Source Computer Vision</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T121949Z" creationid="Administrator" creationdate="20190224T121949Z">
+        <seg>开放源代码计算版本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OpenCV-Python Tutorials</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T141140Z" creationid="Administrator" creationdate="20190224T141140Z">
+        <seg>OpenCV-Python 教程</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OpenCV: Class List</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T121718Z" creationid="Administrator" creationdate="20190224T121718Z">
+        <seg>OpenCV: 类列表t</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

@@ -1,0 +1,5 @@
+Denoising	去噪
+surrounded	包围
+Hough Line Transform	霍夫线变换
+Optical Flow	光流
+2D Convolution	2D 卷积	2D 卷积

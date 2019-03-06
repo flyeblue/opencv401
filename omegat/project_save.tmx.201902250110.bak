@@ -1,0 +1,833 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.6.0" segtype="sentence" srclang="EN-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"black box" representation of the file storage associated with a file on disk</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T135918Z" creationid="Administrator" creationdate="20190224T135918Z">
+        <seg>"黑盒"表示存储在磁盘上的文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"black box" representation of the file storage associated with a file on disk.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T143630Z" creationid="Administrator" creationdate="20190224T143630Z">
+        <seg>"黑盒" 表示与存储在磁盘上的文件.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a0&gt;Board&lt;/a0&gt; of markers</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T140114Z" creationid="Administrator" creationdate="20190224T140114Z">
+        <seg>&lt;a0&gt;板块&lt;/a0&gt; 标签</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a0&gt;Classes&lt;/a0&gt; | &lt;a1&gt;Enumerations&lt;/a1&gt; | &lt;a2&gt;Functions&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T161704Z" creationid="Administrator" creationdate="20190224T161704Z">
+        <seg>&lt;a0&gt;类&lt;/a0&gt; | &lt;a1&gt;枚举&lt;/a1&gt; | &lt;a2&gt;函数&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a0&gt;CommandLineParser&lt;/a0&gt; (const &lt;a1&gt;CommandLineParser&lt;/a1&gt; &amp;parser)</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T162400Z" creationid="Administrator" creationdate="20190224T162400Z">
+        <seg>&lt;a0&gt;命令行解析&lt;/a0&gt; (const &lt;a1&gt;CommandLineParser&lt;/a1&gt; &amp;parser)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a0&gt;More...&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T150047Z" creationid="Administrator" creationdate="20190224T150047Z">
+        <seg>&lt;a0&gt;更多...&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a0&gt;Public Member Functions&lt;/a0&gt; | &lt;a1&gt;Protected Member Functions&lt;/a1&gt; | &lt;a2&gt;Protected Attributes&lt;/a2&gt; | &lt;a3&gt;List of all members&lt;/a3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T150451Z" creationid="Administrator" creationdate="20190224T150451Z">
+        <seg>&lt;a0&gt;公共成员函数&lt;/a0&gt; | &lt;a1&gt;受保护的成员函数&lt;/a1&gt; | &lt;a2&gt;受保护的属性&lt;/a2&gt; | &lt;a3&gt;成员列表&lt;/a3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a0&gt;~Tracker&lt;/a0&gt; () &lt;a1&gt;CV_OVERRIDE&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T152320Z" creationid="Administrator" creationdate="20190224T152320Z">
+        <seg>&lt;a0&gt;~跟踪器&lt;/a0&gt; () &lt;a1&gt;CV_OVERRIDE&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;e0&gt;boundingBox&lt;/e0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T161137Z" creationid="Administrator" creationdate="20190224T161137Z">
+        <seg>&lt;e0&gt;边界框&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;Board&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T140020Z" creationid="Administrator" creationdate="20190224T140020Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;板块&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A line can be represented as \(y = mx+c\) or in a parametric form, as \(\rho = x \cos \theta + y \sin \theta\) where \(\rho\) is the perpendicular distance from the origin to the line, and \(\theta\) is the angle formed by this perpendicular line and the horizontal axis measured in counter-clockwise (That direction varies on how you represent the coordinate system.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T170507Z" creationid="Administrator" creationdate="20190224T170507Z">
+        <seg>一条线在x坐标系里表示为 \(y = mx+c\) 或者 在极坐标里表示为A line can be represented as \(y = mx+c\) or in a parametric form, as \(\rho = x \cos \theta + y \sin \theta\) where \(\rho\) is the perpendicular distance from the origin to the line, and \(\theta\) is the angle formed by this perpendicular line and the horizontal axis measured in counter-clockwise (That direction varies on how you represent the coordinate system.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Base abstract class for the long-term tracker:</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T154152Z" creationid="Administrator" creationdate="20190224T154152Z">
+        <seg>long-term跟踪器基础抽象类:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Base abstract class for the long-term tracker: &lt;a0&gt;More...&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T150818Z" creationid="Administrator" creationdate="20190224T150818Z">
+        <seg>long-term跟踪器抽象基础类: &lt;a0&gt;More...&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Board of markers.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T140045Z" creationid="Administrator" creationdate="20190224T140045Z">
+        <seg>板块标签.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Camera Calibration and 3D Reconstruction</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T164321Z" creationid="Administrator" creationdate="20190224T164321Z">
+        <seg>相机校准和3D重建</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ChArUco board Specific class for ChArUco boards.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T140254Z" creationid="Administrator" creationdate="20190224T140254Z">
+        <seg>ChArUco 板块类规范</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check the image below:</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T170750Z" creationid="Administrator" creationdate="20190224T170750Z">
+        <seg>检测下面的图片</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Class List</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T122129Z" creationid="Administrator" creationdate="20190224T122129Z">
+        <seg>类列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CommandLineParser</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T162308Z" creationid="Administrator" creationdate="20190224T162308Z">
+        <seg>命令行参数解析</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Computational Photography</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T164522Z" creationid="Administrator" creationdate="20190224T164522Z">
+        <seg>计算机摄影</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Constructor.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T162329Z" creationid="Administrator" creationdate="20190224T162329Z">
+        <seg>构造函数.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Core Operations</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T163347Z" creationid="Administrator" creationdate="20190224T163347Z">
+        <seg>Core操作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create a kernel package object containing kernels specified in variadic template argument.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T150033Z" creationid="Administrator" creationdate="20190224T150033Z">
+        <seg>创建一个带变量的核.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Destructor.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T162441Z" creationid="Administrator" creationdate="20190224T162441Z">
+        <seg>析构函数.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Detailed Description</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T154045Z" creationid="Administrator" creationdate="20190224T154045Z">
+        <seg>细节描述</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do you have a old degraded photo with many black spots and strokes on it?</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T142706Z" creationid="Administrator" creationdate="20190224T142706Z">
+        <seg>你有一张有很多黑点和划痕的旧照片?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Feature Detection and Description</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T163833Z" creationid="Administrator" creationdate="20190224T163833Z">
+        <seg>特征检测和描述</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Finds line segments in a binary image using the probabilistic Hough transform.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T165418Z" creationid="Administrator" creationdate="20190224T165418Z">
+        <seg>使用概率Hough变换在二进制图像中查找线段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Finds lines in a binary image using the standard Hough transform.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T165342Z" creationid="Administrator" creationdate="20190224T165342Z">
+        <seg>使用标准Hough变换在二进制图像中查找线条。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Functions</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T143714Z" creationid="Administrator" creationdate="20190224T143714Z">
+        <seg>函数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Goal</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T164934Z" creationid="Administrator" creationdate="20190224T164934Z">
+        <seg>目标</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gui Features in OpenCV</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T163159Z" creationid="Administrator" creationdate="20190224T163159Z">
+        <seg>OpenCV的GUI特性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Here are the classes, structs, unions and interfaces with brief descriptions:</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T122920Z" creationid="Administrator" creationdate="20190224T122920Z">
+        <seg>以下简要描述 类，数据结构，接口:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Here you will learn different OpenCV functionalities related to Computational Photography like image denoising etc.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T142123Z" creationid="Administrator" creationdate="20190224T141957Z">
+        <seg>这这里你将学习用于图片处理的不同函数，比如图片去噪等</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Here you will learn how to display and save images and videos, control mouse events and create trackbar.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T163333Z" creationid="Administrator" creationdate="20190224T163333Z">
+        <seg>这里你将学习如何显示、保存图片和视频，控制鼠标事件，创建trackbar。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hough Line Transform</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T165155Z" creationid="Administrator" creationdate="20190224T165155Z">
+        <seg>霍夫线变换</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Image Denoising</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T142236Z" creationid="Administrator" creationdate="20190224T142236Z">
+        <seg>图片去噪</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Image Inpainting</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T142417Z" creationid="Administrator" creationdate="20190224T142417Z">
+        <seg>图片修复</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Image Processing in OpenCV</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T163557Z" creationid="Administrator" creationdate="20190224T163557Z">
+        <seg>OpenCV的图片处理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this chapter,</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T164950Z" creationid="Administrator" creationdate="20190224T164950Z">
+        <seg>本章节，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this section we will learn about camera calibration, stereo imaging etc.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T164424Z" creationid="Administrator" creationdate="20190224T164424Z">
+        <seg>在本节中，我们将了解相机校准，立体声成像等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this section you will learn about feature detectors and descriptors</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T163940Z" creationid="Administrator" creationdate="20190224T163940Z">
+        <seg>在本节中，你将学习特征检测和描述</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this section you will learn basic operations on image like pixel editing, geometric transformations, code optimization, some mathematical tools etc.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T163537Z" creationid="Administrator" creationdate="20190224T163537Z">
+        <seg>在本节中， 你将学习图片的基本操作，如象素编辑、几何变换、代码优化、一些数学工具等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this section you will learn different computational photography techniques like image denoising etc.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T164546Z" creationid="Administrator" creationdate="20190224T164546Z">
+        <seg>在本节中，您将学习不同的计算摄影技术，如图像去噪等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this section you will learn different image processing functions inside OpenCV.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T163739Z" creationid="Administrator" creationdate="20190224T163739Z">
+        <seg>在本节中，你将学习OpenCV包含的不同处理图片的函数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this section you will learn different techniques to work with videos like object tracking etc.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T164234Z" creationid="Administrator" creationdate="20190224T164234Z">
+        <seg>本节中，你将学习使用类似对象跟踪等分析视频的技术</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this section you will object detection techniques like face detection etc.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T164633Z" creationid="Administrator" creationdate="20190224T164633Z">
+        <seg>在本节中，您将对象检测技术，如人脸检测等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this section, we will see how OpenCV-Python bindings are generated</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T164722Z" creationid="Administrator" creationdate="20190224T164722Z">
+        <seg>在本节中，我们将了解如何生成OpenCV-Python绑定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inheritance diagram for cv::Tracker:</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T151009Z" creationid="Administrator" creationdate="20190224T151009Z">
+        <seg>cv::Tracker 继承关系:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Initialize the tracker with a known bounding box that surrounded the target.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T154642Z" creationid="Administrator" creationdate="20190224T154642Z">
+        <seg>从一个已知的包含目标的范围框初始化跟踪器.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Introduction to OpenCV</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T163032Z" creationid="Administrator" creationdate="20190224T163032Z">
+        <seg>OpenCV序言</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It can detect the shape even if it is broken or distorted a little bit.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T165715Z" creationid="Administrator" creationdate="20190224T165715Z">
+        <seg>它可以检测到形状，即使它被破坏或扭曲一点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Learn how to merge exposure sequence and process high dynamic range images.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T143405Z" creationid="Administrator" creationdate="20190224T143405Z">
+        <seg>了解如何合并曝光顺序和处理高动态范围图像并.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Learn how to setup OpenCV-Python on your computer!</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T163109Z" creationid="Administrator" creationdate="20190224T163109Z">
+        <seg>学习如何在你的电脑上设置OpenCV-Python！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Let's try to restore them with a technique called image inpainting.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T142919Z" creationid="Administrator" creationdate="20190224T142919Z">
+        <seg>让我们用一种被称为图像修复的技术恢复它们.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Machine Learning</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T164443Z" creationid="Administrator" creationdate="20190224T164443Z">
+        <seg>机器学习</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Member Function Documentation</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T154326Z" creationid="Administrator" creationdate="20190224T154326Z">
+        <seg>成员函数文档</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note, that latter &lt;e0&gt;does not&lt;/e0&gt; imply that tracker has failed, maybe target is indeed missing from the frame (say, out of sight)</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T161023Z" creationid="Administrator" creationdate="20190224T161023Z">
+        <seg>注意, 后者 &lt;e0&gt;绝对不是&lt;/e0&gt; 暗示跟踪器失败, 可能目标确实从帧总丢失 (例如, 视线之外)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Object Detection</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T164603Z" creationid="Administrator" creationdate="20190224T164603Z">
+        <seg>目标检测</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open Source Computer Vision</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T121949Z" creationid="Administrator" creationdate="20190224T121949Z">
+        <seg>开放源代码计算版本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OpenCV-Python Bindings</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T164651Z" creationid="Administrator" creationdate="20190224T164651Z">
+        <seg>OpenCV-Python 绑定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OpenCV-Python Tutorials</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T141140Z" creationid="Administrator" creationdate="20190224T141140Z">
+        <seg>OpenCV-Python 教程</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OpenCV: Class List</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T121718Z" creationid="Administrator" creationdate="20190224T121718Z">
+        <seg>OpenCV: 类列表t</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OpenCV: Hough Line Transform</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T165222Z" creationid="Administrator" creationdate="20190224T165222Z">
+        <seg>OpenCV: 霍夫线变换</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Parameters</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T154701Z" creationid="Administrator" creationdate="20190224T154701Z">
+        <seg>参数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Protected Attributes</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T152740Z" creationid="Administrator" creationdate="20190224T152740Z">
+        <seg>受保护的属性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Protected Member Functions inherited from &lt;a0&gt;cv::Algorithm&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T152603Z" creationid="Administrator" creationdate="20190224T152603Z">
+        <seg>受保护的成员函数，继承自 &lt;a0&gt;cv::Algorithm&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Public Member Functions</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T152258Z" creationid="Administrator" creationdate="20190224T152258Z">
+        <seg>公共成员函数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reads algorithm parameters from a file storage.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T155422Z" creationid="Administrator" creationdate="20190224T155422Z">
+        <seg>从文件读取算法参数.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See a good technique to remove noises in images called Non-Local Means Denoising</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T142341Z" creationid="Administrator" creationdate="20190224T142341Z">
+        <seg>请参阅一种很好的技术来消除图像中的噪声，称为非局部均值去噪</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Static Public Member Functions inherited from &lt;a0&gt;cv::Algorithm&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T153707Z" creationid="Administrator" creationdate="20190224T153707Z">
+        <seg>静态公共成员函数，继承自 &lt;a0&gt;cv::Algorithm&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stores algorithm parameters in a file storage.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T161313Z" creationid="Administrator" creationdate="20190224T161313Z">
+        <seg>存储算法参数到文件.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Take it.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T142743Z" creationid="Administrator" creationdate="20190224T142743Z">
+        <seg>带上它.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Hough Transform is a popular technique to detect any shape, if you can represent that shape in a mathematical form.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T165639Z" creationid="Administrator" creationdate="20190224T165639Z">
+        <seg>如果您能够以数学形式表示形状，则霍夫变换是一种用于检测任何形状的流行技术</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The MIL algorithm trains a classifier in an online manner to separate the object from the background...</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T151901Z" creationid="Administrator" creationdate="20190224T151901Z">
+        <seg>MIL算法以在线方式训练分类器以将对象与背景分离...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The bounding box that represent the new target location, if true was returned, not modified otherwise</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T160304Z" creationid="Administrator" creationdate="20190224T160304Z">
+        <seg>建立一个新边界框，如果包含目标则返回，否则继续建立</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The current frame</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T155751Z" creationid="Administrator" creationdate="20190224T155751Z">
+        <seg>当前帧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The documentation for this class was generated from the following file:</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T161519Z" creationid="Administrator" creationdate="20190224T161519Z">
+        <seg>这个类的文档是从下面的文件生成的:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The initial bounding box</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T154853Z" creationid="Administrator" creationdate="20190224T154853Z">
+        <seg>初始化边界框</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The initial frame</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T154738Z" creationid="Administrator" creationdate="20190224T154738Z">
+        <seg>初始化帧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Theory</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T165544Z" creationid="Administrator" creationdate="20190224T165544Z">
+        <seg>理论</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This class is templated with the type of elements for which the index is built.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T161947Z" creationid="Administrator" creationdate="20190224T161947Z">
+        <seg>此类使用为其构建索引的元素类型进行模板化.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is a base class for all more or less complex algorithms in OpenCV.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T151316Z" creationid="Administrator" creationdate="20190224T151316Z">
+        <seg>这是 OpenCV 所有或复杂或简单算法的基础类.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This representation is used in OpenCV).</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T170710Z" creationid="Administrator" creationdate="20190224T170710Z">
+        <seg>此表示形式用于OpenCV）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tracking API</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T150609Z" creationid="Administrator" creationdate="20190224T150609Z">
+        <seg>跟踪轨迹API</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>True if initialization went succesfully, false otherwise</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T154950Z" creationid="Administrator" creationdate="20190224T154950Z">
+        <seg>初始化成功返回True, 其他返回False</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>True means that target was located and false means that tracker cannot locate target in current frame.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T160634Z" creationid="Administrator" creationdate="20190224T160634Z">
+        <seg>True 意味着标记目标成功，False 则是失败，在当前帧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Update the tracker, find the new most likely bounding box for the target.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T155719Z" creationid="Administrator" creationdate="20190224T155719Z">
+        <seg>更新跟踪器, 寻找更多包含类似目标的区域.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Video Analysis</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T163954Z" creationid="Administrator" creationdate="20190224T163954Z">
+        <seg>视频分析</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We will see how it works for a line.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T165807Z" creationid="Administrator" creationdate="20190224T165807Z">
+        <seg>我们将弄明白怎么找线</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We will see how to use it to detect lines in an image.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T165307Z" creationid="Administrator" creationdate="20190224T165307Z">
+        <seg>我们将看到如何使用它来检测图像中的线条。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We will see the following functions: &lt;b0&gt;&lt;a1&gt;cv.HoughLines()&lt;/a1&gt;&lt;/b0&gt;, &lt;b2&gt;&lt;a3&gt;cv.HoughLinesP()&lt;/a3&gt;&lt;/b2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T165529Z" creationid="Administrator" creationdate="20190224T165529Z">
+        <seg>我们将弄明白以下函数： &lt;b0&gt;&lt;a1&gt;cv.HoughLines()&lt;/a1&gt;&lt;/b0&gt;，&lt;b2&gt;&lt;a3&gt;cv.HoughLinesP()&lt;/a3&gt;&lt;/b2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We will understand the concept of the Hough Transform.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T165057Z" creationid="Administrator" creationdate="20190224T165057Z">
+        <seg>我们将理解霍夫变换的概念。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>boundingBox</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T154820Z" creationid="Administrator" creationdate="20190224T154820Z">
+        <seg>边界框</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>const</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T161226Z" creationid="Administrator" creationdate="20190224T161226Z">
+        <seg>常量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>const &lt;a0&gt;Mat&lt;/a0&gt; &amp;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T161119Z" creationid="Administrator" creationdate="20190224T161119Z">
+        <seg>常量&lt;a0&gt;Mat&lt;/a0&gt; &amp;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>cv::Tracker Class Reference&lt;s0&gt;&lt;s1&gt;abstract&lt;/s1&gt;&lt;/s0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T150540Z" creationid="Administrator" creationdate="20190224T150540Z">
+        <seg>cv::Tracker Class Reference&lt;s0&gt;&lt;s1&gt;抽象&lt;/s1&gt;&lt;/s0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>static &lt;a0&gt;Ptr&lt;/a0&gt;&lt; _Tp &gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T153736Z" creationid="Administrator" creationdate="20190224T153736Z">
+        <seg>静态的 &lt;a0&gt;Ptr&lt;/a0&gt;&lt; _Tp &gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>template&lt;typename _Tp &gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T153718Z" creationid="Administrator" creationdate="20190224T153718Z">
+        <seg>模板&lt;typename _Tp &gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the GOTURN (Generic Object Tracking Using Regression Networks) tracker</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T151534Z" creationid="Administrator" creationdate="20190224T151534Z">
+        <seg>the GOTURN (Generic Object Tracking Using Regression Networks) 追踪器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the MOSSE (Minimum Output Sum of Squared Error) tracker</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T152120Z" creationid="Administrator" creationdate="20190224T152120Z">
+        <seg>the MOSSE ( Minimum Output Sum of Squared Error)追踪器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the Median Flow tracker</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T151625Z" creationid="Administrator" creationdate="20190224T151625Z">
+        <seg>the Median Flow 追踪器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the TLD (Tracking, learning and detection) tracker</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="Administrator" changedate="20190224T152206Z" creationid="Administrator" creationdate="20190224T152206Z">
+        <seg>the GOTURN (Generic Object Tracking Using Regression Networks) 追踪器</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
