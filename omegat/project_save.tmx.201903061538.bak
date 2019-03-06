@@ -286,22 +286,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>*(NB : Centroid, Area, Perimeter etc also belong to this category, but we have seen it in last chapter)*</seg>
-      </tuv>
-      <tuv lang="ZH" changeid="flyeblue" changedate="20190306T095006Z" creationid="flyeblue" creationdate="20190306T095006Z">
-        <seg>*(NB：Centroid，Area，Perimeter等也属于这个类别，但我们在上一章已经看过了)*</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>../../search/search.css</seg>
-      </tuv>
-      <tuv lang="ZH" changeid="flyeblue" changedate="20190306T093022Z" creationid="flyeblue" creationdate="20190306T093022Z">
-        <seg>../../搜索/search.css</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>2D Convolution ( Image Filtering )</seg>
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190305T181113Z" creationid="Administrator" creationdate="20190305T181113Z">
@@ -874,14 +858,6 @@
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190304T175330Z" creationid="Administrator" creationdate="20190304T175330Z">
         <seg>像往常一样，我们必须使用函数， &lt;b0&gt;&lt;a1&gt;cv.ORB()&lt;/a1&gt;&lt;/b0&gt; 或者使用feature2d公共接口创建一个ORB对象。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Aspect Ratio</seg>
-      </tuv>
-      <tuv lang="ZH" changeid="flyeblue" changedate="20190306T095047Z" creationid="flyeblue" creationdate="20190306T095047Z">
-        <seg>纵横比</seg>
       </tuv>
     </tu>
     <tu>
@@ -1798,22 +1774,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Equivalent Diameter</seg>
-      </tuv>
-      <tuv lang="ZH" changeid="flyeblue" changedate="20190306T095950Z" creationid="flyeblue" creationdate="20190306T095950Z">
-        <seg>等效直径</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Equivalent Diameter is the diameter of the circle whose area is same as the contour area.</seg>
-      </tuv>
-      <tuv lang="ZH" changeid="flyeblue" changedate="20190306T100026Z" creationid="flyeblue" creationdate="20190306T100026Z">
-        <seg>等效直径是圆的直径，其面积与轮廓面积相同.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Erosion is just another method to extract sure foreground area, that's all.)</seg>
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190305T151148Z" creationid="Administrator" creationdate="20190305T151148Z">
@@ -1858,38 +1818,6 @@
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190305T122823Z" creationid="Administrator" creationdate="20190305T122823Z">
         <seg>曝光融合.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Extent</seg>
-      </tuv>
-      <tuv lang="ZH" changeid="flyeblue" changedate="20190306T095211Z" creationid="flyeblue" creationdate="20190306T095211Z">
-        <seg>范围</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Extent is the ratio of contour area to bounding rectangle area.</seg>
-      </tuv>
-      <tuv lang="ZH" changeid="flyeblue" changedate="20190306T095242Z" creationid="flyeblue" creationdate="20190306T095242Z">
-        <seg>范围是轮廓区域与边界矩形区域的比率.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Extreme Points</seg>
-      </tuv>
-      <tuv lang="ZH" changeid="flyeblue" changedate="20190306T102749Z" creationid="flyeblue" creationdate="20190306T102749Z">
-        <seg>极值点</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Extreme Points means topmost, bottommost, rightmost and leftmost points of the object.</seg>
-      </tuv>
-      <tuv lang="ZH" changeid="flyeblue" changedate="20190306T103051Z" creationid="flyeblue" creationdate="20190306T103051Z">
-        <seg>极值点表示对象的最顶部，最底部，最右侧和最左侧的点.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2002,14 +1930,6 @@
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190305T092132Z" creationid="Administrator" creationdate="20190305T092132Z">
         <seg>首先，像往常一样，让我们在图像中找到SIFT特征并应用比率测试来找到最佳匹配。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Following method also gives the Major Axis and Minor Axis lengths.</seg>
-      </tuv>
-      <tuv lang="ZH" changeid="flyeblue" changedate="20190306T100422Z" creationid="flyeblue" creationdate="20190306T100422Z">
-        <seg>以下方法还给出了主轴和短轴长度.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2374,14 +2294,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Here we will learn to extract some frequently used properties of objects like Solidity, Equivalent Diameter, Mask image, Mean Intensity etc.</seg>
-      </tuv>
-      <tuv lang="ZH" changeid="flyeblue" changedate="20190306T094753Z" creationid="flyeblue" creationdate="20190306T094753Z">
-        <seg>在这里，我们将学习提取一些常用的对象属性，如Solidity，Equivalent Diameter，Mask image，Mean Intensity等</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Here you will learn different OpenCV functionalities related to Computational Photography like image denoising etc.</seg>
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190224T142123Z" creationid="Administrator" creationdate="20190224T141957Z">
@@ -2402,22 +2314,6 @@
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190305T194231Z" creationid="Administrator" creationdate="20190305T194231Z">
         <seg>函数 &lt;b0&gt;&lt;a1&gt;cv.medianBlur()&lt;/a1&gt;&lt;/b0&gt; 获取内核区域下所有像素的中值，并用该中值替换中心元素.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Here, two methods, one using Numpy functions, next one using OpenCV function (last commented line) are given to do the same.</seg>
-      </tuv>
-      <tuv lang="ZH" changeid="flyeblue" changedate="20190306T100919Z" creationid="flyeblue" creationdate="20190306T100919Z">
-        <seg>这里有两个方法，一个使用Numpy函数，另一个使用OpenCV函数（最后一个注释行）给出相同的方法.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Here, we can find the average color of an object.</seg>
-      </tuv>
-      <tuv lang="ZH" changeid="flyeblue" changedate="20190306T102320Z" creationid="flyeblue" creationdate="20190306T102320Z">
-        <seg>在这里，我们可以找到对象的平均颜色.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2886,14 +2782,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>In some cases, we may need all the points which comprises that object.</seg>
-      </tuv>
-      <tuv lang="ZH" changeid="flyeblue" changedate="20190306T100733Z" creationid="flyeblue" creationdate="20190306T100733Z">
-        <seg>在某些情况下，我们可能需要包含该对象的所有点.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>In that case, for matching, NORM_HAMMING distance is used.</seg>
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190304T175846Z" creationid="Administrator" creationdate="20190304T175846Z">
@@ -3182,14 +3070,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>It can be done as follows:</seg>
-      </tuv>
-      <tuv lang="ZH" changeid="flyeblue" changedate="20190306T100800Z" creationid="flyeblue" creationdate="20190306T100800Z">
-        <seg>它可以如下完成:</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>It can be following types:</seg>
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190305T173609Z" creationid="Administrator" creationdate="20190305T173609Z">
@@ -3346,14 +3226,6 @@
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190305T073725Z" creationid="Administrator" creationdate="20190305T073725Z">
         <seg>它是我们计算直方图的通道索引。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>It is the ratio of width to height of bounding rect of the object.</seg>
-      </tuv>
-      <tuv lang="ZH" changeid="flyeblue" changedate="20190306T095153Z" creationid="flyeblue" creationdate="20190306T095153Z">
-        <seg>它是对象的边界矩形的宽度与高度之比.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3694,14 +3566,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Logo</seg>
-      </tuv>
-      <tuv lang="ZH" changeid="flyeblue" changedate="20190306T093026Z" creationid="flyeblue" creationdate="20190306T093026Z">
-        <seg>徽标</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Long Way : use OpenCV drawing functions</seg>
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190305T081626Z" creationid="Administrator" creationdate="20190305T081626Z">
@@ -3726,34 +3590,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Mask and Pixel Points</seg>
-      </tuv>
-      <tuv lang="ZH" changeid="flyeblue" changedate="20190306T100621Z" creationid="flyeblue" creationdate="20190306T100621Z">
-        <seg>蒙版和像素点</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Matplotlib comes with a histogram plotting function : matplotlib.pyplot.hist()</seg>
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190305T082047Z" creationid="Administrator" creationdate="20190305T082047Z">
         <seg>Matplotlib附带直方图绘图功能：: matplotlib.pyplot.hist()</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Maximum Value, Minimum Value and their locations</seg>
-      </tuv>
-      <tuv lang="ZH" changeid="flyeblue" changedate="20190306T101647Z" creationid="flyeblue" creationdate="20190306T101647Z">
-        <seg>最大值，最小值及其位置</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Mean Color or Mean Intensity</seg>
-      </tuv>
-      <tuv lang="ZH" changeid="flyeblue" changedate="20190306T102146Z" creationid="flyeblue" creationdate="20190306T102146Z">
-        <seg>平均颜色或平均强度</seg>
       </tuv>
     </tu>
     <tu>
@@ -3794,14 +3634,6 @@
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190305T114012Z" creationid="Administrator" creationdate="20190305T114012Z">
         <seg>使用Mertens融合合并曝光</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>More features can be found at &lt;a0&gt;Matlab regionprops documentation&lt;/a0&gt;.</seg>
-      </tuv>
-      <tuv lang="ZH" changeid="flyeblue" changedate="20190306T094816Z" creationid="flyeblue" creationdate="20190306T094816Z">
-        <seg>更多 功能 可以查看&lt;a0&gt;Matlab regionprops 文档&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3874,14 +3706,6 @@
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190304T131126Z" creationid="Administrator" creationdate="20190304T131126Z">
         <seg>备注</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Note that, &lt;b0&gt;row = x&lt;/b0&gt; and &lt;b1&gt;column = y&lt;/b1&gt;.</seg>
-      </tuv>
-      <tuv lang="ZH" changeid="flyeblue" changedate="20190306T101353Z" creationid="flyeblue" creationdate="20190306T101353Z">
-        <seg>注意, &lt;b0&gt;row = x&lt;/b0&gt; and &lt;b1&gt;column = y&lt;/b1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4018,14 +3842,6 @@
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190305T075707Z" creationid="Administrator" creationdate="20190305T075707Z">
         <seg>Numpy 当然提供了相应的函数 &lt;b0&gt;np.histogram()&lt;/b0&gt;.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Numpy gives coordinates in **(row, column)** format, while OpenCV gives coordinates in **(x,y)** format.</seg>
-      </tuv>
-      <tuv lang="ZH" changeid="flyeblue" changedate="20190306T101515Z" creationid="flyeblue" creationdate="20190306T101047Z">
-        <seg>Numpy以**(row, column)**格式给出坐标，而OpenCV给出**(x,y)** 格式的坐标.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4302,14 +4118,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>OpenCV: Contour Properties</seg>
-      </tuv>
-      <tuv lang="ZH" changeid="flyeblue" changedate="20190306T093019Z" creationid="flyeblue" creationdate="20190306T093019Z">
-        <seg>OpenCV: 分布图 属性</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>OpenCV: Contours : Getting Started</seg>
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190306T030054Z" creationid="Administrator" creationdate="20190306T030054Z">
@@ -4390,34 +4198,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Or it can be average intensity of the object in grayscale mode.</seg>
-      </tuv>
-      <tuv lang="ZH" changeid="flyeblue" changedate="20190306T102442Z" creationid="flyeblue" creationdate="20190306T102442Z">
-        <seg>或者它可以是灰度模式下对象的平均强度.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Or you can use normal plot of matplotlib, which would be good for BGR plot.</seg>
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190305T084222Z" creationid="Administrator" creationdate="20190305T084222Z">
         <seg>或者你可以使用matplotlib的正常图，这对BGR图有好处。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Orientation</seg>
-      </tuv>
-      <tuv lang="ZH" changeid="flyeblue" changedate="20190306T100150Z" creationid="flyeblue" creationdate="20190306T100150Z">
-        <seg>取向</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Orientation is the angle at which object is directed.</seg>
-      </tuv>
-      <tuv lang="ZH" changeid="flyeblue" changedate="20190306T100235Z" creationid="flyeblue" creationdate="20190306T100235Z">
-        <seg>方向是对象定向的角度.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4594,14 +4378,6 @@
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190305T144208Z" creationid="Administrator" creationdate="20190305T144208Z">
         <seg>结果:</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Results are also same, but with a slight difference.</seg>
-      </tuv>
-      <tuv lang="ZH" changeid="flyeblue" changedate="20190306T101003Z" creationid="flyeblue" creationdate="20190306T101003Z">
-        <seg>结果也相同，但略有不同.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4810,14 +4586,6 @@
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190304T133906Z" creationid="Administrator" creationdate="20190304T133906Z">
         <seg>所以最好用OpenCV函数</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>So basically the answers will be interchanged.</seg>
-      </tuv>
-      <tuv lang="ZH" changeid="flyeblue" changedate="20190306T101248Z" creationid="flyeblue" creationdate="20190306T101248Z">
-        <seg>所以答案基本上是互换的.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5066,22 +4834,6 @@
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190305T144718Z" creationid="Administrator" creationdate="20190305T144718Z">
         <seg>所以，现在我们确切地知道靠近物体中心的区域是前景，而远离物体的区域是背景。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Solidity</seg>
-      </tuv>
-      <tuv lang="ZH" changeid="flyeblue" changedate="20190306T095742Z" creationid="flyeblue" creationdate="20190306T095742Z">
-        <seg>密实度</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Solidity is the ratio of contour area to its convex hull area.</seg>
-      </tuv>
-      <tuv lang="ZH" changeid="flyeblue" changedate="20190306T095832Z" creationid="flyeblue" creationdate="20190306T095832Z">
-        <seg>Solidity是轮廓区域与其凸包区域的比率.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5530,14 +5282,6 @@
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190305T104550Z" creationid="Administrator" creationdate="20190305T104550Z">
         <seg>获得HDR图像的方法有很多种，但最常见的方法是使用不同曝光值拍摄的场景照片。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>There are still some features left in matlab regionprops doc.</seg>
-      </tuv>
-      <tuv lang="ZH" changeid="flyeblue" changedate="20190306T103124Z" creationid="flyeblue" creationdate="20190306T103124Z">
-        <seg>matlab regionprops doc中还有一些功能.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6070,14 +5814,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>We again use the same mask to do it.</seg>
-      </tuv>
-      <tuv lang="ZH" changeid="flyeblue" changedate="20190306T102600Z" creationid="flyeblue" creationdate="20190306T102600Z">
-        <seg>我们再次使用相同的掩码来完成它.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>We already saw that gaussian filter takes the a neighbourhood around the pixel and find its gaussian weighted average.</seg>
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190306T023752Z" creationid="Administrator" creationdate="20190306T023752Z">
@@ -6106,14 +5842,6 @@
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190305T145833Z" creationid="Administrator" creationdate="20190305T145833Z">
         <seg>我们称之为边界.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>We can find these parameters using a mask image.</seg>
-      </tuv>
-      <tuv lang="ZH" changeid="flyeblue" changedate="20190306T102032Z" creationid="flyeblue" creationdate="20190306T102032Z">
-        <seg>我们可以使用掩模图像找到这些参数.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6618,14 +6346,6 @@
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190305T074943Z" creationid="Administrator" creationdate="20190305T074943Z">
         <seg>histSize : 这代表了我们的BIN计数。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>http://www.mathworks.in/help/images/ref/regionprops.html</seg>
-      </tuv>
-      <tuv lang="ZH" changeid="flyeblue" changedate="20190306T093033Z" creationid="flyeblue" creationdate="20190306T093033Z">
-        <seg>http://www.mathworks.in/帮助/images/ref/regionprops.html</seg>
       </tuv>
     </tu>
     <tu>
