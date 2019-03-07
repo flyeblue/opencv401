@@ -6830,6 +6830,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;TrainData&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T113916Z" creationid="flyeblue" creationdate="20190307T113916Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;TrainData&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;TransientAreasSegmentationModule&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060006Z" creationid="flyeblue" creationdate="20190307T060006Z">
@@ -10006,6 +10014,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;C&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;MultiCameraCalibration&lt;/a3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T114017Z" creationid="flyeblue" creationdate="20190307T114017Z">
+        <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;C&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;MultiCameraCalibration&lt;/a3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;C&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;OCLCallHelper&lt; Impl, std::tuple&lt; Ins... &gt;, std::tuple&lt; Outs... &gt; &gt;&lt;/a3&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T075315Z" creationid="flyeblue" creationdate="20190307T075315Z">
@@ -10338,6 +10354,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T111059Z" creationid="flyeblue" creationdate="20190307T111059Z">
         <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;N&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;ml&lt;/a3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;N&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;multicalib&lt;/a3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T114016Z" creationid="flyeblue" creationdate="20190307T114016Z">
+        <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;N&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;multicalib&lt;/a3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11830,6 +11854,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Class encapsulating training data</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T114013Z" creationid="flyeblue" creationdate="20190307T114013Z">
+        <seg>封装训练数据的类</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Class for multiple camera calibration that supports pinhole camera and omnidirection camera.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T114042Z" creationid="flyeblue" creationdate="20190307T114042Z">
+        <seg>用于多摄像机校准的类，支持针孔摄像机和全向摄像机.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Class implementing the &lt;a0&gt;ORB&lt;/a0&gt; (&lt;e1&gt;oriented BRIEF&lt;/e1&gt;) keypoint detector and descriptor extractor</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T063911Z" creationid="flyeblue" creationdate="20190307T063911Z">
@@ -12786,6 +12826,14 @@
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190304T141957Z" creationid="Administrator" creationdate="20190304T141957Z">
         <seg>为了更加理解，请在上面的代码中显示所有中间图像，尤其是img1_bg和img2_fg。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For omnidirectional camera model, please refer to &lt;a0&gt;omnidir.hpp&lt;/a0&gt; in ccalib module.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T114139Z" creationid="flyeblue" creationdate="20190307T114100Z">
+        <seg>对于全向摄像机型号，请参考ccalib模块中的&lt;a0&gt;&lt;/a0&gt; omnidir.hpp &lt;/ a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14074,6 +14122,14 @@
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190306T044545Z" creationid="Administrator" creationdate="20190306T044545Z">
         <seg>它通过Shi-Tomasi方法（或Harris角点检测，如果你指定它）在图像中找到N个最强角.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It first calibrate each camera individually, then a bundle adjustment like optimization is applied to refine extrinsic parameters.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T114122Z" creationid="flyeblue" creationdate="20190307T114122Z">
+        <seg>It first calibrate each camera individually, then a bundle adjustment like optimization is applied to refine extrinsic parameters.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16210,6 +16266,14 @@
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190224T153707Z" creationid="Administrator" creationdate="20190224T153707Z">
         <seg>静态公共成员函数，继承自 &lt;a0&gt;cv::Algorithm&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stochastic Gradient Descent &lt;a0&gt;SVM&lt;/a0&gt; classifier</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T113914Z" creationid="flyeblue" creationdate="20190307T113850Z">
+        <seg>随机梯度下降&lt;a0&gt; SVM &lt;/a0&gt;分类器</seg>
       </tuv>
     </tu>
     <tu>
@@ -21246,6 +21310,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d4/dc7/classcv_1_1multicalib_1_1MultiCameraCalibration.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T114016Z" creationid="flyeblue" creationdate="20190307T114016Z">
+        <seg>d4/dc7/classcv_1_1multicalib_1_1MultiCameraCalibration.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d4/dd0/structcv_1_1cudev_1_1plus.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T070559Z" creationid="flyeblue" creationdate="20190307T070559Z">
@@ -23574,6 +23646,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d8/db8/namespacecv_1_1multicalib.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T114015Z" creationid="flyeblue" creationdate="20190307T114015Z">
+        <seg>d8/db8/namespacecv_1_1multicalib.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d8/db9/namespacecv_1_1cudev_1_1functional__detail.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T064739Z" creationid="flyeblue" creationdate="20190307T064739Z">
@@ -25278,6 +25358,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>db/d62/omnidir_8hpp.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T114019Z" creationid="flyeblue" creationdate="20190307T114019Z">
+        <seg>db/d62/omnidir_8hpp.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>db/d77/structcv_1_1cudev_1_1BinaryTransformPtr.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T065548Z" creationid="flyeblue" creationdate="20190307T065548Z">
@@ -25674,6 +25762,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T075430Z" creationid="flyeblue" creationdate="20190307T075430Z">
         <seg>dc/d2c/structcv_1_1detail_1_1ProjectorBase.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>dc/d32/classcv_1_1ml_1_1TrainData.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T113853Z" creationid="flyeblue" creationdate="20190307T113853Z">
+        <seg>dc/d32/classcv_1_1ml_1_1TrainData.html</seg>
       </tuv>
     </tu>
     <tu>
