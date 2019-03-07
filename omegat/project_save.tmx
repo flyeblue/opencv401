@@ -17878,6 +17878,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>TextDetectorCNN class provides the functionallity of text bounding box detection.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T145754Z" creationid="flyeblue" creationdate="20190307T145754Z">
+        <seg>文本检测CNN类提供文本边界框检测功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>That is our marker.</seg>
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190305T143040Z" creationid="Administrator" creationdate="20190305T143040Z">
