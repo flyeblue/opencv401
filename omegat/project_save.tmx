@@ -5286,6 +5286,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;Objectness&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T124709Z" creationid="flyeblue" creationdate="20190307T124709Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;Objectness&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;ObjectnessBING&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T124816Z" creationid="flyeblue" creationdate="20190307T124816Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;ObjectnessBING&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;Odometry&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T124321Z" creationid="flyeblue" creationdate="20190307T124321Z">
@@ -13246,6 +13262,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fast Self-tuning Background Subtraction &lt;a0&gt;Algorithm&lt;/a0&gt; from &lt;a1&gt;[212]&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T124814Z" creationid="flyeblue" creationdate="20190307T124549Z">
+        <seg>快速自整定背景减法&lt;a0&gt;算法&lt;/a0&gt;来自&lt;a1&gt; [212] &lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Feature Detection and Description</seg>
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190224T163833Z" creationid="Administrator" creationdate="20190224T163833Z">
@@ -20366,6 +20390,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d1/d82/classcv_1_1saliency_1_1Objectness.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T124553Z" creationid="flyeblue" creationdate="20190307T124553Z">
+        <seg>d1/d82/classcv_1_1saliency_1_1Objectness.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d1/d8a/structcv_1_1cudev_1_1PyrDownBody.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T070620Z" creationid="flyeblue" creationdate="20190307T070620Z">
@@ -26778,6 +26810,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T114019Z" creationid="flyeblue" creationdate="20190307T114019Z">
         <seg>db/d62/omnidir_8hpp.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>db/d63/classcv_1_1saliency_1_1ObjectnessBING.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T124816Z" creationid="flyeblue" creationdate="20190307T124816Z">
+        <seg>db/d63/classcv_1_1saliency_1_1ObjectnessBING.html</seg>
       </tuv>
     </tu>
     <tu>
