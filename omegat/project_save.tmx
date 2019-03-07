@@ -1438,6 +1438,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;BlockMeanHash&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T105041Z" creationid="flyeblue" creationdate="20190307T105041Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;BlockMeanHash&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;BlocksGainCompensator&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072744Z" creationid="flyeblue" creationdate="20190307T072744Z">
@@ -1626,6 +1634,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T052804Z" creationid="flyeblue" creationdate="20190307T052804Z">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;CharucoBoard&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;ColorMomentHash&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T105119Z" creationid="flyeblue" creationdate="20190307T105119Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;ColorMomentHash&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3494,6 +3510,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;ImgHashBase&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T105144Z" creationid="flyeblue" creationdate="20190307T105144Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;ImgHashBase&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;Index&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T104207Z" creationid="flyeblue" creationdate="20190307T104207Z">
@@ -4458,6 +4482,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T070421Z" creationid="flyeblue" creationdate="20190307T070421Z">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;MakeVec&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;MarrHildrethHash&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T105347Z" creationid="flyeblue" creationdate="20190307T105347Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;MarrHildrethHash&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13014,6 +13046,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Image hash based on block mean</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T105117Z" creationid="flyeblue" creationdate="20190307T105117Z">
+        <seg>基于块均值的图像哈希</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Image hash based on color moments</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T105140Z" creationid="flyeblue" creationdate="20190307T105140Z">
+        <seg>基于颜色矩的图像哈希</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Image properties include number of rows, columns and channels, type of image data, number of pixels etc.</seg>
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190305T162433Z" creationid="Administrator" creationdate="20190305T162433Z">
@@ -15850,6 +15898,14 @@
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190304T161329Z" creationid="Administrator" creationdate="20190304T161329Z">
         <seg>该算法返回产生最佳紧凑性的标签。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The base class for image hash algorithms</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T105342Z" creationid="flyeblue" creationdate="20190307T105342Z">
+        <seg>图像哈希算法的基类</seg>
       </tuv>
     </tu>
     <tu>
@@ -25254,6 +25310,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>dd/d00/classcv_1_1img__hash_1_1MarrHildrethHash.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T105342Z" creationid="flyeblue" creationdate="20190307T105342Z">
+        <seg>dd/d00/classcv_1_1img__hash_1_1MarrHildrethHash.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>dd/d00/structcv_1_1cudev_1_1BGR__to__HSV__FULL__func_3_01float_01_4.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T065012Z" creationid="flyeblue" creationdate="20190307T065012Z">
@@ -25954,6 +26018,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T092807Z" creationid="flyeblue" creationdate="20190307T092807Z">
         <seg>de/d24/classcv_1_1dnn_1_1ShuffleChannelLayer.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>de/d29/classcv_1_1img__hash_1_1ImgHashBase.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T105143Z" creationid="flyeblue" creationdate="20190307T105143Z">
+        <seg>de/d29/classcv_1_1img__hash_1_1ImgHashBase.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -26674,6 +26746,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T070314Z" creationid="flyeblue" creationdate="20190307T070314Z">
         <seg>df/d4b/structcv_1_1cudev_1_1LBGRA__to__Luv4__func.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>df/d52/classcv_1_1img__hash_1_1ColorMomentHash.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T105118Z" creationid="flyeblue" creationdate="20190307T105118Z">
+        <seg>df/d52/classcv_1_1img__hash_1_1ColorMomentHash.html</seg>
       </tuv>
     </tu>
     <tu>
