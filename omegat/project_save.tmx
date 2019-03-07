@@ -16366,6 +16366,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>OCRTesseract class provides an interface with the tesseract-ocr API (v3.02.02) in C++...</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T144105Z" creationid="flyeblue" creationdate="20190307T144105Z">
+        <seg>OCRTesseract类在C ++中提供了与tesseract-ocr API（v3.02.02）的接口...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>OPENNI</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T052641Z" creationid="flyeblue" creationdate="20190307T052641Z">
