@@ -31038,10 +31038,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>https://github.com/MhLiao/TextBoxes</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T151124Z" creationid="flyeblue" creationdate="20190307T151124Z">
+        <seg>https://github.com/MhLiao/TextBoxes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>https://github.com/cdmh/deeplab-public</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T080701Z" creationid="flyeblue" creationdate="20190307T080701Z">
         <seg>https://github.com/cdmh/deeplab-public</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>https://www.dropbox.com/s/g8pjzv2de9gty8g/TextBoxes_icdar13.caffemodel?dl=0</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T151152Z" creationid="flyeblue" creationdate="20190307T151152Z">
+        <seg>https://www.dropbox.com/s/g8pjzv2de9gty8g/TextBoxes_icdar13.caffemodel?dl=0</seg>
       </tuv>
     </tu>
     <tu>
