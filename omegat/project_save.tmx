@@ -4446,6 +4446,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;PaddingLayer&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T092534Z" creationid="flyeblue" creationdate="20190307T092534Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;PaddingLayer&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;PairwiseSeamFinder&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T075324Z" creationid="flyeblue" creationdate="20190307T075324Z">
@@ -4498,6 +4506,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072229Z" creationid="flyeblue" creationdate="20190307T072229Z">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;PascalPart&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;PermuteLayer&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T092634Z" creationid="flyeblue" creationdate="20190307T092634Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;PermuteLayer&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4558,10 +4574,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;PoolingLayer&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T092635Z" creationid="flyeblue" creationdate="20190307T092635Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;PoolingLayer&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;PowerLayer&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T092636Z" creationid="flyeblue" creationdate="20190307T092636Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;PowerLayer&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;PriorBoxLayer&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T092637Z" creationid="flyeblue" creationdate="20190307T092637Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;PriorBoxLayer&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;ProjectorBase&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T075606Z" creationid="flyeblue" creationdate="20190307T075606Z">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;ProjectorBase&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;ProposalLayer&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T092639Z" creationid="flyeblue" creationdate="20190307T092639Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;ProposalLayer&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5318,6 +5366,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;ReLU6Layer&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T092646Z" creationid="flyeblue" creationdate="20190307T092646Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;ReLU6Layer&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;ReLULayer&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T092646Z" creationid="flyeblue" creationdate="20190307T092646Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;ReLULayer&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;ReduceToColumnBody&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T070623Z" creationid="flyeblue" creationdate="20190307T070623Z">
@@ -5330,6 +5394,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T070624Z" creationid="flyeblue" creationdate="20190307T070624Z">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;ReduceToRowBody&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;RegionLayer&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T092642Z" creationid="flyeblue" creationdate="20190307T092642Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;RegionLayer&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5362,6 +5434,30 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T070626Z" creationid="flyeblue" creationdate="20190307T070626Z">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;RemapPtr2Sz&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;ReorgLayer&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T092647Z" creationid="flyeblue" creationdate="20190307T092647Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;ReorgLayer&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;ReshapeLayer&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T092648Z" creationid="flyeblue" creationdate="20190307T092648Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;ReshapeLayer&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;ResizeLayer&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T092649Z" creationid="flyeblue" creationdate="20190307T092649Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;ResizeLayer&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9402,6 +9498,14 @@
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190305T104732Z" creationid="Administrator" creationdate="20190305T104732Z">
         <seg>当场景或相机的物体在镜头之间移动时会出现额外的复杂性，因为应该注册和对齐具有不同曝光的图像.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adds extra values for specific axes</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T092633Z" creationid="flyeblue" creationdate="20190307T092633Z">
+        <seg>为特定轴添加额外值</seg>
       </tuv>
     </tu>
     <tu>
@@ -17334,6 +17438,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d1/d21/classcv_1_1dnn_1_1RegionLayer.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T092640Z" creationid="flyeblue" creationdate="20190307T092640Z">
+        <seg>d1/d21/classcv_1_1dnn_1_1RegionLayer.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d1/d27/structcv_1_1cudev_1_1HLS4__to__RGB__func.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T070008Z" creationid="flyeblue" creationdate="20190307T070008Z">
@@ -17886,6 +17998,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d2/d3c/classcv_1_1dnn_1_1PermuteLayer.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T092633Z" creationid="flyeblue" creationdate="20190307T092633Z">
+        <seg>d2/d3c/classcv_1_1dnn_1_1PermuteLayer.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d2/d40/structcv_1_1cudev_1_1TransposeBody.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072133Z" creationid="flyeblue" creationdate="20190307T072133Z">
@@ -18058,6 +18178,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T073828Z" creationid="flyeblue" creationdate="20190307T073828Z">
         <seg>d2/d9a/structcv_1_1detail_1_1MatchesInfo.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d2/da0/classcv_1_1dnn_1_1PowerLayer.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T092635Z" creationid="flyeblue" creationdate="20190307T092635Z">
+        <seg>d2/da0/classcv_1_1dnn_1_1PowerLayer.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -19238,6 +19366,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d4/db2/classcv_1_1dnn_1_1PaddingLayer.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T092533Z" creationid="flyeblue" creationdate="20190307T092533Z">
+        <seg>d4/db2/classcv_1_1dnn_1_1PaddingLayer.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d4/db3/structcv_1_1detail_1_1is__meta__descr_3_01GMatDesc_01_4.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T073826Z" creationid="flyeblue" creationdate="20190307T073826Z">
@@ -20226,6 +20362,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T065528Z" creationid="flyeblue" creationdate="20190307T065528Z">
         <seg>d6/da1/structcv_1_1cudev_1_1BGRA__to__HSV4__FULL__func.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d6/da3/classcv_1_1dnn_1_1ReorgLayer.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T092647Z" creationid="flyeblue" creationdate="20190307T092647Z">
+        <seg>d6/da3/classcv_1_1dnn_1_1ReorgLayer.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -22126,6 +22270,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>da/d1e/classcv_1_1dnn_1_1PriorBoxLayer.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T092636Z" creationid="flyeblue" creationdate="20190307T092636Z">
+        <seg>da/d1e/classcv_1_1dnn_1_1PriorBoxLayer.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>da/d29/structcv_1_1cudev_1_1exp2__func_3_01short_01_4.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T065628Z" creationid="flyeblue" creationdate="20190307T065628Z">
@@ -22250,6 +22402,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T065559Z" creationid="flyeblue" creationdate="20190307T065559Z">
         <seg>da/d69/structcv_1_1cudev_1_1BrdWrap.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>da/d6b/classcv_1_1dnn_1_1ProposalLayer.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T092638Z" creationid="flyeblue" creationdate="20190307T092638Z">
+        <seg>da/d6b/classcv_1_1dnn_1_1ProposalLayer.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -22598,6 +22758,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>db/d15/classcv_1_1dnn_1_1ReshapeLayer.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T092647Z" creationid="flyeblue" creationdate="20190307T092647Z">
+        <seg>db/d15/classcv_1_1dnn_1_1ReshapeLayer.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>db/d15/structcv_1_1cudev_1_1BGRA__to__HSV__FULL__func.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T065531Z" creationid="flyeblue" creationdate="20190307T065531Z">
@@ -22698,6 +22866,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T071939Z" creationid="flyeblue" creationdate="20190307T071939Z">
         <seg>db/d37/structcv_1_1cudev_1_1RGB__to__HSV__func_3_01float_01_4.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>db/d38/classcv_1_1dnn_1_1ResizeLayer.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T092648Z" creationid="flyeblue" creationdate="20190307T092648Z">
+        <seg>db/d38/classcv_1_1dnn_1_1ResizeLayer.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -23486,6 +23662,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>dc/dcd/classcv_1_1dnn_1_1ReLU6Layer.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T092645Z" creationid="flyeblue" creationdate="20190307T092645Z">
+        <seg>dc/dcd/classcv_1_1dnn_1_1ReLU6Layer.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>dc/dd4/structcv_1_1cudev_1_1AffineMapPtrSz.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T064857Z" creationid="flyeblue" creationdate="20190307T064857Z">
@@ -24206,6 +24390,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>dd/df0/classcv_1_1dnn_1_1ReLULayer.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T092646Z" creationid="flyeblue" creationdate="20190307T092646Z">
+        <seg>dd/df0/classcv_1_1dnn_1_1ReLULayer.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>de/d04/structcv_1_1cudev_1_1BGR__to__HSV4__FULL__func.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T065007Z" creationid="flyeblue" creationdate="20190307T065007Z">
@@ -24426,6 +24618,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T080138Z" creationid="flyeblue" creationdate="20190307T080138Z">
         <seg>de/d7b/classcv_1_1dnn_1_1details_1_1__LayerStaticRegisterer.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>de/d7d/classcv_1_1dnn_1_1PoolingLayer.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T092634Z" creationid="flyeblue" creationdate="20190307T092634Z">
+        <seg>de/d7d/classcv_1_1dnn_1_1PoolingLayer.html</seg>
       </tuv>
     </tu>
     <tu>
