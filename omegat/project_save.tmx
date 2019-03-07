@@ -5150,6 +5150,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;OpticalFlowPCAFlow&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T115403Z" creationid="flyeblue" creationdate="20190307T115403Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;OpticalFlowPCAFlow&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;PCAPrior&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T115421Z" creationid="flyeblue" creationdate="20190307T115421Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;PCAPrior&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;PD_caltech&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072229Z" creationid="flyeblue" creationdate="20190307T072229Z">
@@ -7482,6 +7498,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072204Z" creationid="flyeblue" creationdate="20190307T072204Z">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;Warp&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;WindowScene&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T115601Z" creationid="flyeblue" creationdate="20190307T115601Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;WindowScene&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10174,6 +10198,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;C&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;HistogramPhaseUnwrapping&lt;/a3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T115606Z" creationid="flyeblue" creationdate="20190307T115606Z">
+        <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;C&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;HistogramPhaseUnwrapping&lt;/a3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;C&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;IsBinaryFunction&lt;/a3&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T070248Z" creationid="flyeblue" creationdate="20190307T070248Z">
@@ -10598,10 +10630,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;N&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;ovis&lt;/a3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T115559Z" creationid="flyeblue" creationdate="20190307T115559Z">
+        <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;N&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;ovis&lt;/a3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;N&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;own&lt;/a3&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T104453Z" creationid="flyeblue" creationdate="20190307T104453Z">
         <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;N&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;own&lt;/a3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;N&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;phase_unwrapping&lt;/a3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T115604Z" creationid="flyeblue" creationdate="20190307T115604Z">
+        <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;N&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;phase_unwrapping&lt;/a3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12118,6 +12166,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Class for individual tree</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T115358Z" creationid="flyeblue" creationdate="20190307T115358Z">
+        <seg>单个树的类</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Class for multiple camera calibration that supports pinhole camera and omnidirection camera.</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T114042Z" creationid="flyeblue" creationdate="20190307T114042Z">
@@ -12138,6 +12194,14 @@
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190304T174954Z" creationid="Administrator" creationdate="20190304T174954Z">
         <seg>实现ORB（面向简要）关键点检测器和描述符提取器的类。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Class implementing two-dimensional phase unwrapping based on &lt;a0&gt;[112]&lt;/a0&gt; This algorithm belongs to the quality-guided phase unwrapping methods.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T115630Z" creationid="flyeblue" creationdate="20190307T115630Z">
+        <seg>基于&lt;a0&gt; [112] &lt;/a0&gt;实现二维相位展开的类该算法属于质量引导相位展开方法。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15742,6 +15806,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PCAFlow algorithm</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T115419Z" creationid="flyeblue" creationdate="20190307T115419Z">
+        <seg>PCAFlow算法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PHash</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T105510Z" creationid="flyeblue" creationdate="20190307T105510Z">
@@ -16506,6 +16578,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190306T095832Z" creationid="flyeblue" creationdate="20190306T095832Z">
         <seg>Solidity是轮廓区域与其凸包区域的比率.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Solution will be regularized according to this prior.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T115537Z" creationid="flyeblue" creationdate="20190307T115537Z">
+        <seg>解决方案将根据此先前规则化.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17298,6 +17378,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T053101Z" creationid="flyeblue" creationdate="20190307T053101Z">
         <seg>该课程还可以轻松创建和绘制ChArUco板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This class can be used for imposing a learned prior on the resulting optical flow.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T115512Z" creationid="flyeblue" creationdate="20190307T115512Z">
+        <seg>该类可用于对所得光流施加学习先验.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18374,6 +18462,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You need to generate appropriate prior file with "learn_prior.py" script beforehand</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T115558Z" creationid="flyeblue" creationdate="20190307T115558Z">
+        <seg>您需要事先使用“learn_prior.py”脚本生成适当的先前文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You start filling every isolated valleys (local minima) with different colored water (labels).</seg>
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190305T141640Z" creationid="Administrator" creationdate="20190305T141640Z">
@@ -19230,6 +19326,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d0/de3/citelist.html#CITEREF_histogramUnwrapping</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T115606Z" creationid="flyeblue" creationdate="20190307T115606Z">
+        <seg>d0/de3/citelist.html#CITEREF_histogramUnwrapping</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d0/de3/citelist.html#CITEREF_wohlhart15</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060111Z" creationid="flyeblue" creationdate="20190307T060111Z">
@@ -19690,6 +19794,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T064945Z" creationid="flyeblue" creationdate="20190307T064945Z">
         <seg>d1/da0/structcv_1_1cudev_1_1atan__func_3_01ushort_01_4.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d1/da2/classcv_1_1optflow_1_1OpticalFlowPCAFlow.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T115402Z" creationid="flyeblue" creationdate="20190307T115402Z">
+        <seg>d1/da2/classcv_1_1optflow_1_1OpticalFlowPCAFlow.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -20194,6 +20306,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T063746Z" creationid="flyeblue" creationdate="20190307T063746Z">
         <seg>d2/d77/classcv_1_1cuda_1_1ImagePyramid.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d2/d7d/structcv_1_1optflow_1_1GPCTree_1_1Node.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T115359Z" creationid="flyeblue" creationdate="20190307T115359Z">
+        <seg>d2/d7d/structcv_1_1optflow_1_1GPCTree_1_1Node.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -22094,6 +22214,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d5/d5e/classcv_1_1optflow_1_1PCAPrior.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T115420Z" creationid="flyeblue" creationdate="20190307T115420Z">
+        <seg>d5/d5e/classcv_1_1optflow_1_1PCAPrior.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d5/d68/classcv_1_1ovis_1_1WindowScene.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T115600Z" creationid="flyeblue" creationdate="20190307T115600Z">
+        <seg>d5/d68/classcv_1_1ovis_1_1WindowScene.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d5/d71/structcv_1_1cudev_1_1NullType.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T070502Z" creationid="flyeblue" creationdate="20190307T070502Z">
@@ -22146,6 +22282,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072125Z" creationid="flyeblue" creationdate="20190307T072125Z">
         <seg>d5/d7b/structcv_1_1cudev_1_1tanh__func.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d5/d7d/classcv_1_1phase__unwrapping_1_1HistogramPhaseUnwrapping.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T115604Z" creationid="flyeblue" creationdate="20190307T115604Z">
+        <seg>d5/d7d/classcv_1_1phase__unwrapping_1_1HistogramPhaseUnwrapping.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -26150,6 +26294,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>dc/d06/namespacecv_1_1ovis.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T115558Z" creationid="flyeblue" creationdate="20190307T115558Z">
+        <seg>dc/d06/namespacecv_1_1ovis.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>dc/d09/classcv_1_1dnn_1_1SigmoidLayer.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T092809Z" creationid="flyeblue" creationdate="20190307T092809Z">
@@ -27426,6 +27578,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072218Z" creationid="flyeblue" creationdate="20190307T072218Z">
         <seg>dd/de4/structcv_1_1cudev_1_1ZipPtr_3_01tuple_3_01Ptr0_00_01Ptr1_01_4_01_4.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>dd/dea/namespacecv_1_1phase__unwrapping.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T115603Z" creationid="flyeblue" creationdate="20190307T115603Z">
+        <seg>dd/dea/namespacecv_1_1phase__unwrapping.html</seg>
       </tuv>
     </tu>
     <tu>
