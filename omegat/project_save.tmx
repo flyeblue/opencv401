@@ -17238,10 +17238,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The task is to be able to match partial, noisy point clouds in cluttered scenes, quickly.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T122510Z" creationid="flyeblue" creationdate="20190307T122510Z">
+        <seg>任务是能够快速匹配杂乱场景中的部分嘈杂点云。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The task is to register a 3D model (or point cloud) against a set of noisy target data.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T122408Z" creationid="flyeblue" creationdate="20190307T122408Z">
+        <seg>任务是针对一组有噪声的目标数据注册3D模型（或点云）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The value should be given as next argument.</seg>
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190305T173828Z" creationid="Administrator" creationdate="20190305T173828Z">
         <seg>该值应作为下一个参数给出.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The variants are put together by myself after certain tests.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T122445Z" creationid="flyeblue" creationdate="20190307T122445Z">
+        <seg>在某些测试之后，我自己将变体放在一起。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17518,10 +17542,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This class implements a very efficient and robust variant of the iterative closest point (&lt;a0&gt;ICP&lt;/a0&gt;) algorithm.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T122354Z" creationid="flyeblue" creationdate="20190307T122354Z">
+        <seg>该类实现了迭代最近点（&lt;a0&gt; ICP &lt;/a0&gt;）算法的非常有效且稳健的变体。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This class implements a very efficient and robust variant of the iterative closest point (ICP) algori...</seg>
       </tuv>
-      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T122015Z" creationid="flyeblue" creationdate="20190307T122015Z">
-        <seg>This class implements a very efficient and robust variant of the iterative closest point (ICP) algori...</seg>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T122333Z" creationid="flyeblue" creationdate="20190307T122015Z">
+        <seg>该类实现了迭代最近点（ICP）算法的一种非常有效且稳健的变体......</seg>
       </tuv>
     </tu>
     <tu>
@@ -29130,6 +29162,14 @@
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190305T074943Z" creationid="Administrator" creationdate="20190305T074943Z">
         <seg>histSize : 这代表了我们的BIN计数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>http://www.mathworks.com/matlabcentral/fileexchange/47152-icp-registration-using-efficient-variants-and-multi-resolution-scheme</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T122334Z" creationid="flyeblue" creationdate="20190307T122334Z">
+        <seg>http://www.mathworks.com/matlabcentral/fileexchange/47152-icp-registration-using-efficient-variants-and-multi-resolution-scheme</seg>
       </tuv>
     </tu>
     <tu>
