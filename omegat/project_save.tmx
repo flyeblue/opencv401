@@ -12832,8 +12832,8 @@
       <tuv lang="EN-US">
         <seg>For omnidirectional camera model, please refer to &lt;a0&gt;omnidir.hpp&lt;/a0&gt; in ccalib module.</seg>
       </tuv>
-      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T114139Z" creationid="flyeblue" creationdate="20190307T114100Z">
-        <seg>对于全向摄像机型号，请参考ccalib模块中的&lt;a0&gt;&lt;/a0&gt; omnidir.hpp &lt;/ a0&gt;.</seg>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T114429Z" creationid="flyeblue" creationdate="20190307T114100Z">
+        <seg>对于全向摄像机型号，请参考ccalib模块中的&lt;a0&gt; omnidir.hpp &lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13566,6 +13566,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Images that are used should be named by "cameraIdx-timestamp.*", several images with the same timestamp means that they are the same pattern that are photographed.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T114450Z" creationid="flyeblue" creationdate="20190307T114450Z">
+        <seg>Images that are used should be named by "cameraIdx-timestamp.*", several images with the same timestamp means that they are the same pattern that are photographed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Implementation of the Zach, Pock and Bischof Dual TV-L1 Optical Flow method</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T063833Z" creationid="flyeblue" creationdate="20190307T063833Z">
@@ -14128,8 +14136,8 @@
       <tuv lang="EN-US">
         <seg>It first calibrate each camera individually, then a bundle adjustment like optimization is applied to refine extrinsic parameters.</seg>
       </tuv>
-      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T114122Z" creationid="flyeblue" creationdate="20190307T114122Z">
-        <seg>It first calibrate each camera individually, then a bundle adjustment like optimization is applied to refine extrinsic parameters.</seg>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T114447Z" creationid="flyeblue" creationdate="20190307T114122Z">
+        <seg>它首先单独校准每个摄像机，然后应用像优化这样的束调整来细化外部参数。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15978,6 +15986,14 @@
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190305T183549Z" creationid="Administrator" creationdate="20190305T183549Z">
         <seg>因此在此操作中边缘会有点模糊.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>So far, it only support "random" pattern for calibration, see randomPattern.hpp in ccalib module for details.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T114431Z" creationid="flyeblue" creationdate="20190307T114431Z">
+        <seg>So far, it only support "random" pattern for calibration, see randomPattern.hpp in ccalib module for details.</seg>
       </tuv>
     </tu>
     <tu>
