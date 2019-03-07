@@ -3270,6 +3270,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;HierarchicalClusteringIndexParams&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T094156Z" creationid="flyeblue" creationdate="20190307T094156Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;HierarchicalClusteringIndexParams&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;HistogramBody&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T065952Z" creationid="flyeblue" creationdate="20190307T065952Z">
@@ -18274,6 +18282,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T070055Z" creationid="flyeblue" creationdate="20190307T070055Z">
         <seg>d1/daf/structcv_1_1cudev_1_1HLS__to__RGB__func.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d1/db2/classcv_1_1flann_1_1Index.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T094158Z" creationid="flyeblue" creationdate="20190307T094158Z">
+        <seg>d1/db2/classcv_1_1flann_1_1Index.html</seg>
       </tuv>
     </tu>
     <tu>
