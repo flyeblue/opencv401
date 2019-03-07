@@ -574,6 +574,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t0&gt;OpenCV video I/O Structure&lt;/t0&gt; &lt;d1/&gt; &lt;m2&gt; &lt;r3&gt; &lt;c4&gt; &lt;d5/&gt; &lt;d6/&gt; &lt;d7&gt;OpenCV video I/O Structure&lt;/d7&gt; &lt;c8/&gt; &lt;d9&gt; &lt;c10&gt; &lt;d11&gt;PkLab.net&lt;/d11&gt; &lt;/c10&gt; &lt;/d9&gt; &lt;d12&gt;English&lt;/d12&gt; &lt;d13&gt; &lt;r14&gt; &lt;r15&gt;OpenCV&lt;/r15&gt; &lt;r16&gt;Video I/O&lt;/r16&gt; &lt;/r14&gt; &lt;/d13&gt; &lt;d17/&gt; &lt;/c4&gt; &lt;c18&gt; &lt;c19/&gt; &lt;c20/&gt; &lt;c21/&gt; &lt;c22/&gt; &lt;c23/&gt; &lt;/c18&gt; &lt;/r3&gt; &lt;/m2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T052507Z" creationid="flyeblue" creationdate="20190307T052507Z">
+        <seg>&lt;t0&gt;OpenCV video I/O Structure&lt;/t0&gt; &lt;d1/&gt; &lt;m2&gt; &lt;r3&gt; &lt;c4&gt; &lt;d5/&gt; &lt;d6/&gt; &lt;d7&gt;OpenCV video I/O Structure&lt;/d7&gt; &lt;c8/&gt; &lt;d9&gt; &lt;c10&gt; &lt;d11&gt;PkLab.net&lt;/d11&gt; &lt;/c10&gt; &lt;/d9&gt; &lt;d12&gt;English&lt;/d12&gt; &lt;d13&gt; &lt;r14&gt; &lt;r15&gt;OpenCV&lt;/r15&gt; &lt;r16&gt;Video I/O&lt;/r16&gt; &lt;/r14&gt; &lt;/d13&gt; &lt;d17/&gt; &lt;/c4&gt; &lt;c18&gt; &lt;c19/&gt; &lt;c20/&gt; &lt;c21/&gt; &lt;c22/&gt; &lt;c23/&gt; &lt;/c18&gt; &lt;/r3&gt; &lt;/m2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A 3x3 normalized box filter would look like below:</seg>
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190305T185949Z" creationid="Administrator" creationdate="20190305T185949Z">
@@ -1742,6 +1750,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Doxygen 1.8.12</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T052445Z" creationid="flyeblue" creationdate="20190307T052445Z">
+        <seg>Doxygen 1.8.12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Draws a line segment connecting two points.</seg>
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190305T084527Z" creationid="Administrator" creationdate="20190305T084527Z">
@@ -2538,6 +2554,14 @@
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190305T101617Z" creationid="Administrator" creationdate="20190305T101617Z">
         <seg>我建议你阅读维基百科关于&lt;a0&gt;Histogram Equalization&lt;/a0&gt;的更多信息</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IE=9</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T052334Z" creationid="flyeblue" creationdate="20190307T052334Z">
+        <seg>IE=9</seg>
       </tuv>
     </tu>
     <tu>
@@ -3706,6 +3730,14 @@
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190305T081626Z" creationid="Administrator" creationdate="20190305T081626Z">
         <seg>长路：使用OpenCV绘图功能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MEDIA DEVICES</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T052555Z" creationid="flyeblue" creationdate="20190307T052555Z">
+        <seg>媒体设备</seg>
       </tuv>
     </tu>
     <tu>
@@ -5970,6 +6002,14 @@
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190305T182952Z" creationid="Administrator" creationdate="20190305T182952Z">
         <seg>试下面的代码并检查结果:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Try to implement them.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T052328Z" creationid="flyeblue" creationdate="20190307T052328Z">
+        <seg>Try to implement them.</seg>
       </tuv>
     </tu>
     <tu>
