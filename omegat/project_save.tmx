@@ -6686,6 +6686,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;SFMLibmvEuclideanReconstruction&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T132057Z" creationid="flyeblue" creationdate="20190307T132057Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;SFMLibmvEuclideanReconstruction&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;SLAM_kitti&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072243Z" creationid="flyeblue" creationdate="20190307T072243Z">
@@ -9386,6 +9394,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T125618Z" creationid="flyeblue" creationdate="20190307T125618Z">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;libmv_CameraIntrinsicsOptions&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;libmv_ReconstructionOptions&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T132041Z" creationid="flyeblue" creationdate="20190307T132041Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;libmv_ReconstructionOptions&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13018,6 +13034,22 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T093127Z" creationid="flyeblue" creationdate="20190307T093030Z">
         <seg>facemark :: getData函数的数据容器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Data structure describing the camera model and its parameters</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T132038Z" creationid="flyeblue" creationdate="20190307T132038Z">
+        <seg>Data structure describing the camera model and its parameters</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Data structure describing the reconstruction options</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T132056Z" creationid="flyeblue" creationdate="20190307T132056Z">
+        <seg>描述重建选项的数据结构</seg>
       </tuv>
     </tu>
     <tu>
@@ -20450,6 +20482,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T065008Z" creationid="flyeblue" creationdate="20190307T065008Z">
         <seg>d1/d5e/structcv_1_1cudev_1_1BGR__to__HSV4__FULL__func_3_01float_01_4.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d1/d61/classcv_1_1sfm_1_1libmv__ReconstructionOptions.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T132040Z" creationid="flyeblue" creationdate="20190307T132040Z">
+        <seg>d1/d61/classcv_1_1sfm_1_1libmv__ReconstructionOptions.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -28810,6 +28850,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072221Z" creationid="flyeblue" creationdate="20190307T072221Z">
         <seg>de/d42/classcv_1_1datasets_1_1AR__hmdb.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>de/d42/classcv_1_1sfm_1_1SFMLibmvEuclideanReconstruction.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T132057Z" creationid="flyeblue" creationdate="20190307T132057Z">
+        <seg>de/d42/classcv_1_1sfm_1_1SFMLibmvEuclideanReconstruction.html</seg>
       </tuv>
     </tu>
     <tu>
