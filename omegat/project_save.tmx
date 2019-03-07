@@ -462,6 +462,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a0&gt;OCRTesseract&lt;/a0&gt; class provides an interface with the tesseract-ocr API (v3.02.02) in C++</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T144237Z" creationid="flyeblue" creationdate="20190307T144218Z">
+        <seg>&lt;a0&gt; OCRTesseract &lt;/a0&gt;类在C ++中提供了与tesseract-ocr API（v3.02.02）的接口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a0&gt;Objectness&lt;/a0&gt; algorithms based on [3] [3] Cheng, Ming-Ming, et al.</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T124818Z" creationid="flyeblue" creationdate="20190307T124818Z">
@@ -7502,6 +7510,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;TextDetector&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T144251Z" creationid="flyeblue" creationdate="20190307T144251Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;TextDetector&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;Texture2D&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T115055Z" creationid="flyeblue" creationdate="20190307T115055Z">
@@ -11762,6 +11778,14 @@
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190305T154927Z" creationid="Administrator" creationdate="20190305T154927Z">
         <seg>本节中的几乎所有操作主要与Numpy而不是OpenCV有关.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An abstract class providing interface for text detection algorithms</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T144312Z" creationid="flyeblue" creationdate="20190307T144312Z">
+        <seg>提供文本检测算法接口的抽象类</seg>
       </tuv>
     </tu>
     <tu>
@@ -29594,6 +29618,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T092807Z" creationid="flyeblue" creationdate="20190307T092807Z">
         <seg>de/d24/classcv_1_1dnn_1_1ShuffleChannelLayer.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>de/d25/classcv_1_1text_1_1TextDetector.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T144232Z" creationid="flyeblue" creationdate="20190307T144232Z">
+        <seg>de/d25/classcv_1_1text_1_1TextDetector.html</seg>
       </tuv>
     </tu>
     <tu>
