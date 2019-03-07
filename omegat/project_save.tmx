@@ -638,6 +638,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;CustomPattern&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060107Z" creationid="flyeblue" creationdate="20190307T060107Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;CustomPattern&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;DetectorParameters&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T053248Z" creationid="flyeblue" creationdate="20190307T053248Z">
@@ -710,6 +718,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;TransientAreasSegmentationModule&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060006Z" creationid="flyeblue" creationdate="20190307T060006Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;TransientAreasSegmentationModule&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;descriptorExtractor&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060110Z" creationid="flyeblue" creationdate="20190307T060110Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;descriptorExtractor&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;icoSphere&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060213Z" creationid="flyeblue" creationdate="20190307T060213Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;icoSphere&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;C&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;RetinaParameters&lt;/a3&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T055700Z" creationid="flyeblue" creationdate="20190307T055700Z">
@@ -738,6 +770,22 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T055614Z" creationid="flyeblue" creationdate="20190307T055614Z">
         <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;N&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;bioinspired&lt;/a3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;N&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;ccalib&lt;/a3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060105Z" creationid="flyeblue" creationdate="20190307T060105Z">
+        <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;N&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;ccalib&lt;/a3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;N&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;cnn_3dobj&lt;/a3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060108Z" creationid="flyeblue" creationdate="20190307T060108Z">
+        <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;N&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;cnn_3dobj&lt;/a3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -858,6 +906,14 @@
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190304T153701Z" creationid="Administrator" creationdate="20190304T153701Z">
         <seg>Python快速向导 - &lt;a0&gt;A Byte of Python&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A class to extract features from an image.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060140Z" creationid="flyeblue" creationdate="20190307T060140Z">
+        <seg>用于从图像中提取要素的类.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1662,6 +1718,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Caffe based 3D images descriptor.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060128Z" creationid="flyeblue" creationdate="20190307T060128Z">
+        <seg>基于Caffe的3D图像描述符.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Calculates a histogram of a set of arrays.</seg>
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190304T181642Z" creationid="Administrator" creationdate="20190304T181642Z">
@@ -1794,6 +1858,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T055631Z" creationid="flyeblue" creationdate="20190307T055631Z">
         <seg>允许Gipsa / Listic Labs模型与OpenCV一起使用的类</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Class which provides a transient/moving areas segmentation module</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060103Z" creationid="flyeblue" creationdate="20190307T060103Z">
+        <seg>提供瞬态/移动区域分割模块的类</seg>
       </tuv>
     </tu>
     <tu>
@@ -2922,6 +2994,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T052334Z" creationid="flyeblue" creationdate="20190307T052334Z">
         <seg>IE=9</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Icosohedron based camera view data generator.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060249Z" creationid="flyeblue" creationdate="20190307T060249Z">
+        <seg>基于二十面体的相机视图数据生成器.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4934,6 +5014,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Parameter structure that stores the transient events detector setup parameters</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060004Z" creationid="flyeblue" creationdate="20190307T060004Z">
+        <seg>存储瞬态事件检测器设置参数的参数结构</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Parameters</seg>
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190224T154701Z" creationid="Administrator" creationdate="20190224T154701Z">
@@ -5938,6 +6026,14 @@
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190305T163523Z" creationid="Administrator" creationdate="20190305T163523Z">
         <seg>img.shape可以访问图像的形状</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The so obtained descriptors can be used for classification and pose estimation goals &lt;a0&gt;[219]&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060210Z" creationid="flyeblue" creationdate="20190307T060210Z">
+        <seg>如此获得的描述符可用于分类和姿势估计目标&lt;a0&gt; [219] &lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7254,6 +7350,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d0/de3/citelist.html#CITEREF_hinterstoisser2008panter</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060214Z" creationid="flyeblue" creationdate="20190307T060214Z">
+        <seg>d0/de3/citelist.html#CITEREF_hinterstoisser2008panter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d0/de3/citelist.html#CITEREF_wohlhart15</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060111Z" creationid="flyeblue" creationdate="20190307T060111Z">
+        <seg>d0/de3/citelist.html#CITEREF_wohlhart15</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d1/d5c/classcv_1_1bgsegm_1_1BackgroundSubtractorGMG.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T054113Z" creationid="flyeblue" creationdate="20190307T054113Z">
@@ -7286,6 +7398,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d2/d15/classcv_1_1cnn__3dobj_1_1icoSphere.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060211Z" creationid="flyeblue" creationdate="20190307T060211Z">
+        <seg>d2/d15/classcv_1_1cnn__3dobj_1_1icoSphere.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d2/d75/namespacecv.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T052755Z" creationid="flyeblue" creationdate="20190307T052755Z">
@@ -7306,6 +7426,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T055659Z" creationid="flyeblue" creationdate="20190307T055659Z">
         <seg>d2/df5/structcv_1_1bioinspired_1_1RetinaParameters.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d3/d3e/classcv_1_1ccalib_1_1CustomPattern.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060106Z" creationid="flyeblue" creationdate="20190307T060106Z">
+        <seg>d3/d3e/classcv_1_1ccalib_1_1CustomPattern.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -7358,6 +7486,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d7/d8d/classcv_1_1cnn__3dobj_1_1descriptorExtractor.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060109Z" creationid="flyeblue" creationdate="20190307T060109Z">
+        <seg>d7/d8d/classcv_1_1cnn__3dobj_1_1descriptorExtractor.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d7/d94/namespacecv_1_1ccalib.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060104Z" creationid="flyeblue" creationdate="20190307T060104Z">
+        <seg>d7/d94/namespacecv_1_1ccalib.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d9/d57/namespacecv_1_1cnn__3dobj.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060107Z" creationid="flyeblue" creationdate="20190307T060107Z">
+        <seg>d9/d57/namespacecv_1_1cnn__3dobj.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d9/d6a/group__aruco.html#gacc98e7993d9f78c9eb1250f030896e85</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T053428Z" creationid="flyeblue" creationdate="20190307T053428Z">
@@ -7378,6 +7530,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T055915Z" creationid="flyeblue" creationdate="20190307T055915Z">
         <seg>d9/dbf/structcv_1_1bioinspired_1_1SegmentationParameters.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>da/d6e/classcv_1_1bioinspired_1_1TransientAreasSegmentationModule.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060004Z" creationid="flyeblue" creationdate="20190307T060004Z">
+        <seg>da/d6e/classcv_1_1bioinspired_1_1TransientAreasSegmentationModule.html</seg>
       </tuv>
     </tu>
     <tu>
