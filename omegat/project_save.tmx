@@ -822,6 +822,54 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;FGDParams&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T062018Z" creationid="flyeblue" creationdate="20190307T062018Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;FGDParams&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;FarnebackOpticalFlow&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T061756Z" creationid="flyeblue" creationdate="20190307T061756Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;FarnebackOpticalFlow&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;FastFeatureDetector&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T061913Z" creationid="flyeblue" creationdate="20190307T061913Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;FastFeatureDetector&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;FastOpticalFlowBM&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T061957Z" creationid="flyeblue" creationdate="20190307T061957Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;FastOpticalFlowBM&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;Feature2DAsync&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T061959Z" creationid="flyeblue" creationdate="20190307T061959Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;Feature2DAsync&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;Filter&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T062019Z" creationid="flyeblue" creationdate="20190307T062019Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;Filter&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;GridBoard&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T053427Z" creationid="flyeblue" creationdate="20190307T053427Z">
@@ -898,6 +946,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060213Z" creationid="flyeblue" creationdate="20190307T060213Z">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;icoSphere&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;C&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;GpuMat&lt;/a3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T062119Z" creationid="flyeblue" creationdate="20190307T062119Z">
+        <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;C&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;GpuMat&lt;/a3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1114,6 +1170,14 @@
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190306T035209Z" creationid="Administrator" creationdate="20190306T035209Z">
         <seg>上面，我们告诉轮廓是具有相同强度的形状的边界.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Abstract base class for CUDA asynchronous 2D image feature detectors and descriptor extractors</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T062016Z" creationid="flyeblue" creationdate="20190307T062016Z">
+        <seg>CUDA异步2D图像特征检测器和描述符提取器的抽象基类</seg>
       </tuv>
     </tu>
     <tu>
@@ -2110,6 +2174,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Class computing a dense optical flow using the Gunnar Farneback's algorithm</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T061908Z" creationid="flyeblue" creationdate="20190307T061908Z">
+        <seg>使用Gunnar Farneback算法计算密集光流的类</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Class computing the optical flow for two images using Brox et al Optical Flow algorithm (&lt;a0&gt;[28]&lt;/a0&gt;)</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060439Z" creationid="flyeblue" creationdate="20190307T060439Z">
@@ -2138,6 +2210,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T061744Z" creationid="flyeblue" creationdate="20190307T061744Z">
         <seg>使用联合双边滤波对视差图进行精炼.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Class that enables getting cudaEvent_t from &lt;a0&gt;cuda::Event&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T061753Z" creationid="flyeblue" creationdate="20190307T061753Z">
+        <seg>Class that enables getting cudaEvent_t from &lt;a0&gt;cuda::Event&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2194,6 +2274,14 @@
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190224T162308Z" creationid="Administrator" creationdate="20190224T162308Z">
         <seg>命令行参数解析</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Common interface for all CUDA filters :</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T062114Z" creationid="flyeblue" creationdate="20190307T062114Z">
+        <seg>所有CUDA过滤器的通用接口 :</seg>
       </tuv>
     </tu>
     <tu>
@@ -7422,6 +7510,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Wrapping class for feature detection using the FAST method</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T061955Z" creationid="flyeblue" creationdate="20190307T061955Z">
+        <seg>使用FAST方法包装特征检测类</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Yes, SIFT and SURF are patented and you are supposed to pay them for its use.</seg>
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190304T172600Z" creationid="Administrator" creationdate="20190304T172600Z">
@@ -7654,6 +7750,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d0/d60/classcv_1_1cuda_1_1GpuMat.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T062116Z" creationid="flyeblue" creationdate="20190307T062116Z">
+        <seg>d0/d60/classcv_1_1cuda_1_1GpuMat.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d0/da4/classcv_1_1cuda_1_1DensePyrLKOpticalFlow.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T061038Z" creationid="flyeblue" creationdate="20190307T061038Z">
@@ -7830,6 +7934,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d4/d6a/classcv_1_1cuda_1_1FastFeatureDetector.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T061912Z" creationid="flyeblue" creationdate="20190307T061912Z">
+        <seg>d4/d6a/classcv_1_1cuda_1_1FastFeatureDetector.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d4/db2/classcv_1_1aruco_1_1Board.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T052800Z" creationid="flyeblue" creationdate="20190307T052800Z">
@@ -7934,6 +8046,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d9/d30/classcv_1_1cuda_1_1FarnebackOpticalFlow.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T061754Z" creationid="flyeblue" creationdate="20190307T061754Z">
+        <seg>d9/d30/classcv_1_1cuda_1_1FarnebackOpticalFlow.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d9/d57/namespacecv_1_1cnn__3dobj.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060107Z" creationid="flyeblue" creationdate="20190307T060107Z">
@@ -7994,6 +8114,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060711Z" creationid="flyeblue" creationdate="20190307T060711Z">
         <seg>db/d79/classcv_1_1cuda_1_1CLAHE.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>dc/d2b/classcv_1_1cuda_1_1Filter.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T062019Z" creationid="flyeblue" creationdate="20190307T062019Z">
+        <seg>dc/d2b/classcv_1_1cuda_1_1Filter.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -8078,6 +8206,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>de/def/structcv_1_1cuda_1_1FGDParams.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T062017Z" creationid="flyeblue" creationdate="20190307T062017Z">
+        <seg>de/def/structcv_1_1cuda_1_1FGDParams.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>destination image of the same size and type as src.</seg>
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190305T102519Z" creationid="Administrator" creationdate="20190305T102519Z">
@@ -8098,6 +8234,22 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T054011Z" creationid="flyeblue" creationdate="20190307T054011Z">
         <seg>df/d5d/namespacecv_1_1bgsegm.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>df/db2/classcv_1_1cuda_1_1FastOpticalFlowBM.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T061956Z" creationid="flyeblue" creationdate="20190307T061956Z">
+        <seg>df/db2/classcv_1_1cuda_1_1FastOpticalFlowBM.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>df/db9/classcv_1_1cuda_1_1Feature2DAsync.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T061958Z" creationid="flyeblue" creationdate="20190307T061958Z">
+        <seg>df/db9/classcv_1_1cuda_1_1Feature2DAsync.html</seg>
       </tuv>
     </tu>
     <tu>
