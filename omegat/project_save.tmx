@@ -15992,8 +15992,8 @@
       <tuv lang="EN-US">
         <seg>So far, it only support "random" pattern for calibration, see randomPattern.hpp in ccalib module for details.</seg>
       </tuv>
-      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T114431Z" creationid="flyeblue" creationdate="20190307T114431Z">
-        <seg>So far, it only support "random" pattern for calibration, see randomPattern.hpp in ccalib module for details.</seg>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T114759Z" creationid="flyeblue" creationdate="20190307T114431Z">
+        <seg>到目前为止，它仅支持“随机”模式进行校准，有关详细信息，请参阅ccalib模块中的randomPattern.hpp.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18170,6 +18170,14 @@
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190224T154820Z" creationid="Administrator" creationdate="20190224T154820Z">
         <seg>边界框</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>cameraIdx should start from 0</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T114801Z" creationid="flyeblue" creationdate="20190307T114801Z">
+        <seg>cameraIdx should start from 0</seg>
       </tuv>
     </tu>
     <tu>
