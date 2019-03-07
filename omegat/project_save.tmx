@@ -318,6 +318,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a0&gt;Blender&lt;/a0&gt; which uses multi-band blending algorithm (see &lt;a1&gt;[30]&lt;/a1&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T074819Z" creationid="flyeblue" creationdate="20190307T074819Z">
+        <seg>&lt;a0&gt;Blender&lt;/a0&gt; which uses multi-band blending algorithm (see &lt;a1&gt;[30]&lt;/a1&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a0&gt;Board&lt;/a0&gt; of markers</seg>
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190224T140114Z" creationid="Administrator" creationdate="20190224T140114Z">
@@ -8982,6 +8990,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Base class for all blenders.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T074809Z" creationid="flyeblue" creationdate="20190307T074809Z">
+        <seg>所有 blenders的基础类。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Base class for all camera parameters refinement methods</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072942Z" creationid="flyeblue" creationdate="20190307T072942Z">
@@ -16026,6 +16042,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072227Z" creationid="flyeblue" creationdate="20190307T072227Z">
         <seg>d0/de2/structcv_1_1datasets_1_1join.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d0/de3/citelist.html#CITEREF_BA83</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T074813Z" creationid="flyeblue" creationdate="20190307T074813Z">
+        <seg>d0/de3/citelist.html#CITEREF_BA83</seg>
       </tuv>
     </tu>
     <tu>
