@@ -5406,6 +5406,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;Pose3D&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T123106Z" creationid="flyeblue" creationdate="20190307T123106Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;Pose3D&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;PowerLayer&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T092636Z" creationid="flyeblue" creationdate="20190307T092636Z">
@@ -12366,6 +12374,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Class, allowing the storage of a pose.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T123153Z" creationid="flyeblue" creationdate="20190307T123153Z">
+        <seg>类，允许存储姿势。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Classical recurrent layer</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T092801Z" creationid="flyeblue" creationdate="20190307T092801Z">
@@ -17118,6 +17134,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The data structure stores both the quaternions and the matrix forms.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T123215Z" creationid="flyeblue" creationdate="20190307T123215Z">
+        <seg>数据结构存储四元数和矩阵形式.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The direction of the vector from this corner point to centroid gives the orientation.</seg>
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190304T173131Z" creationid="Administrator" creationdate="20190304T173131Z">
@@ -17650,6 +17674,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T121932Z" creationid="flyeblue" creationdate="20190307T121932Z">
         <seg>然后，该直方图用于从最高质量的像素开始打开像素</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This implementation is based on Tolga Birdal's MATLAB implementation in here: &lt;a1&gt;http://www.mathworks.com/matlabcentral/fileexchange/47152-icp-registration-using-efficient-variants-and-multi-resolution-scheme&lt;/a1&gt; The main contributions come from:</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T123058Z" creationid="flyeblue" creationdate="20190307T123035Z">
+        <seg>这个实现基于Tolga Birdal的MATLAB实现：&lt;a1&gt; http://www.mathworks.com/matlabcentral/fileexchange/47152-icp-registration-using-efficient-variants-and-multi-resolution-scheme &lt;/a1&gt;主要贡献来自:</seg>
       </tuv>
     </tu>
     <tu>
@@ -18626,6 +18658,14 @@
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190305T141640Z" creationid="Administrator" creationdate="20190305T141640Z">
         <seg>你开始用不同颜色的水（标签）填充每个孤立的山谷（局部最小值）.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You will find that my emphasis is on the performance, while retaining the accuracy.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T123017Z" creationid="flyeblue" creationdate="20190307T123017Z">
+        <seg>你会发现我的重点是表现，同时保持准确性。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22210,6 +22250,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T064942Z" creationid="flyeblue" creationdate="20190307T064942Z">
         <seg>d5/d20/structcv_1_1cudev_1_1atan__func_3_01short_01_4.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d5/d22/classcv_1_1ppf__match__3d_1_1Pose3D.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T123046Z" creationid="flyeblue" creationdate="20190307T123046Z">
+        <seg>d5/d22/classcv_1_1ppf__match__3d_1_1Pose3D.html</seg>
       </tuv>
     </tu>
     <tu>
