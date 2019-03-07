@@ -16110,6 +16110,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Model can be downloaded from &lt;a3&gt;DropBox&lt;/a3&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T152436Z" creationid="flyeblue" creationdate="20190307T152436Z">
+        <seg>Model can be downloaded from &lt;a3&gt;DropBox&lt;/a3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Modified .prototxt file with the model description can be found in &lt;c4&gt;opencv_contrib/modules/text/samples/textbox.prototxt&lt;/c4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T152439Z" creationid="flyeblue" creationdate="20190307T152439Z">
+        <seg>Modified .prototxt file with the model description can be found in &lt;c4&gt;opencv_contrib/modules/text/samples/textbox.prototxt&lt;/c4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>More details about the algorithm can be found at &lt;a1&gt;[80]&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T055241Z" creationid="flyeblue" creationdate="20190307T055241Z">
@@ -18238,6 +18254,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The original repository with the modified SSD Caffe version: &lt;a2&gt;https://github.com/MhLiao/TextBoxes&lt;/a2&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T152448Z" creationid="flyeblue" creationdate="20190307T152419Z">
+        <seg>具有修改的SSD Caffe版本的原始存储库：&lt;a2&gt; https://github.com/MhLiao/TextBoxes &lt;/a2&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The paper says ORB is much faster than SURF and SIFT and ORB descriptor works better than SURF.</seg>
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190304T174831Z" creationid="Administrator" creationdate="20190304T174831Z">
@@ -18654,6 +18678,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This class is representing to find bounding boxes of text words given an input image.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T152301Z" creationid="flyeblue" creationdate="20190307T152301Z">
+        <seg>该类表示在给定输入图像的情况下找到文本单词的边界框。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This class is templated with the type of elements for which the index is built</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T104206Z" creationid="flyeblue" creationdate="20190307T094117Z">
@@ -18674,6 +18706,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T080940Z" creationid="flyeblue" creationdate="20190307T080940Z">
         <seg>此类提供初始化图层所需的所有数据</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This class uses OpenCV dnn module to load pre-trained model described in &lt;a1&gt;[119]&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T152539Z" creationid="flyeblue" creationdate="20190307T152334Z">
+        <seg>该类使用OpenCV dnn模块加载&lt;a1&gt; [119] &lt;/a1&gt;中描述的预训练模型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27346,6 +27386,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T124843Z" creationid="flyeblue" creationdate="20190307T124843Z">
         <seg>da/dd0/classcv_1_1saliency_1_1StaticSaliencyFineGrained.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>da/dd0/namespacecv_1_1tracking.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T152541Z" creationid="flyeblue" creationdate="20190307T152541Z">
+        <seg>da/dd0/namespacecv_1_1tracking.html</seg>
       </tuv>
     </tu>
     <tu>
