@@ -310,10 +310,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>:</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060535Z" creationid="flyeblue" creationdate="20190307T060535Z">
+        <seg>:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a0&gt;Board&lt;/a0&gt; of markers</seg>
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190224T140114Z" creationid="Administrator" creationdate="20190224T140114Z">
         <seg>&lt;a0&gt;板块&lt;/a0&gt; 标签</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a0&gt;BufferPool&lt;/a0&gt; for use with CUDA streams</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060509Z" creationid="flyeblue" creationdate="20190307T060509Z">
+        <seg>&lt;a0&gt; BufferPool &lt;/a0&gt;用于CUDA流</seg>
       </tuv>
     </tu>
     <tu>
@@ -582,6 +598,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;BackgroundSubtractorFGD&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060325Z" creationid="flyeblue" creationdate="20190307T060325Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;BackgroundSubtractorFGD&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;BackgroundSubtractorGMG&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T054114Z" creationid="flyeblue" creationdate="20190307T054114Z">
@@ -614,6 +638,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;BackgroundSubtractorMOG2&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060414Z" creationid="flyeblue" creationdate="20190307T060414Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;BackgroundSubtractorMOG2&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;BackgroundSubtractorMOG&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T055354Z" creationid="flyeblue" creationdate="20190307T055354Z">
@@ -626,6 +658,38 @@
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190224T140020Z" creationid="Administrator" creationdate="20190224T140020Z">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;板块&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;BroxOpticalFlow&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060416Z" creationid="flyeblue" creationdate="20190307T060416Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;BroxOpticalFlow&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;BufferPool&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060441Z" creationid="flyeblue" creationdate="20190307T060441Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;BufferPool&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;CannyEdgeDetector&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060511Z" creationid="flyeblue" creationdate="20190307T060511Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;CannyEdgeDetector&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;CascadeClassifier&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060539Z" creationid="flyeblue" creationdate="20190307T060539Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;CascadeClassifier&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -786,6 +850,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060108Z" creationid="flyeblue" creationdate="20190307T060108Z">
         <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;N&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;cnn_3dobj&lt;/a3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;N&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;cuda&lt;/a3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060323Z" creationid="flyeblue" creationdate="20190307T060323Z">
+        <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;N&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;cuda&lt;/a3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1286,6 +1358,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Background/Foreground Segmentation &lt;a0&gt;Algorithm&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060411Z" creationid="flyeblue" creationdate="20190307T060344Z">
+        <seg>背景/前景分割&lt;a0&gt;算法&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Base abstract class for the long-term tracker:</seg>
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190224T154152Z" creationid="Administrator" creationdate="20190224T154152Z">
@@ -1298,6 +1378,14 @@
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190224T150818Z" creationid="Administrator" creationdate="20190224T150818Z">
         <seg>long-term跟踪器抽象基础类: &lt;a0&gt;More...&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Base class for Canny Edge &lt;a0&gt;Detector&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060530Z" creationid="flyeblue" creationdate="20190307T060530Z">
+        <seg>Canny Edge的基类&lt;a0&gt;检测器&lt;/a0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1522,6 +1610,14 @@
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190304T131053Z" creationid="Administrator" creationdate="20190304T131053Z">
         <seg>两个图像应该具有相同的深度和类型，或者第二个图像可以是标量值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>BufferPool for use with CUDA streams.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060442Z" creationid="flyeblue" creationdate="20190307T060442Z">
+        <seg>BufferPool for use with CUDA streams.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1766,6 +1862,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cascade classifier class used for object detection.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060641Z" creationid="flyeblue" creationdate="20190307T060641Z">
+        <seg>用于对象检测的级联分类器类.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ChArUco board Specific class for ChArUco boards.</seg>
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190224T140254Z" creationid="Administrator" creationdate="20190224T140254Z">
@@ -1842,6 +1946,14 @@
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190224T122129Z" creationid="Administrator" creationdate="20190224T122129Z">
         <seg>类列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Class computing the optical flow for two images using Brox et al Optical Flow algorithm (&lt;a0&gt;[28]&lt;/a0&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060439Z" creationid="flyeblue" creationdate="20190307T060439Z">
+        <seg>使用Brox等光流算法计算两个图像的光流（&lt;a0&gt; [28] &lt;/a0&gt;）</seg>
       </tuv>
     </tu>
     <tu>
@@ -5910,6 +6022,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The class create some sphere views of camera towards a 3D object meshed from .ply files &lt;a0&gt;[89]&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060321Z" creationid="flyeblue" creationdate="20190307T060321Z">
+        <seg>该类创建一些相机的球体视图，朝向从.ply文件网格划分的3D对象&lt;a0&gt; [89] &lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The class discriminates between foreground and background pixels by building and maintaining a model of the background</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060343Z" creationid="flyeblue" creationdate="20190307T060343Z">
+        <seg>该类通过构建和维护背景模型来区分前景像素和背景像素</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The contours are a useful tool for shape analysis and object detection and recognition.</seg>
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190306T031013Z" creationid="Administrator" creationdate="20190306T031013Z">
@@ -7326,10 +7454,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d0/d43/classcv_1_1cuda_1_1CannyEdgeDetector.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060510Z" creationid="flyeblue" creationdate="20190307T060510Z">
+        <seg>d0/d43/classcv_1_1cuda_1_1CannyEdgeDetector.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d0/dc1/structcv_1_1bioinspired_1_1RetinaParameters_1_1OPLandIplParvoParameters.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T055743Z" creationid="flyeblue" creationdate="20190307T055743Z">
         <seg>d0/dc1/structcv_1_1bioinspired_1_1RetinaParameters_1_1OPLandIplParvoParameters.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d0/de3/citelist.html#CITEREF_Brox2004</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060417Z" creationid="flyeblue" creationdate="20190307T060417Z">
+        <seg>d0/de3/citelist.html#CITEREF_Brox2004</seg>
       </tuv>
     </tu>
     <tu>
@@ -7366,6 +7510,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d1/d1a/namespacecv_1_1cuda.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060322Z" creationid="flyeblue" creationdate="20190307T060322Z">
+        <seg>d1/d1a/namespacecv_1_1cuda.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d1/d5c/classcv_1_1bgsegm_1_1BackgroundSubtractorGMG.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T054113Z" creationid="flyeblue" creationdate="20190307T054113Z">
@@ -7394,6 +7546,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T055258Z" creationid="flyeblue" creationdate="20190307T055258Z">
         <seg>d1/de5/classcv_1_1bgsegm_1_1BackgroundSubtractorLSBPDesc.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d1/dfe/classcv_1_1cuda_1_1BackgroundSubtractorMOG.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060350Z" creationid="flyeblue" creationdate="20190307T060350Z">
+        <seg>d1/dfe/classcv_1_1cuda_1_1BackgroundSubtractorMOG.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -7446,6 +7606,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d3/dd2/classcv_1_1cuda_1_1BackgroundSubtractorFGD.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060324Z" creationid="flyeblue" creationdate="20190307T060324Z">
+        <seg>d3/dd2/classcv_1_1cuda_1_1BackgroundSubtractorFGD.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d4/d17/namespacecv_1_1aruco.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T052757Z" creationid="flyeblue" creationdate="20190307T052757Z">
@@ -7470,6 +7638,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d5/d08/classcv_1_1cuda_1_1BufferPool.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060440Z" creationid="flyeblue" creationdate="20190307T060440Z">
+        <seg>d5/d08/classcv_1_1cuda_1_1BufferPool.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d5/d0b/classcv_1_1aruco_1_1Dictionary.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T053333Z" creationid="flyeblue" creationdate="20190307T053333Z">
@@ -7478,10 +7654,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d5/df2/classcv_1_1cuda_1_1BackgroundSubtractorGMG.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060344Z" creationid="flyeblue" creationdate="20190307T060344Z">
+        <seg>d5/df2/classcv_1_1cuda_1_1BackgroundSubtractorGMG.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d6/da7/classcv_1_1bgsegm_1_1BackgroundSubtractorMOG.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T055345Z" creationid="flyeblue" creationdate="20190307T055345Z">
         <seg>d6/da7/classcv_1_1bgsegm_1_1BackgroundSubtractorMOG.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d7/d18/classcv_1_1cuda_1_1BroxOpticalFlow.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060416Z" creationid="flyeblue" creationdate="20190307T060416Z">
+        <seg>d7/d18/classcv_1_1cuda_1_1BroxOpticalFlow.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -7514,6 +7706,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T053428Z" creationid="flyeblue" creationdate="20190307T053428Z">
         <seg>d9/d6a/group__aruco.html#gacc98e7993d9f78c9eb1250f030896e85</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d9/d80/classcv_1_1cuda_1_1CascadeClassifier.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060537Z" creationid="flyeblue" creationdate="20190307T060537Z">
+        <seg>d9/d80/classcv_1_1cuda_1_1CascadeClassifier.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -7574,6 +7774,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>de/db6/classcv_1_1Detector.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060513Z" creationid="flyeblue" creationdate="20190307T060513Z">
+        <seg>de/db6/classcv_1_1Detector.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>de/dca/classcv_1_1bgsegm_1_1BackgroundSubtractorCNT.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T054014Z" creationid="flyeblue" creationdate="20190307T054014Z">
@@ -7586,6 +7794,14 @@
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190305T102519Z" creationid="Administrator" creationdate="20190305T102519Z">
         <seg>跟源图片相同的尺寸和类型.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>df/d23/classcv_1_1cuda_1_1BackgroundSubtractorMOG2.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060412Z" creationid="flyeblue" creationdate="20190307T060412Z">
+        <seg>df/d23/classcv_1_1cuda_1_1BackgroundSubtractorMOG2.html</seg>
       </tuv>
     </tu>
     <tu>
