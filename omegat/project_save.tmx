@@ -376,8 +376,8 @@
       <tuv lang="EN-US">
         <seg>&lt;a0&gt;Callback&lt;/a0&gt; with the classifier is made a class</seg>
       </tuv>
-      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T134711Z" creationid="flyeblue" creationdate="20190307T134711Z">
-        <seg>&lt;a0&gt;Callback&lt;/a0&gt; with the classifier is made a class</seg>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T134816Z" creationid="flyeblue" creationdate="20190307T134711Z">
+        <seg>&lt;a0&gt;Callback&lt;/a0&gt; 与分类器一起成为一个类</seg>
       </tuv>
     </tu>
     <tu>
@@ -2474,6 +2474,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T113132Z" creationid="flyeblue" creationdate="20190307T113132Z">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;EM&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;ERStat&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T134817Z" creationid="flyeblue" creationdate="20190307T134817Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;ERStat&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17758,6 +17766,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The ERStat structure represents a class-specific Extremal Region (ER).</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T134906Z" creationid="flyeblue" creationdate="20190307T134906Z">
+        <seg>ERStat结构表示特定于类的极值区域（ER）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The FLANN nearest neighbor index class.</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T094134Z" creationid="flyeblue" creationdate="20190307T094117Z">
@@ -27306,6 +27322,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T065600Z" creationid="flyeblue" creationdate="20190307T065600Z">
         <seg>db/d1c/structcv_1_1cudev_1_1CommonAreaInterPtrSz.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>db/d20/structcv_1_1text_1_1ERStat.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T134713Z" creationid="flyeblue" creationdate="20190307T134713Z">
+        <seg>db/d20/structcv_1_1text_1_1ERStat.html</seg>
       </tuv>
     </tu>
     <tu>
