@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>"BING: Binarized normed gradients for objectness estimation at 300fps." IEEE CVPR.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T124839Z" creationid="flyeblue" creationdate="20190307T124839Z">
+        <seg>“BING：以300fps进行物体估计的二值化标准梯度。” IEEE CVPR.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>"Dual TV L1" Optical Flow &lt;a0&gt;Algorithm&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T115117Z" creationid="flyeblue" creationdate="20190307T115117Z">
@@ -318,6 +326,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2014</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T124839Z" creationid="flyeblue" creationdate="20190307T124839Z">
+        <seg>2014</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2D Convolution ( Image Filtering )</seg>
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190305T181113Z" creationid="Administrator" creationdate="20190305T181113Z">
@@ -410,6 +426,14 @@
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190224T150047Z" creationid="Administrator" creationdate="20190224T150047Z">
         <seg>&lt;a0&gt;更多...&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a0&gt;Objectness&lt;/a0&gt; algorithms based on [3] [3] Cheng, Ming-Ming, et al.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T124818Z" creationid="flyeblue" creationdate="20190307T124818Z">
+        <seg>&lt;a0&gt;Objectness&lt;/a0&gt; algorithms based on [3] [3] Cheng, Ming-Ming, et al.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6702,6 +6726,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;Saliency&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T124841Z" creationid="flyeblue" creationdate="20190307T124841Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;Saliency&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;SatCastHelper&lt; 1, VecD &gt;&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T064759Z" creationid="flyeblue" creationdate="20190307T064759Z">
@@ -7018,6 +7050,30 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T113450Z" creationid="flyeblue" creationdate="20190307T113450Z">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;StatModel&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;StaticSaliency&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T124843Z" creationid="flyeblue" creationdate="20190307T124843Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;StaticSaliency&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;StaticSaliencyFineGrained&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T124844Z" creationid="flyeblue" creationdate="20190307T124844Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;StaticSaliencyFineGrained&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;StaticSaliencySpectralResidual&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T125015Z" creationid="flyeblue" creationdate="20190307T125015Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;StaticSaliencySpectralResidual&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13366,6 +13422,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fine Grained &lt;a0&gt;Saliency&lt;/a0&gt; approach from &lt;a1&gt;[144]&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T125014Z" creationid="flyeblue" creationdate="20190307T125014Z">
+        <seg>Fine Grained &lt;a0&gt;Saliency&lt;/a0&gt; approach from &lt;a1&gt;[144]&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>First column corresponds to height of all the 50 people and second column corresponds to their weights.</seg>
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190304T170218Z" creationid="Administrator" creationdate="20190304T170218Z">
@@ -17070,6 +17134,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Spectral Residual approach from &lt;a0&gt;[91]&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T125048Z" creationid="flyeblue" creationdate="20190307T125033Z">
+        <seg>来自&lt;a0&gt;&lt;/a0&gt; [91] &lt;/ a0&gt;的光谱残留方法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Splitting and Merging Image Channels</seg>
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190305T165232Z" creationid="Administrator" creationdate="20190305T165232Z">
@@ -19902,6 +19974,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d0/de3/citelist.html#CITEREF_FGS</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T124845Z" creationid="flyeblue" creationdate="20190307T124845Z">
+        <seg>d0/de3/citelist.html#CITEREF_FGS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d0/de3/citelist.html#CITEREF_Gold2012</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T054115Z" creationid="flyeblue" creationdate="20190307T054115Z">
@@ -19914,6 +19994,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T054755Z" creationid="flyeblue" creationdate="20190307T054755Z">
         <seg>d0/de3/citelist.html#CITEREF_LGuo2016</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d0/de3/citelist.html#CITEREF_SR</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T125016Z" creationid="flyeblue" creationdate="20190307T125016Z">
+        <seg>d0/de3/citelist.html#CITEREF_SR</seg>
       </tuv>
     </tu>
     <tu>
@@ -23014,6 +23102,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d5/d87/classcv_1_1saliency_1_1StaticSaliency.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T124842Z" creationid="flyeblue" creationdate="20190307T124842Z">
+        <seg>d5/d87/classcv_1_1saliency_1_1StaticSaliency.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d5/d88/structcv_1_1cudev_1_1HLS4__to__RGB__FULL__func.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T070005Z" creationid="flyeblue" creationdate="20190307T070005Z">
@@ -25782,6 +25878,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d9/dcd/classcv_1_1saliency_1_1Saliency.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T124840Z" creationid="flyeblue" creationdate="20190307T124840Z">
+        <seg>d9/dcd/classcv_1_1saliency_1_1Saliency.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d9/dd5/structcv_1_1cudev_1_1RGBA__to__HLS__func.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072013Z" creationid="flyeblue" creationdate="20190307T072013Z">
@@ -26346,6 +26450,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072246Z" creationid="flyeblue" creationdate="20190307T072246Z">
         <seg>da/dc9/classcv_1_1datasets_1_1TR__svt.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>da/dd0/classcv_1_1saliency_1_1StaticSaliencyFineGrained.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T124843Z" creationid="flyeblue" creationdate="20190307T124843Z">
+        <seg>da/dd0/classcv_1_1saliency_1_1StaticSaliencyFineGrained.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -26946,6 +27058,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T075411Z" creationid="flyeblue" creationdate="20190307T075411Z">
         <seg>db/dad/classcv_1_1detail_1_1PaniniPortraitWarper.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>db/db0/namespacecv_1_1sfm.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T125048Z" creationid="flyeblue" creationdate="20190307T125048Z">
+        <seg>db/db0/namespacecv_1_1sfm.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -29266,6 +29386,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T065606Z" creationid="flyeblue" creationdate="20190307T065606Z">
         <seg>df/d35/structcv_1_1cudev_1_1cos__func_3_01ushort_01_4.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>df/d37/classcv_1_1saliency_1_1StaticSaliencySpectralResidual.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T125015Z" creationid="flyeblue" creationdate="20190307T125015Z">
+        <seg>df/d37/classcv_1_1saliency_1_1StaticSaliencySpectralResidual.html</seg>
       </tuv>
     </tu>
     <tu>
