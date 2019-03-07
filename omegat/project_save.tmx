@@ -710,6 +710,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;BBox&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T093222Z" creationid="flyeblue" creationdate="20190307T093222Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;BBox&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;BGRA_to_BGR_func&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T065522Z" creationid="flyeblue" creationdate="20190307T065522Z">
@@ -2206,10 +2214,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;FaceRecognizer&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T093312Z" creationid="flyeblue" creationdate="20190307T093312Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;FaceRecognizer&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;Facemark&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T092933Z" creationid="flyeblue" creationdate="20190307T092933Z">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;Facemark&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;FacemarkTrain&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T093224Z" creationid="flyeblue" creationdate="20190307T093224Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;FacemarkTrain&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2290,6 +2314,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T065638Z" creationid="flyeblue" creationdate="20190307T065638Z">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;FindMinValExprBody&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;FisherFaceRecognizer&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T093325Z" creationid="flyeblue" creationdate="20190307T093325Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;FisherFaceRecognizer&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3414,6 +3446,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;LBPHFaceRecognizer&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T093328Z" creationid="flyeblue" creationdate="20190307T093328Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;LBPHFaceRecognizer&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;LRGBA_to_Lab4_func&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T070405Z" creationid="flyeblue" creationdate="20190307T070405Z">
@@ -3866,6 +3906,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T070419Z" creationid="flyeblue" creationdate="20190307T070419Z">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;Luv_to_RGB_func&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;MACE&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T093331Z" creationid="flyeblue" creationdate="20190307T093331Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;MACE&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4570,6 +4618,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T075413Z" creationid="flyeblue" creationdate="20190307T075413Z">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;PaniniWarper&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;Params&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T093216Z" creationid="flyeblue" creationdate="20190307T093216Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;Params&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9238,6 +9294,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;C&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;FacemarkKazemi&lt;/a3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T093217Z" creationid="flyeblue" creationdate="20190307T093217Z">
+        <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;C&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;FacemarkKazemi&lt;/a3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;C&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;FacemarkLBF&lt;/a3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T093220Z" creationid="flyeblue" creationdate="20190307T093220Z">
+        <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;C&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;FacemarkLBF&lt;/a3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;C&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;GpuMat&lt;/a3&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T062119Z" creationid="flyeblue" creationdate="20190307T062119Z">
@@ -9274,6 +9346,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T070450Z" creationid="flyeblue" creationdate="20190307T070450Z">
         <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;C&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;Min&lt;/a3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;C&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;Model&lt;/a3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T093133Z" creationid="flyeblue" creationdate="20190307T093133Z">
+        <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;C&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;Model&lt;/a3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9638,6 +9718,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Abstract base class for all face recognition models</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T093323Z" creationid="flyeblue" creationdate="20190307T093323Z">
+        <seg>所有人脸识别模型的抽象基类</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Abstract base class for all facemark models</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T092948Z" creationid="flyeblue" creationdate="20190307T092933Z">
@@ -9650,6 +9738,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T061142Z" creationid="flyeblue" creationdate="20190307T061142Z">
         <seg>用于匹配关键点描述符的抽象基类</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Abstract base class for trainable facemark models</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T093308Z" creationid="flyeblue" creationdate="20190307T093308Z">
+        <seg>可训练面部模型的抽象基类</seg>
       </tuv>
     </tu>
     <tu>
@@ -11192,8 +11288,8 @@
       <tuv lang="EN-US">
         <seg>Data container for the facemark::getData function.</seg>
       </tuv>
-      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T093030Z" creationid="flyeblue" creationdate="20190307T093030Z">
-        <seg>Data container for the facemark::getData function.</seg>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T093127Z" creationid="flyeblue" creationdate="20190307T093030Z">
+        <seg>facemark :: getData函数的数据容器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15414,6 +15510,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The model of AAM &lt;a0&gt;Algorithm&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T093201Z" creationid="flyeblue" creationdate="20190307T093134Z">
+        <seg>AAM &lt;a0&gt;算法的模型&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The paper says ORB is much faster than SURF and SIFT and ORB descriptor works better than SURF.</seg>
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190304T174831Z" creationid="Administrator" creationdate="20190304T174831Z">
@@ -17182,10 +17286,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d0/d8c/structcv_1_1face_1_1FacemarkKazemi_1_1Params.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T093218Z" creationid="flyeblue" creationdate="20190307T093218Z">
+        <seg>d0/d8c/structcv_1_1face_1_1FacemarkKazemi_1_1Params.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d0/d8d/structcv_1_1cudev_1_1VecTraits_3_01char2_01_4.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072144Z" creationid="flyeblue" creationdate="20190307T072144Z">
         <seg>d0/d8d/structcv_1_1cudev_1_1VecTraits_3_01char2_01_4.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d0/d8d/structcv_1_1face_1_1FacemarkAAM_1_1Model.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T093132Z" creationid="flyeblue" creationdate="20190307T093132Z">
+        <seg>d0/d8d/structcv_1_1face_1_1FacemarkAAM_1_1Model.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -18646,6 +18766,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d2/de9/classcv_1_1face_1_1FisherFaceRecognizer.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T093325Z" creationid="flyeblue" creationdate="20190307T093325Z">
+        <seg>d2/de9/classcv_1_1face_1_1FisherFaceRecognizer.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d2/deb/structcv_1_1cudev_1_1pow__func_3_01double_01_4.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T070600Z" creationid="flyeblue" creationdate="20190307T070600Z">
@@ -18962,6 +19090,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T080116Z" creationid="flyeblue" creationdate="20190307T080116Z">
         <seg>d3/d73/structcv_1_1detail_1_1tracked__cv__mat.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d3/d81/classcv_1_1face_1_1FacemarkTrain.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T093223Z" creationid="flyeblue" creationdate="20190307T093223Z">
+        <seg>d3/d81/classcv_1_1face_1_1FacemarkTrain.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -19290,6 +19426,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T070410Z" creationid="flyeblue" creationdate="20190307T070410Z">
         <seg>d4/d0b/structcv_1_1cudev_1_1Luv4__to__BGRA__func.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d4/d12/structcv_1_1face_1_1FacemarkLBF_1_1Params.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T093223Z" creationid="flyeblue" creationdate="20190307T093223Z">
+        <seg>d4/d12/structcv_1_1face_1_1FacemarkLBF_1_1Params.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -22230,6 +22374,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d9/d5c/classcv_1_1face_1_1MACE.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T093329Z" creationid="flyeblue" creationdate="20190307T093329Z">
+        <seg>d9/d5c/classcv_1_1face_1_1MACE.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d9/d6a/group__aruco.html#gacc98e7993d9f78c9eb1250f030896e85</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T053428Z" creationid="flyeblue" creationdate="20190307T053428Z">
@@ -23126,6 +23278,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>db/d18/classcv_1_1face_1_1FacemarkLBF_1_1BBox.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T093221Z" creationid="flyeblue" creationdate="20190307T093221Z">
+        <seg>db/d18/classcv_1_1face_1_1FacemarkLBF_1_1BBox.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>db/d18/structcv_1_1cudev_1_1BGR__to__YUV4__func.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T065521Z" creationid="flyeblue" creationdate="20190307T065521Z">
@@ -23162,6 +23322,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T080129Z" creationid="flyeblue" creationdate="20190307T080129Z">
         <seg>db/d24/classcv_1_1detail_1_1VoronoiSeamFinder.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>db/d26/structcv_1_1face_1_1FacemarkAAM_1_1Model_1_1Texture.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T093136Z" creationid="flyeblue" creationdate="20190307T093136Z">
+        <seg>db/d26/structcv_1_1face_1_1FacemarkAAM_1_1Model_1_1Texture.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -23822,6 +23990,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>dc/d63/classcv_1_1face_1_1FacemarkLBF.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T093218Z" creationid="flyeblue" creationdate="20190307T093218Z">
+        <seg>dc/d63/classcv_1_1face_1_1FacemarkLBF.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>dc/d65/structcv_1_1cudev_1_1maximum_3_01double_01_4.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T070444Z" creationid="flyeblue" creationdate="20190307T070444Z">
@@ -24098,6 +24274,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T065626Z" creationid="flyeblue" creationdate="20190307T065626Z">
         <seg>dc/dd9/structcv_1_1cudev_1_1exp2__func.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>dc/de0/classcv_1_1face_1_1FacemarkKazemi.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T093217Z" creationid="flyeblue" creationdate="20190307T093217Z">
+        <seg>dc/de0/classcv_1_1face_1_1FacemarkKazemi.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -24434,6 +24618,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060821Z" creationid="flyeblue" creationdate="20190307T060821Z">
         <seg>dd/d63/classcv_1_1cuda_1_1CornernessCriteria.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>dd/d65/classcv_1_1face_1_1FaceRecognizer.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T093310Z" creationid="flyeblue" creationdate="20190307T093310Z">
+        <seg>dd/d65/classcv_1_1face_1_1FaceRecognizer.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -25454,6 +25646,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>df/d25/classcv_1_1face_1_1LBPHFaceRecognizer.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T093327Z" creationid="flyeblue" creationdate="20190307T093327Z">
+        <seg>df/d25/classcv_1_1face_1_1LBPHFaceRecognizer.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>df/d27/structcv_1_1cudev_1_1DisableIf.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T065619Z" creationid="flyeblue" creationdate="20190307T065619Z">
@@ -25586,6 +25786,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T092814Z" creationid="flyeblue" creationdate="20190307T092814Z">
         <seg>df/d66/classcv_1_1dnn_1_1TanHLayer.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>df/d68/structcv_1_1face_1_1FacemarkAAM_1_1Params.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T093204Z" creationid="flyeblue" creationdate="20190307T093204Z">
+        <seg>df/d68/structcv_1_1face_1_1FacemarkAAM_1_1Params.html</seg>
       </tuv>
     </tu>
     <tu>
