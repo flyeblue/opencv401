@@ -3742,6 +3742,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;Kernel&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T113630Z" creationid="flyeblue" creationdate="20190307T113630Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;Kernel&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;KeyLine&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T105932Z" creationid="flyeblue" creationdate="20190307T105932Z">
@@ -6238,6 +6246,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;SVMSGD&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T113632Z" creationid="flyeblue" creationdate="20190307T113632Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;SVMSGD&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;SatCastHelper&lt; 1, VecD &gt;&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T064759Z" creationid="flyeblue" creationdate="20190307T064759Z">
@@ -6546,6 +6562,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T092814Z" creationid="flyeblue" creationdate="20190307T092814Z">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;SplitLayer&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;StatModel&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T113450Z" creationid="flyeblue" creationdate="20190307T113450Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;StatModel&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10014,6 +10038,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;C&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;SVM&lt;/a3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T113554Z" creationid="flyeblue" creationdate="20190307T113554Z">
+        <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;C&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;SVM&lt;/a3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;C&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;StandardCollector&lt;/a3&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T094032Z" creationid="flyeblue" creationdate="20190307T094032Z">
@@ -11090,6 +11122,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T075757Z" creationid="flyeblue" creationdate="20190307T075757Z">
         <seg>使用detail :: ProjectorBase_派生类的基于旋转的warper的基类</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Base class for statistical models in OpenCV ML</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T113551Z" creationid="flyeblue" creationdate="20190307T113551Z">
+        <seg>OpenCV ML中统计模型的基类</seg>
       </tuv>
     </tu>
     <tu>
@@ -16246,6 +16286,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Support Vector Machines</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T113627Z" creationid="flyeblue" creationdate="20190307T113627Z">
+        <seg>支持向量机</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Support Vector Machines.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T113730Z" creationid="flyeblue" creationdate="20190307T113730Z">
+        <seg>支持向量机.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Supports HAAR and LBP cascades.</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060709Z" creationid="flyeblue" creationdate="20190307T060709Z">
@@ -16890,6 +16946,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T053101Z" creationid="flyeblue" creationdate="20190307T053101Z">
         <seg>该课程还可以轻松创建和绘制ChArUco板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This class declares example interface for system state used in simulated annealing optimization algorithm</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T113447Z" creationid="flyeblue" creationdate="20190307T113447Z">
+        <seg>该类声明了模拟退火优化算法中使用的系统状态的示例接口</seg>
       </tuv>
     </tu>
     <tu>
@@ -19010,6 +19074,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T070422Z" creationid="flyeblue" creationdate="20190307T070422Z">
         <seg>d1/d2c/structcv_1_1cudev_1_1MakeVec_3_01bool_00_012_01_4.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d1/d2d/classcv_1_1ml_1_1SVM.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T113553Z" creationid="flyeblue" creationdate="20190307T113553Z">
+        <seg>d1/d2d/classcv_1_1ml_1_1SVM.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -22934,6 +23006,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d7/db8/classcv_1_1ml_1_1SVM_1_1Kernel.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T113629Z" creationid="flyeblue" creationdate="20190307T113629Z">
+        <seg>d7/db8/classcv_1_1ml_1_1SVM_1_1Kernel.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d7/dc2/classcv_1_1instr_1_1NodeData.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T105549Z" creationid="flyeblue" creationdate="20190307T105549Z">
@@ -25222,6 +25302,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>db/d7d/classcv_1_1ml_1_1StatModel.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T113449Z" creationid="flyeblue" creationdate="20190307T113449Z">
+        <seg>db/d7d/classcv_1_1ml_1_1StatModel.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>db/d7e/structcv_1_1cudev_1_1BGRA__to__YUV__func.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T065547Z" creationid="flyeblue" creationdate="20190307T065547Z">
@@ -26946,6 +27034,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T065556Z" creationid="flyeblue" creationdate="20190307T065556Z">
         <seg>de/d53/structcv_1_1cudev_1_1BrdBase.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>de/d54/classcv_1_1ml_1_1SVMSGD.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T113631Z" creationid="flyeblue" creationdate="20190307T113631Z">
+        <seg>de/d54/classcv_1_1ml_1_1SVMSGD.html</seg>
       </tuv>
     </tu>
     <tu>
