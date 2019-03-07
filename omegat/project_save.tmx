@@ -1310,6 +1310,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;BlocksGainCompensator&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072744Z" creationid="flyeblue" creationdate="20190307T072744Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;BlocksGainCompensator&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;Board&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190224T140020Z" creationid="Administrator" creationdate="20190224T140020Z">
@@ -1382,10 +1390,58 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;BundleAdjusterAffine&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072808Z" creationid="flyeblue" creationdate="20190307T072808Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;BundleAdjusterAffine&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;BundleAdjusterAffinePartial&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072850Z" creationid="flyeblue" creationdate="20190307T072850Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;BundleAdjusterAffinePartial&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;BundleAdjusterBase&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072913Z" creationid="flyeblue" creationdate="20190307T072913Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;BundleAdjusterBase&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;BundleAdjusterRay&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072944Z" creationid="flyeblue" creationdate="20190307T072944Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;BundleAdjusterRay&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;BundleAdjusterReproj&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T073011Z" creationid="flyeblue" creationdate="20190307T073011Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;BundleAdjusterReproj&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;CLAHE&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060713Z" creationid="flyeblue" creationdate="20190307T060713Z">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;CLAHE&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;CameraParams&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T073100Z" creationid="flyeblue" creationdate="20190307T073100Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;CameraParams&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8262,6 +8318,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Base class for all blenders</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072740Z" creationid="flyeblue" creationdate="20190307T072740Z">
+        <seg>所有搅拌机的基础类</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Base class for all camera parameters refinement methods</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072942Z" creationid="flyeblue" creationdate="20190307T072942Z">
+        <seg>所有相机参数细化方法的基类</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Base class for circles detector algorithm.</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T063108Z" creationid="flyeblue" creationdate="20190307T063108Z">
@@ -8554,6 +8626,22 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060442Z" creationid="flyeblue" creationdate="20190307T060442Z">
         <seg>BufferPool for use with CUDA streams.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bundle adjuster that expects affine transformation represented in homogeneous coordinates in R for each camera param.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072824Z" creationid="flyeblue" creationdate="20190307T072824Z">
+        <seg>捆绑调整器，期望在每个摄像机参数的R中的齐次坐标中表示的仿射变换.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bundle adjuster that expects affine transformation with 4 DOF represented in homogeneous coordinates in R for each camera param.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072911Z" creationid="flyeblue" creationdate="20190307T072911Z">
+        <seg>捆绑调整器，对于每个摄像机参数，期望在R中的均匀坐标中表示4 DOF的仿射变换.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9466,6 +9554,14 @@
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190304T142312Z" creationid="Administrator" creationdate="20190304T142312Z">
         <seg>演示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exposure compensator which tries to remove exposure related artifacts by adjusting image block intensities, see &lt;a0&gt;[200]&lt;/a0&gt; for details</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072806Z" creationid="flyeblue" creationdate="20190307T072806Z">
+        <seg>试图通过调整图像块强度来消除曝光相关伪影的曝光补偿器，详见&lt;a0&gt; [200] &lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10478,10 +10574,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Implementation of the camera parameters refinement algorithm which minimizes sum of the distances between the rays passing through the camera center and a feature.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T073008Z" creationid="flyeblue" creationdate="20190307T073008Z">
+        <seg>实现相机参数细化算法，其最小化穿过相机中心的光线与特征之间的距离之和.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Implementation of the camera parameters refinement algorithm which minimizes sum of the reprojection error squares</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T073057Z" creationid="flyeblue" creationdate="20190307T073057Z">
+        <seg>实现相机参数细化算法，其最小化重投影误差平方的总和</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Implementation of the different yet better algorithm which is called GSOC, as it was implemented during GSOC and was not originated from any paper</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T054713Z" creationid="flyeblue" creationdate="20190307T054713Z">
         <seg>执行不同但更好的算法，称为GSOC，因为它是在GSOC期间实施的，并非源自任何纸张</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Implements camera parameters refinement algorithm which minimizes sum of the reprojection error squares</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072848Z" creationid="flyeblue" creationdate="20190307T072848Z">
+        <seg>实现相机参数细化算法，该算法最小化重投影误差平方的总和</seg>
       </tuv>
     </tu>
     <tu>
@@ -15086,6 +15206,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d0/de3/citelist.html#CITEREF_UES01</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072745Z" creationid="flyeblue" creationdate="20190307T072745Z">
+        <seg>d0/de3/citelist.html#CITEREF_UES01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d0/de3/citelist.html#CITEREF_hinterstoisser2008panter</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060214Z" creationid="flyeblue" creationdate="20190307T060214Z">
@@ -16518,6 +16646,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d4/d0a/structcv_1_1detail_1_1CameraParams.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T073059Z" creationid="flyeblue" creationdate="20190307T073059Z">
+        <seg>d4/d0a/structcv_1_1detail_1_1CameraParams.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d4/d0b/structcv_1_1cudev_1_1Luv4__to__BGRA__func.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T070410Z" creationid="flyeblue" creationdate="20190307T070410Z">
@@ -16814,6 +16950,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d4/dbb/classcv_1_1detail_1_1BundleAdjusterAffinePartial.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072849Z" creationid="flyeblue" creationdate="20190307T072849Z">
+        <seg>d4/dbb/classcv_1_1detail_1_1BundleAdjusterAffinePartial.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d4/dc1/structcv_1_1cudev_1_1VecTraits_3_01uchar4_01_4.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072158Z" creationid="flyeblue" creationdate="20190307T072158Z">
@@ -17090,6 +17234,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T070313Z" creationid="flyeblue" creationdate="20190307T070313Z">
         <seg>d5/d55/structcv_1_1cudev_1_1LBGRA__to__Lab__func.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d5/d56/classcv_1_1detail_1_1BundleAdjusterBase.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072912Z" creationid="flyeblue" creationdate="20190307T072912Z">
+        <seg>d5/d56/classcv_1_1detail_1_1BundleAdjusterBase.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -17578,6 +17730,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T070255Z" creationid="flyeblue" creationdate="20190307T070255Z">
         <seg>d6/d85/structcv_1_1cudev_1_1Lab4__to__RGB__func.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d6/d8d/classcv_1_1detail_1_1BundleAdjusterAffine.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072807Z" creationid="flyeblue" creationdate="20190307T072807Z">
+        <seg>d6/d8d/classcv_1_1detail_1_1BundleAdjusterAffine.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -18074,6 +18234,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T070456Z" creationid="flyeblue" creationdate="20190307T070456Z">
         <seg>d7/d7f/structcv_1_1cudev_1_1modulus.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d7/d81/classcv_1_1detail_1_1BlocksGainCompensator.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072743Z" creationid="flyeblue" creationdate="20190307T072743Z">
+        <seg>d7/d81/classcv_1_1detail_1_1BlocksGainCompensator.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -19446,6 +19614,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>da/d7c/classcv_1_1detail_1_1BundleAdjusterRay.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072943Z" creationid="flyeblue" creationdate="20190307T072943Z">
+        <seg>da/d7c/classcv_1_1detail_1_1BundleAdjusterRay.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>da/d80/classcv_1_1cuda_1_1HoughCirclesDetector.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T063021Z" creationid="flyeblue" creationdate="20190307T063021Z">
@@ -20178,6 +20354,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T055615Z" creationid="flyeblue" creationdate="20190307T055615Z">
         <seg>dc/d54/classcv_1_1bioinspired_1_1Retina.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>dc/d54/classcv_1_1detail_1_1BundleAdjusterReproj.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T073010Z" creationid="flyeblue" creationdate="20190307T073010Z">
+        <seg>dc/d54/classcv_1_1detail_1_1BundleAdjusterReproj.html</seg>
       </tuv>
     </tu>
     <tu>
