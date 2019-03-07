@@ -350,6 +350,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a0&gt;Retina&lt;/a0&gt; model parameters structure</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T055721Z" creationid="flyeblue" creationdate="20190307T055721Z">
+        <seg>&lt;a0&gt;Retina&lt;/a0&gt; model parameters structure</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a0&gt;cv.split()&lt;/a0&gt; is a costly operation (in terms of time).</seg>
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190305T170534Z" creationid="Administrator" creationdate="20190305T170534Z">
@@ -654,10 +662,58 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;IplMagnoParameters&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T055723Z" creationid="flyeblue" creationdate="20190307T055723Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;IplMagnoParameters&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;OPLandIplParvoParameters&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T055745Z" creationid="flyeblue" creationdate="20190307T055745Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;OPLandIplParvoParameters&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;Retina&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T055616Z" creationid="flyeblue" creationdate="20190307T055616Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;Retina&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;RetinaFastToneMapping&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T055634Z" creationid="flyeblue" creationdate="20190307T055634Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;RetinaFastToneMapping&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;SegmentationParameters&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T055916Z" creationid="flyeblue" creationdate="20190307T055916Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;SegmentationParameters&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;SyntheticSequenceGenerator&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T055531Z" creationid="flyeblue" creationdate="20190307T055531Z">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;SyntheticSequenceGenerator&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;C&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;RetinaParameters&lt;/a3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T055700Z" creationid="flyeblue" creationdate="20190307T055700Z">
+        <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;C&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;RetinaParameters&lt;/a3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -674,6 +730,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T054012Z" creationid="flyeblue" creationdate="20190307T054012Z">
         <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;N&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;bgsegm&lt;/a3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;N&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;bioinspired&lt;/a3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T055614Z" creationid="flyeblue" creationdate="20190307T055614Z">
+        <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;N&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;bioinspired&lt;/a3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1722,6 +1786,14 @@
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190304T174954Z" creationid="Administrator" creationdate="20190304T174954Z">
         <seg>实现ORB（面向简要）关键点检测器和描述符提取器的类。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Class which allows the Gipsa/Listic Labs model to be used with OpenCV</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T055631Z" creationid="flyeblue" creationdate="20190307T055631Z">
+        <seg>允许Gipsa / Listic Labs模型与OpenCV一起使用的类</seg>
       </tuv>
     </tu>
     <tu>
@@ -3422,6 +3494,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Inner Plexiform Layer Magnocellular channel (IplMagno)</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T055741Z" creationid="flyeblue" creationdate="20190307T055741Z">
+        <seg>内丛状层巨细胞通道（IplMagno）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Input parameters</seg>
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190304T154757Z" creationid="Administrator" creationdate="20190304T154757Z">
@@ -4838,6 +4918,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Outer Plexiform Layer (OPL) and Inner Plexiform Layer Parvocellular (IplParvo) parameters</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T055914Z" creationid="flyeblue" creationdate="20190307T055914Z">
+        <seg>外丛状层（OPL）和内丛状层细胞（IplParvo）参数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Output parameters</seg>
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190304T161756Z" creationid="Administrator" creationdate="20190304T161756Z">
@@ -5586,6 +5674,14 @@
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190305T152955Z" creationid="Administrator" creationdate="20190305T152955Z">
         <seg>确定的硬币用不同的值着色.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Synthetic frame sequence generator for testing background subtraction algorithms</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T055612Z" creationid="flyeblue" creationdate="20190307T055612Z">
+        <seg>用于测试背景减法算法的合成帧序列发生器</seg>
       </tuv>
     </tu>
     <tu>
@@ -6902,6 +6998,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Wrapper class which allows the tone mapping algorithm of Meylan&amp;al(2007) to be used with OpenCV</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T055658Z" creationid="flyeblue" creationdate="20190307T055658Z">
+        <seg>Wrapper类允许Meylan＆al（2007）的色调映射算法与OpenCV一起使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Yes, SIFT and SURF are patented and you are supposed to pay them for its use.</seg>
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190304T172600Z" creationid="Administrator" creationdate="20190304T172600Z">
@@ -7078,6 +7182,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>class which allows the Gipsa/Listic Labs model to be used with OpenCV.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T055720Z" creationid="flyeblue" creationdate="20190307T055720Z">
+        <seg>允许Gipsa / Listic Labs模型与OpenCV一起使用的类.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>computes the connected components labeled image of boolean image</seg>
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190305T151226Z" creationid="Administrator" creationdate="20190305T151226Z">
@@ -7114,6 +7226,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T052801Z" creationid="flyeblue" creationdate="20190307T052801Z">
         <seg>d0/d3c/classcv_1_1aruco_1_1CharucoBoard.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d0/dc1/structcv_1_1bioinspired_1_1RetinaParameters_1_1OPLandIplParvoParameters.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T055743Z" creationid="flyeblue" creationdate="20190307T055743Z">
+        <seg>d0/dc1/structcv_1_1bioinspired_1_1RetinaParameters_1_1OPLandIplParvoParameters.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -7174,6 +7294,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d2/d81/namespacecv_1_1bioinspired.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T055613Z" creationid="flyeblue" creationdate="20190307T055613Z">
+        <seg>d2/d81/namespacecv_1_1bioinspired.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d2/df5/structcv_1_1bioinspired_1_1RetinaParameters.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T055659Z" creationid="flyeblue" creationdate="20190307T055659Z">
+        <seg>d2/df5/structcv_1_1bioinspired_1_1RetinaParameters.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d3/d46/classcv_1_1Algorithm.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T055418Z" creationid="flyeblue" creationdate="20190307T055418Z">
@@ -7226,6 +7362,38 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T053428Z" creationid="flyeblue" creationdate="20190307T053428Z">
         <seg>d9/d6a/group__aruco.html#gacc98e7993d9f78c9eb1250f030896e85</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d9/d93/structcv_1_1bioinspired_1_1RetinaParameters_1_1IplMagnoParameters.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T055722Z" creationid="flyeblue" creationdate="20190307T055722Z">
+        <seg>d9/d93/structcv_1_1bioinspired_1_1RetinaParameters_1_1IplMagnoParameters.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d9/dbf/structcv_1_1bioinspired_1_1SegmentationParameters.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T055915Z" creationid="flyeblue" creationdate="20190307T055915Z">
+        <seg>d9/dbf/structcv_1_1bioinspired_1_1SegmentationParameters.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>dc/d54/classcv_1_1bioinspired_1_1Retina.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T055615Z" creationid="flyeblue" creationdate="20190307T055615Z">
+        <seg>dc/d54/classcv_1_1bioinspired_1_1Retina.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>dd/d73/classcv_1_1bioinspired_1_1RetinaFastToneMapping.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T055633Z" creationid="flyeblue" creationdate="20190307T055633Z">
+        <seg>dd/d73/classcv_1_1bioinspired_1_1RetinaFastToneMapping.html</seg>
       </tuv>
     </tu>
     <tu>
