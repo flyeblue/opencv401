@@ -11022,6 +11022,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An edge is an entity defined by two pixels that are connected horizontally or vertically.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T121830Z" creationid="flyeblue" creationdate="20190307T121830Z">
+        <seg>边是由水平或垂直连接的两个像素定义的实体。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>And after the clustering, we apply centroid values (it is also R,G,B) to all pixels, such that resulting image will have specified number of colors.</seg>
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190304T171356Z" creationid="Administrator" creationdate="20190304T171356Z">
@@ -15976,8 +15984,8 @@
       <tuv lang="EN-US">
         <seg>Reliability values lie between 0 and 16*pi*pi.</seg>
       </tuv>
-      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T121008Z" creationid="flyeblue" creationdate="20190307T121008Z">
-        <seg>Reliability values lie between 0 and 16*pi*pi.</seg>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T121557Z" creationid="flyeblue" creationdate="20190307T121008Z">
+        <seg>可靠性值介于0和16 * pi * pi之间。</seg>
       </tuv>
     </tu>
     <tu>
