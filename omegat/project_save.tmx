@@ -3982,6 +3982,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;NoBundleAdjuster&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T074941Z" creationid="flyeblue" creationdate="20190307T074941Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;NoBundleAdjuster&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;NoExposureCompensator&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T075026Z" creationid="flyeblue" creationdate="20190307T075026Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;NoExposureCompensator&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;NoSeamFinder&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T075206Z" creationid="flyeblue" creationdate="20190307T075206Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;NoSeamFinder&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;NormHamming&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T070500Z" creationid="flyeblue" creationdate="20190307T070500Z">
@@ -4018,6 +4042,22 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T070502Z" creationid="flyeblue" creationdate="20190307T070502Z">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;NullType&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;OCLCallHelper&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T075311Z" creationid="flyeblue" creationdate="20190307T075311Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;OCLCallHelper&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;OCVCallHelper&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T075318Z" creationid="flyeblue" creationdate="20190307T075318Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;OCVCallHelper&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4146,6 +4186,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072230Z" creationid="flyeblue" creationdate="20190307T072230Z">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;PD_inriaObj&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;PairwiseSeamFinder&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T075324Z" creationid="flyeblue" creationdate="20190307T075324Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;PairwiseSeamFinder&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6606,6 +6654,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;call_and_postprocess&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T075317Z" creationid="flyeblue" creationdate="20190307T075317Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;call_and_postprocess&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;cameraParam&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072223Z" creationid="flyeblue" creationdate="20190307T072223Z">
@@ -7758,6 +7814,70 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;ocl_get_in&lt; cv::GArray&lt; U &gt; &gt;&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T075302Z" creationid="flyeblue" creationdate="20190307T075302Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;ocl_get_in&lt; cv::GArray&lt; U &gt; &gt;&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;ocl_get_in&lt; cv::GMat &gt;&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T075303Z" creationid="flyeblue" creationdate="20190307T075303Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;ocl_get_in&lt; cv::GMat &gt;&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;ocl_get_in&lt; cv::GScalar &gt;&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T075304Z" creationid="flyeblue" creationdate="20190307T075304Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;ocl_get_in&lt; cv::GScalar &gt;&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;ocl_get_in&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T075301Z" creationid="flyeblue" creationdate="20190307T075301Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;ocl_get_in&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;ocl_get_out&lt; cv::GArray&lt; U &gt; &gt;&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T075305Z" creationid="flyeblue" creationdate="20190307T075305Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;ocl_get_out&lt; cv::GArray&lt; U &gt; &gt;&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;ocl_get_out&lt; cv::GMat &gt;&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T075307Z" creationid="flyeblue" creationdate="20190307T075307Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;ocl_get_out&lt; cv::GMat &gt;&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;ocl_get_out&lt; cv::GScalar &gt;&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T075309Z" creationid="flyeblue" creationdate="20190307T075309Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;ocl_get_out&lt; cv::GScalar &gt;&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;ocl_get_out&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T075304Z" creationid="flyeblue" creationdate="20190307T075304Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;ocl_get_out&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;plus&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T070559Z" creationid="flyeblue" creationdate="20190307T070559Z">
@@ -8250,6 +8370,22 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T070450Z" creationid="flyeblue" creationdate="20190307T070450Z">
         <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;C&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;Min&lt;/a3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;C&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;OCLCallHelper&lt; Impl, std::tuple&lt; Ins... &gt;, std::tuple&lt; Outs... &gt; &gt;&lt;/a3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T075315Z" creationid="flyeblue" creationdate="20190307T075315Z">
+        <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;C&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;OCLCallHelper&lt; Impl, std::tuple&lt; Ins... &gt;, std::tuple&lt; Outs... &gt; &gt;&lt;/a3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;C&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;OCVCallHelper&lt; Impl, std::tuple&lt; Ins... &gt;, std::tuple&lt; Outs... &gt; &gt;&lt;/a3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T075320Z" creationid="flyeblue" creationdate="20190307T075320Z">
+        <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;C&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;OCVCallHelper&lt; Impl, std::tuple&lt; Ins... &gt;, std::tuple&lt; Outs... &gt; &gt;&lt;/a3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13894,6 +14030,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Stub bundle adjuster that does nothing</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T075008Z" creationid="flyeblue" creationdate="20190307T075008Z">
+        <seg>Stub捆绑调整器什么都不做</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stub exposure compensator which does nothing</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T075155Z" creationid="flyeblue" creationdate="20190307T075027Z">
+        <seg>Stub曝光补偿器什么都不做</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stub seam estimator which does nothing</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T075259Z" creationid="flyeblue" creationdate="20190307T075259Z">
+        <seg>Stub seam估算器什么都不做</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Supports HAAR and LBP cascades.</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060709Z" creationid="flyeblue" creationdate="20190307T060709Z">
@@ -16278,6 +16438,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d1/d1b/structcv_1_1detail_1_1ocl__get__in.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T075300Z" creationid="flyeblue" creationdate="20190307T075300Z">
+        <seg>d1/d1b/structcv_1_1detail_1_1ocl__get__in.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d1/d1c/structcv_1_1cudev_1_1asinh__func_3_01float_01_4.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T064910Z" creationid="flyeblue" creationdate="20190307T064910Z">
@@ -16822,6 +16990,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d2/d41/structcv_1_1detail_1_1ocl__get__out_3_01cv_1_1GArray_3_01U_01_4_01_4.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T075305Z" creationid="flyeblue" creationdate="20190307T075305Z">
+        <seg>d2/d41/structcv_1_1detail_1_1ocl__get__out_3_01cv_1_1GArray_3_01U_01_4_01_4.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d2/d54/structcv_1_1detail_1_1GTypeOf_3_01cv_1_1gapi_1_1own_1_1Mat_01_4.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T073812Z" creationid="flyeblue" creationdate="20190307T073812Z">
@@ -17026,6 +17202,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T070413Z" creationid="flyeblue" creationdate="20190307T070413Z">
         <seg>d2/dc0/structcv_1_1cudev_1_1Luv4__to__LRGBA__func.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d2/dc1/classcv_1_1detail_1_1NoExposureCompensator.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T075016Z" creationid="flyeblue" creationdate="20190307T075016Z">
+        <seg>d2/dc1/classcv_1_1detail_1_1NoExposureCompensator.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -17470,6 +17654,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d3/da9/classcv_1_1detail_1_1NoSeamFinder.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T075030Z" creationid="flyeblue" creationdate="20190307T075030Z">
+        <seg>d3/da9/classcv_1_1detail_1_1NoSeamFinder.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d3/dad/structcv_1_1datasets_1_1GR__chalearnObj.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072225Z" creationid="flyeblue" creationdate="20190307T072225Z">
@@ -17786,6 +17978,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T070239Z" creationid="flyeblue" creationdate="20190307T070239Z">
         <seg>d4/d37/structcv_1_1cudev_1_1hypot__func_3_01float_01_4.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d4/d3c/structcv_1_1detail_1_1ocl__get__out.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T075304Z" creationid="flyeblue" creationdate="20190307T075304Z">
+        <seg>d4/d3c/structcv_1_1detail_1_1ocl__get__out.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -18614,6 +18814,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d5/def/structcv_1_1detail_1_1OCLCallHelper_3_01Impl_00_01std_1_1tuple_3_01Ins_8_8_8_01_4_00_01std_1_1tua67cc2fc13da93c8cd58afcdf4d9cddf.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T075316Z" creationid="flyeblue" creationdate="20190307T075316Z">
+        <seg>d5/def/structcv_1_1detail_1_1OCLCallHelper_3_01Impl_00_01std_1_1tuple_3_01Ins_8_8_8_01_4_00_01std_1_1tua67cc2fc13da93c8cd58afcdf4d9cddf.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d5/df2/classcv_1_1cuda_1_1BackgroundSubtractorGMG.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060344Z" creationid="flyeblue" creationdate="20190307T060344Z">
@@ -19178,6 +19386,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T070418Z" creationid="flyeblue" creationdate="20190307T070418Z">
         <seg>d7/d11/structcv_1_1cudev_1_1Luv__to__LRGB__func.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d7/d17/structcv_1_1detail_1_1ocl__get__in_3_01cv_1_1GArray_3_01U_01_4_01_4.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T075301Z" creationid="flyeblue" creationdate="20190307T075301Z">
+        <seg>d7/d17/structcv_1_1detail_1_1ocl__get__in_3_01cv_1_1GArray_3_01U_01_4_01_4.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -20174,6 +20390,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d9/d23/structcv_1_1detail_1_1OCVCallHelper.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T075318Z" creationid="flyeblue" creationdate="20190307T075318Z">
+        <seg>d9/d23/structcv_1_1detail_1_1OCVCallHelper.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d9/d2d/structcv_1_1datasets_1_1FR__lfwObj.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072224Z" creationid="flyeblue" creationdate="20190307T072224Z">
@@ -20486,6 +20710,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d9/db3/structcv_1_1detail_1_1ocl__get__out_3_01cv_1_1GMat_01_4.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T075306Z" creationid="flyeblue" creationdate="20190307T075306Z">
+        <seg>d9/db3/structcv_1_1detail_1_1ocl__get__out_3_01cv_1_1GMat_01_4.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d9/db8/structcv_1_1cudev_1_1VecTraits_3_01ushort_01_4.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072201Z" creationid="flyeblue" creationdate="20190307T072201Z">
@@ -20562,6 +20794,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T070127Z" creationid="flyeblue" creationdate="20190307T070127Z">
         <seg>d9/de1/structcv_1_1cudev_1_1HSV4__to__BGR__FULL__func.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d9/de2/structcv_1_1detail_1_1ocl__get__in_3_01cv_1_1GMat_01_4.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T075302Z" creationid="flyeblue" creationdate="20190307T075302Z">
+        <seg>d9/de2/structcv_1_1detail_1_1ocl__get__in_3_01cv_1_1GMat_01_4.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -20738,6 +20978,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T070623Z" creationid="flyeblue" creationdate="20190307T070623Z">
         <seg>da/d58/structcv_1_1cudev_1_1ReduceToRowBody.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>da/d5a/structcv_1_1detail_1_1OCVCallHelper_3_01Impl_00_01std_1_1tuple_3_01Ins_8_8_8_01_4_00_01std_1_1tuple_3_01Outs_8_8_8_01_4_01_4.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T075319Z" creationid="flyeblue" creationdate="20190307T075319Z">
+        <seg>da/d5a/structcv_1_1detail_1_1OCVCallHelper_3_01Impl_00_01std_1_1tuple_3_01Ins_8_8_8_01_4_00_01std_1_1tuple_3_01Outs_8_8_8_01_4_01_4.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -21462,6 +21710,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>db/dd4/classcv_1_1detail_1_1NoBundleAdjuster.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T074940Z" creationid="flyeblue" creationdate="20190307T074940Z">
+        <seg>db/dd4/classcv_1_1detail_1_1NoBundleAdjuster.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>db/dda/classcv_1_1detail_1_1GraphCutSeamFinder.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T073738Z" creationid="flyeblue" creationdate="20190307T073738Z">
@@ -22006,6 +22262,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>dd/d00/classcv_1_1detail_1_1PairwiseSeamFinder.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T075322Z" creationid="flyeblue" creationdate="20190307T075322Z">
+        <seg>dd/d00/classcv_1_1detail_1_1PairwiseSeamFinder.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>dd/d00/structcv_1_1cudev_1_1BGR__to__HSV__FULL__func_3_01float_01_4.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T065012Z" creationid="flyeblue" creationdate="20190307T065012Z">
@@ -22482,6 +22746,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T064943Z" creationid="flyeblue" creationdate="20190307T064943Z">
         <seg>dd/dce/structcv_1_1cudev_1_1atan__func_3_01uchar_01_4.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>dd/dd4/structcv_1_1detail_1_1ocl__get__out_3_01cv_1_1GScalar_01_4.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T075308Z" creationid="flyeblue" creationdate="20190307T075308Z">
+        <seg>dd/dd4/structcv_1_1detail_1_1ocl__get__out_3_01cv_1_1GScalar_01_4.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -23014,6 +23286,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>df/d06/structcv_1_1detail_1_1OCLCallHelper_3_01Impl_00_01std_1_1tuple_3_01Ins_8_8_8_01_4_00_01std_1_1tuple_3_01Outs_8_8_8_01_4_01_4.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T075314Z" creationid="flyeblue" creationdate="20190307T075314Z">
+        <seg>df/d06/structcv_1_1detail_1_1OCLCallHelper_3_01Impl_00_01std_1_1tuple_3_01Ins_8_8_8_01_4_00_01std_1_1tuple_3_01Outs_8_8_8_01_4_01_4.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>df/d10/structcv_1_1cudev_1_1HSV__to__RGBA__func.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T070234Z" creationid="flyeblue" creationdate="20190307T070234Z">
@@ -23238,6 +23518,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>df/d75/structcv_1_1detail_1_1OCLCallHelper.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T075310Z" creationid="flyeblue" creationdate="20190307T075310Z">
+        <seg>df/d75/structcv_1_1detail_1_1OCLCallHelper.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>df/d79/structcv_1_1cudev_1_1XYZ4__to__BGR__func.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072205Z" creationid="flyeblue" creationdate="20190307T072205Z">
@@ -23382,6 +23670,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>df/dbf/structcv_1_1detail_1_1ocl__get__in_3_01cv_1_1GScalar_01_4.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T075303Z" creationid="flyeblue" creationdate="20190307T075303Z">
+        <seg>df/dbf/structcv_1_1detail_1_1ocl__get__in_3_01cv_1_1GScalar_01_4.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>df/dc6/structcv_1_1cudev_1_1tanh__func_3_01uint_01_4.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072128Z" creationid="flyeblue" creationdate="20190307T072128Z">
@@ -23458,6 +23754,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072144Z" creationid="flyeblue" creationdate="20190307T072144Z">
         <seg>df/de4/structcv_1_1cudev_1_1VecTraits_3_01char3_01_4.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>df/de6/structcv_1_1detail_1_1OCVCallHelper_3_01Impl_00_01std_1_1tuple_3_01Ins_8_8_8_01_4_00_01std_1_1tu8bfb77c34485398698447f60ee067830.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T075321Z" creationid="flyeblue" creationdate="20190307T075321Z">
+        <seg>df/de6/structcv_1_1detail_1_1OCVCallHelper_3_01Impl_00_01std_1_1tuple_3_01Ins_8_8_8_01_4_00_01std_1_1tu8bfb77c34485398698447f60ee067830.html</seg>
       </tuv>
     </tu>
     <tu>
