@@ -11422,6 +11422,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Abstract base class for generating and decoding structured light patterns.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T133713Z" creationid="flyeblue" creationdate="20190307T133713Z">
+        <seg>用于生成和解码结构光图案的抽象基类</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Abstract base class for matching keypoint descriptors</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T061142Z" creationid="flyeblue" creationdate="20190307T061142Z">
