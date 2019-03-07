@@ -9382,6 +9382,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;libmv_CameraIntrinsicsOptions&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T125618Z" creationid="flyeblue" creationdate="20190307T125618Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;libmv_CameraIntrinsicsOptions&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;log10_func&lt; double &gt;&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T070321Z" creationid="flyeblue" creationdate="20190307T070321Z">
@@ -11682,6 +11690,14 @@
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190224T150818Z" creationid="Administrator" creationdate="20190224T150818Z">
         <seg>long-term跟踪器抽象基础类: &lt;a0&gt;More...&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Base class &lt;a0&gt;BaseSFM&lt;/a0&gt; declares a common API that would be used in a typical scene reconstruction scenario</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T125637Z" creationid="flyeblue" creationdate="20190307T125605Z">
+        <seg>基类&lt;a0&gt; BaseSFM &lt;/a0&gt;声明了一个常用的API，可用于典型的场景重建场景</seg>
       </tuv>
     </tu>
     <tu>
@@ -19206,6 +19222,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>base class BaseSFM declares a common API that would be used in a typical scene reconstruction scenari...</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T125551Z" creationid="flyeblue" creationdate="20190307T125551Z">
+        <seg>基类BaseSFM声明了一个可用于典型场景重建场景的通用API...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>boundingBox</seg>
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190224T154820Z" creationid="Administrator" creationdate="20190224T154820Z">
@@ -25594,6 +25618,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T094116Z" creationid="flyeblue" creationdate="20190307T094116Z">
         <seg>d9/d57/structcv_1_1flann_1_1CvType_3_01unsigned_01short_01_4.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d9/d5a/classcv_1_1sfm_1_1libmv__CameraIntrinsicsOptions.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T125616Z" creationid="flyeblue" creationdate="20190307T125616Z">
+        <seg>d9/d5a/classcv_1_1sfm_1_1libmv__CameraIntrinsicsOptions.html</seg>
       </tuv>
     </tu>
     <tu>
