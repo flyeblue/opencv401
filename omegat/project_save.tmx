@@ -7246,6 +7246,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;StructuredLightPattern&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T134250Z" creationid="flyeblue" creationdate="20190307T134250Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;StructuredLightPattern&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;SumExprBody&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072119Z" creationid="flyeblue" creationdate="20190307T072119Z">
@@ -10766,6 +10774,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;C&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;SinusoidalPattern&lt;/a3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T134122Z" creationid="flyeblue" creationdate="20190307T134122Z">
+        <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;C&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;SinusoidalPattern&lt;/a3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;C&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;StandardCollector&lt;/a3&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T094032Z" creationid="flyeblue" creationdate="20190307T094032Z">
@@ -12802,6 +12818,22 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T114042Z" creationid="flyeblue" creationdate="20190307T114042Z">
         <seg>用于多摄像机校准的类，支持针孔摄像机和全向摄像机.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Class implementing Fourier transform profilometry (FTP) , phase-shifting profilometry (PSP) and Fouri...</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T134244Z" creationid="flyeblue" creationdate="20190307T134227Z">
+        <seg>实现傅立叶变换轮廓术（FTP），相移轮廓术（PSP）和Fouri的类...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Class implementing Fourier transform profilometry (FTP) , phase-shifting profilometry (PSP) and Fourier-assisted phase-shifting profilometry (FAPS) based on &lt;a0&gt;[39]&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T134222Z" creationid="flyeblue" creationdate="20190307T134222Z">
+        <seg>实现基于&lt;a0&gt; [39] &lt;/a0&gt;的傅里叶变换轮廓术（FTP），相移轮廓术（PSP）和傅里叶辅助相移轮廓术（FAPS）的类</seg>
       </tuv>
     </tu>
     <tu>
@@ -16598,6 +16630,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Parameters of &lt;a0&gt;SinusoidalPattern&lt;/a0&gt; constructor</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T134229Z" creationid="flyeblue" creationdate="20190307T134229Z">
+        <seg>Parameters of &lt;a0&gt;SinusoidalPattern&lt;/a0&gt; constructor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Parameters of &lt;a0&gt;StructuredLightPattern&lt;/a0&gt; constructor</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T134120Z" creationid="flyeblue" creationdate="20190307T134120Z">
+        <seg>&lt;a0&gt; StructuredLightPattern &lt;/a0&gt;构造函数的参数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Parameters of phaseUnwrapping constructor</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T121945Z" creationid="flyeblue" creationdate="20190307T121945Z">
@@ -20314,6 +20362,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T073449Z" creationid="flyeblue" creationdate="20190307T073449Z">
         <seg>d0/de3/citelist.html#CITEREF_WJ10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d0/de3/citelist.html#CITEREF_faps</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T134123Z" creationid="flyeblue" creationdate="20190307T134123Z">
+        <seg>d0/de3/citelist.html#CITEREF_faps</seg>
       </tuv>
     </tu>
     <tu>
@@ -24106,6 +24162,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T115010Z" creationid="flyeblue" creationdate="20190307T115010Z">
         <seg>d6/d94/classcv_1_1ocl_1_1PlatformInfo.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d6/d96/classcv_1_1structured__light_1_1SinusoidalPattern.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T134121Z" creationid="flyeblue" creationdate="20190307T134121Z">
+        <seg>d6/d96/classcv_1_1structured__light_1_1SinusoidalPattern.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -29786,6 +29850,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T070557Z" creationid="flyeblue" creationdate="20190307T070557Z">
         <seg>df/d20/structcv_1_1cudev_1_1PerspectiveMapPtr.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>df/d21/structcv_1_1structured__light_1_1SinusoidalPattern_1_1Params.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T134226Z" creationid="flyeblue" creationdate="20190307T134226Z">
+        <seg>df/d21/structcv_1_1structured__light_1_1SinusoidalPattern_1_1Params.html</seg>
       </tuv>
     </tu>
     <tu>
