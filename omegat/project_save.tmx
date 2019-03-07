@@ -438,6 +438,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a0&gt;OCRBeamSearchDecoder&lt;/a0&gt; class provides an interface for OCR using Beam Search algorithm</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T143345Z" creationid="flyeblue" creationdate="20190307T143345Z">
+        <seg>&lt;a0&gt;OCRBeamSearchDecoder&lt;/a0&gt; class provides an interface for OCR using Beam Search algorithm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a0&gt;Objectness&lt;/a0&gt; algorithms based on [3] [3] Cheng, Ming-Ming, et al.</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T124818Z" creationid="flyeblue" creationdate="20190307T124818Z">
@@ -10814,6 +10822,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;C&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;OCRBeamSearchDecoder&lt;/a3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T143341Z" creationid="flyeblue" creationdate="20190307T143341Z">
+        <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;C&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;OCRBeamSearchDecoder&lt;/a3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;C&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;OCVCallHelper&lt; Impl, std::tuple&lt; Ins... &gt;, std::tuple&lt; Outs... &gt; &gt;&lt;/a3&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T075320Z" creationid="flyeblue" creationdate="20190307T075320Z">
@@ -16254,6 +16270,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>OCRBeamSearchDecoder class provides an interface for OCR using Beam Search algorithm.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T143410Z" creationid="flyeblue" creationdate="20190307T143342Z">
+        <seg>OCRBeamSearchDecoder类使用Beam Search算法为OCR提供接口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>OPENNI</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T052641Z" creationid="flyeblue" creationdate="20190307T052641Z">
@@ -17754,6 +17778,14 @@
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190305T145049Z" creationid="Administrator" creationdate="20190305T145049Z">
         <seg>如果物体没有相互接触，这将起作用.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;a0&gt;ERStat&lt;/a0&gt; structure represents a class-specific Extremal Region (ER)</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T143340Z" creationid="flyeblue" creationdate="20190307T143320Z">
+        <seg>&lt;a0&gt; ERStat &lt;/a0&gt;结构表示特定于类的极值区域（ER）</seg>
       </tuv>
     </tu>
     <tu>
@@ -26710,6 +26742,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>da/d07/classcv_1_1text_1_1OCRBeamSearchDecoder.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T143328Z" creationid="flyeblue" creationdate="20190307T143328Z">
+        <seg>da/d07/classcv_1_1text_1_1OCRBeamSearchDecoder.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>da/d1b/classcv_1_1reg_1_1MapTypeCaster.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T124313Z" creationid="flyeblue" creationdate="20190307T124313Z">
@@ -29450,6 +29490,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T134422Z" creationid="flyeblue" creationdate="20190307T134422Z">
         <seg>de/d2b/classcv_1_1superres_1_1PyrLKOpticalFlow.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>de/d2d/classcv_1_1text_1_1OCRBeamSearchDecoder_1_1ClassifierCallback.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T143414Z" creationid="flyeblue" creationdate="20190307T143414Z">
+        <seg>de/d2d/classcv_1_1text_1_1OCRBeamSearchDecoder_1_1ClassifierCallback.html</seg>
       </tuv>
     </tu>
     <tu>
