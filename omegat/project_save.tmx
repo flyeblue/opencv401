@@ -13014,6 +13014,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>First, it computes a reliability map from second differences between a pixel and its eight neighbours.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T121053Z" creationid="flyeblue" creationdate="20190307T121004Z">
+        <seg>首先，它根据像素与其八个邻居之间的第二个差异来计算可靠性图.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Following method also gives the Major Axis and Minor Axis lengths.</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190306T100422Z" creationid="flyeblue" creationdate="20190306T100422Z">
@@ -15966,6 +15974,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reliability values lie between 0 and 16*pi*pi.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T121008Z" creationid="flyeblue" creationdate="20190307T121008Z">
+        <seg>Reliability values lie between 0 and 16*pi*pi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Remaining area which are sure background are shown in lighter blue compared to unknown region.</seg>
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190305T152932Z" creationid="Administrator" creationdate="20190305T152932Z">
@@ -17250,6 +17266,14 @@
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190306T044903Z" creationid="Administrator" creationdate="20190306T044903Z">
         <seg>然后指定质量等级，该等级是0-1之间的值，表示每个人被拒绝的角落的最低质量.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then, this reliability map is used to compute the reliabilities of "edges".</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T121113Z" creationid="flyeblue" creationdate="20190307T121113Z">
+        <seg>然后，该可靠性图用于计算“边缘”的可靠性。</seg>
       </tuv>
     </tu>
     <tu>
