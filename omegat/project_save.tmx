@@ -590,6 +590,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;Allocator&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T062235Z" creationid="flyeblue" creationdate="20190307T062235Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;Allocator&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;BackgroundSubtractorCNT&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T054018Z" creationid="flyeblue" creationdate="20190307T054018Z">
@@ -874,6 +882,22 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T053427Z" creationid="flyeblue" creationdate="20190307T053427Z">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;GridBoard&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;HOG&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T062236Z" creationid="flyeblue" creationdate="20190307T062236Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;HOG&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;HostMem&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T062402Z" creationid="flyeblue" creationdate="20190307T062402Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;HostMem&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1610,6 +1634,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T061037Z" creationid="flyeblue" creationdate="20190307T061037Z">
         <seg>密集光流算法的基本接口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Base storage class for GPU memory with reference counting</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T062232Z" creationid="flyeblue" creationdate="20190307T062232Z">
+        <seg>具有引用计数的GPU内存的基本存储类</seg>
       </tuv>
     </tu>
     <tu>
@@ -6318,6 +6350,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The class implements Histogram of Oriented Gradients (&lt;a0&gt;[40]&lt;/a0&gt;) object detector</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T062400Z" creationid="flyeblue" creationdate="20190307T062321Z">
+        <seg>该类实现了方向梯度直方图（&lt;a0&gt;[40] &lt;/a0&gt;）对象检测器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The contours are a useful tool for shape analysis and object detection and recognition.</seg>
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190306T031013Z" creationid="Administrator" creationdate="20190306T031013Z">
@@ -7750,6 +7790,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d0/d44/classcv_1_1cuda_1_1HostMem.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T062343Z" creationid="flyeblue" creationdate="20190307T062343Z">
+        <seg>0/d44/classcv_1_1cuda_1_1HostMem.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d0/d60/classcv_1_1cuda_1_1GpuMat.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T062116Z" creationid="flyeblue" creationdate="20190307T062116Z">
@@ -7778,6 +7826,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060417Z" creationid="flyeblue" creationdate="20190307T060417Z">
         <seg>d0/de3/citelist.html#CITEREF_Brox2004</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d0/de3/citelist.html#CITEREF_Dalal2005</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T062237Z" creationid="flyeblue" creationdate="20190307T062237Z">
+        <seg>d0/de3/citelist.html#CITEREF_Dalal2005</seg>
       </tuv>
     </tu>
     <tu>
@@ -8190,6 +8246,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>de/da6/classcv_1_1cuda_1_1HOG.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T062235Z" creationid="flyeblue" creationdate="20190307T062235Z">
+        <seg>de/da6/classcv_1_1cuda_1_1HOG.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>de/db6/classcv_1_1Detector.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060513Z" creationid="flyeblue" creationdate="20190307T060513Z">
@@ -8234,6 +8298,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T054011Z" creationid="flyeblue" creationdate="20190307T054011Z">
         <seg>df/d5d/namespacecv_1_1bgsegm.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>df/d98/classcv_1_1cuda_1_1GpuMat_1_1Allocator.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T062234Z" creationid="flyeblue" creationdate="20190307T062234Z">
+        <seg>df/d98/classcv_1_1cuda_1_1GpuMat_1_1Allocator.html</seg>
       </tuv>
     </tu>
     <tu>
