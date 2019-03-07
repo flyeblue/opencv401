@@ -598,6 +598,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;BackgroundSubtractorLSBPDesc&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T055300Z" creationid="flyeblue" creationdate="20190307T055300Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;BackgroundSubtractorLSBPDesc&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;BackgroundSubtractorMOG&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T055354Z" creationid="flyeblue" creationdate="20190307T055354Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;BackgroundSubtractorMOG&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;Board&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190224T140020Z" creationid="Administrator" creationdate="20190224T140020Z">
@@ -634,6 +650,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T053427Z" creationid="flyeblue" creationdate="20190307T053427Z">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;GridBoard&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;SyntheticSequenceGenerator&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T055531Z" creationid="flyeblue" creationdate="20190307T055531Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;SyntheticSequenceGenerator&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2526,6 +2550,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Gaussian Mixture-based Background/Foreground Segmentation &lt;a0&gt;Algorithm&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T055526Z" creationid="flyeblue" creationdate="20190307T055526Z">
+        <seg>基于高斯混合的背景/前景分割&lt;a0&gt;算法&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Gaussian blurring is highly effective in removing gaussian noise from the image.</seg>
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190305T192840Z" creationid="Administrator" creationdate="20190305T192840Z">
@@ -4114,6 +4146,14 @@
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190305T114012Z" creationid="Administrator" creationdate="20190305T114012Z">
         <seg>使用Mertens融合合并曝光</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>More details about the algorithm can be found at &lt;a1&gt;[80]&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T055241Z" creationid="flyeblue" creationdate="20190307T055241Z">
+        <seg>关于算法的更多细节可以在 &lt;a1&gt;[80]&lt;/a1&gt;找到</seg>
       </tuv>
     </tu>
     <tu>
@@ -6158,6 +6198,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is for calculation of the LSBP descriptors</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T055337Z" creationid="flyeblue" creationdate="20190307T055337Z">
+        <seg>这用于计算LSBP描述符</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is highly effective against salt-and-pepper noise in the images.</seg>
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190305T194616Z" creationid="Administrator" creationdate="20190305T194616Z">
@@ -7102,10 +7150,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d1/dda/classcv_1_1bgsegm_1_1SyntheticSequenceGenerator.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T055529Z" creationid="flyeblue" creationdate="20190307T055529Z">
+        <seg>d1/dda/classcv_1_1bgsegm_1_1SyntheticSequenceGenerator.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d1/de5/classcv_1_1bgsegm_1_1BackgroundSubtractorLSBPDesc.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T055258Z" creationid="flyeblue" creationdate="20190307T055258Z">
+        <seg>d1/de5/classcv_1_1bgsegm_1_1BackgroundSubtractorLSBPDesc.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d2/d75/namespacecv.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T052755Z" creationid="flyeblue" creationdate="20190307T052755Z">
         <seg>d2/d75/namespacecv.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d3/d46/classcv_1_1Algorithm.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T055418Z" creationid="flyeblue" creationdate="20190307T055418Z">
+        <seg>d3/d46/classcv_1_1Algorithm.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -7138,6 +7210,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T053333Z" creationid="flyeblue" creationdate="20190307T053333Z">
         <seg>d5/d0b/classcv_1_1aruco_1_1Dictionary.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d6/da7/classcv_1_1bgsegm_1_1BackgroundSubtractorMOG.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T055345Z" creationid="flyeblue" creationdate="20190307T055345Z">
+        <seg>d6/da7/classcv_1_1bgsegm_1_1BackgroundSubtractorMOG.html</seg>
       </tuv>
     </tu>
     <tu>
