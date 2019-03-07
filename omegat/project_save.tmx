@@ -12806,6 +12806,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Class implementing the Gray-code pattern, based on &lt;a0&gt;[87]&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T133511Z" creationid="flyeblue" creationdate="20190307T133511Z">
+        <seg>实现格雷码模式的类，基于&lt;a0&gt; [87] &lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Class implementing the ORB (oriented BRIEF) keypoint detector and descriptor extractor.</seg>
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190304T174954Z" creationid="Administrator" creationdate="20190304T174954Z">
@@ -22014,6 +22022,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d3/d4d/structcv_1_1structured__light_1_1GrayCodePattern_1_1Params.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T133512Z" creationid="flyeblue" creationdate="20190307T133512Z">
+        <seg>d3/d4d/structcv_1_1structured__light_1_1GrayCodePattern_1_1Params.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d3/d56/structcv_1_1flann_1_1AutotunedIndexParams.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T094049Z" creationid="flyeblue" creationdate="20190307T094049Z">
@@ -26202,6 +26218,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T110523Z" creationid="flyeblue" creationdate="20190307T110523Z">
         <seg>d9/db9/structcv_1_1linemod_1_1Feature.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d9/dbb/classcv_1_1structured__light_1_1StructuredLightPattern.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T133514Z" creationid="flyeblue" creationdate="20190307T133514Z">
+        <seg>d9/dbb/classcv_1_1structured__light_1_1StructuredLightPattern.html</seg>
       </tuv>
     </tu>
     <tu>
