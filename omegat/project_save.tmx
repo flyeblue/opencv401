@@ -574,6 +574,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;BackgroundSubtractorGMG&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T054114Z" creationid="flyeblue" creationdate="20190307T054114Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;BackgroundSubtractorGMG&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;BackgroundSubtractorGSOC&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T054502Z" creationid="flyeblue" creationdate="20190307T054502Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;BackgroundSubtractorGSOC&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;BackgroundSubtractorLSBP&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T054716Z" creationid="flyeblue" creationdate="20190307T054716Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;BackgroundSubtractorLSBP&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;Board&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190224T140020Z" creationid="Administrator" creationdate="20190224T140020Z">
@@ -1090,6 +1114,22 @@
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190305T131115Z" creationid="Administrator" creationdate="20190305T131115Z">
         <seg>在这些情况下，背景减法是众所周知的方法.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Background Subtractor module based on the algorithm given in &lt;a0&gt;[74]&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T054456Z" creationid="flyeblue" creationdate="20190307T054456Z">
+        <seg>背景减法器模块基于&lt;a0&gt;[74]&lt;/a0&gt;中给出的算法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Background subtraction based on counting</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T054112Z" creationid="flyeblue" creationdate="20190307T054112Z">
+        <seg>基于计数的背景减法</seg>
       </tuv>
     </tu>
     <tu>
@@ -3026,6 +3066,14 @@
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190305T122911Z" creationid="Administrator" creationdate="20190305T122911Z">
         <seg>图片来自 &lt;a0&gt;Wikipedia-HDR&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Implementation of the different yet better algorithm which is called GSOC, as it was implemented during GSOC and was not originated from any paper</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T054713Z" creationid="flyeblue" creationdate="20190307T054713Z">
+        <seg>执行不同但更好的算法，称为GSOC，因为它是在GSOC期间实施的，并非源自任何纸张</seg>
       </tuv>
     </tu>
     <tu>
@@ -5110,6 +5158,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Singular Value Decomposition.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T054753Z" creationid="flyeblue" creationdate="20190307T054753Z">
+        <seg>奇异值分解.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Smoothing Images</seg>
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190305T180452Z" creationid="Administrator" creationdate="20190305T180452Z">
@@ -7006,6 +7062,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d0/de3/citelist.html#CITEREF_Gold2012</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T054115Z" creationid="flyeblue" creationdate="20190307T054115Z">
+        <seg>d0/de3/citelist.html#CITEREF_Gold2012</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d0/de3/citelist.html#CITEREF_LGuo2016</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T054755Z" creationid="flyeblue" creationdate="20190307T054755Z">
+        <seg>d0/de3/citelist.html#CITEREF_LGuo2016</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d1/d5c/classcv_1_1bgsegm_1_1BackgroundSubtractorGMG.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T054113Z" creationid="flyeblue" creationdate="20190307T054113Z">
+        <seg>d1/d5c/classcv_1_1bgsegm_1_1BackgroundSubtractorGMG.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d1/dcd/structcv_1_1aruco_1_1DetectorParameters.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T053103Z" creationid="flyeblue" creationdate="20190307T053103Z">
@@ -7038,6 +7118,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d4/dd5/classcv_1_1bgsegm_1_1BackgroundSubtractorGSOC.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T054500Z" creationid="flyeblue" creationdate="20190307T054500Z">
+        <seg>d4/dd5/classcv_1_1bgsegm_1_1BackgroundSubtractorGSOC.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d5/d0b/classcv_1_1aruco_1_1Dictionary.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T053333Z" creationid="flyeblue" creationdate="20190307T053333Z">
@@ -7062,6 +7150,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>de/d4c/classcv_1_1bgsegm_1_1BackgroundSubtractorLSBP.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T054715Z" creationid="flyeblue" creationdate="20190307T054715Z">
+        <seg>de/d4c/classcv_1_1bgsegm_1_1BackgroundSubtractorLSBP.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>de/dca/classcv_1_1bgsegm_1_1BackgroundSubtractorCNT.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T054014Z" creationid="flyeblue" creationdate="20190307T054014Z">
@@ -7082,6 +7178,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T054011Z" creationid="flyeblue" creationdate="20190307T054011Z">
         <seg>df/d5d/namespacecv_1_1bgsegm.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>df/df7/classcv_1_1SVD.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T054717Z" creationid="flyeblue" creationdate="20190307T054717Z">
+        <seg>df/df7/classcv_1_1SVD.html</seg>
       </tuv>
     </tu>
     <tu>
