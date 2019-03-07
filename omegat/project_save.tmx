@@ -2326,6 +2326,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;EM&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T113132Z" creationid="flyeblue" creationdate="20190307T113132Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;EM&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;EigenFaceRecognizer&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T092931Z" creationid="flyeblue" creationdate="20190307T092931Z">
@@ -3726,6 +3734,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;KNearest&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T113222Z" creationid="flyeblue" creationdate="20190307T113222Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;KNearest&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;KeyLine&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T105932Z" creationid="flyeblue" creationdate="20190307T105932Z">
@@ -4130,6 +4146,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T070327Z" creationid="flyeblue" creationdate="20190307T070327Z">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;Log2&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;LogisticRegression&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T113237Z" creationid="flyeblue" creationdate="20190307T113237Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;LogisticRegression&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4854,6 +4878,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;NormalBayesClassifier&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T113308Z" creationid="flyeblue" creationdate="20190307T113308Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;NormalBayesClassifier&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;NormalizeBBoxLayer&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T081020Z" creationid="flyeblue" creationdate="20190307T081020Z">
@@ -5074,6 +5106,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T075413Z" creationid="flyeblue" creationdate="20190307T075413Z">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;PaniniWarper&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;ParamGrid&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T113321Z" creationid="flyeblue" creationdate="20190307T113321Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;ParamGrid&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5982,6 +6022,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;RTrees&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T113355Z" creationid="flyeblue" creationdate="20190307T113355Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;RTrees&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;RadialVarianceHash&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T105511Z" creationid="flyeblue" creationdate="20190307T105511Z">
@@ -6350,6 +6398,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;SimulatedAnnealingSolverSystem&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T113419Z" creationid="flyeblue" creationdate="20190307T113419Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;SimulatedAnnealingSolverSystem&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;SingleMaskChannels&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072105Z" creationid="flyeblue" creationdate="20190307T072105Z">
@@ -6474,6 +6530,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T080104Z" creationid="flyeblue" creationdate="20190307T080104Z">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;SphericalWarperGpu&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;Split&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T113110Z" creationid="flyeblue" creationdate="20190307T113110Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;Split&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11094,6 +11158,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bayes classifier for normally distributed data</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T113319Z" creationid="flyeblue" creationdate="20190307T113319Z">
+        <seg>用于正态分布数据的贝叶斯分类器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Before that we need to specify the criteria.</seg>
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190304T163002Z" creationid="Administrator" creationdate="20190304T163002Z">
@@ -13434,6 +13506,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T054713Z" creationid="flyeblue" creationdate="20190307T054713Z">
         <seg>执行不同但更好的算法，称为GSOC，因为它是在GSOC期间实施的，并非源自任何纸张</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Implements Logistic Regression classifier</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T113305Z" creationid="flyeblue" creationdate="20190307T113305Z">
+        <seg>实现Logistic回归分类器</seg>
       </tuv>
     </tu>
     <tu>
@@ -16374,6 +16454,38 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The class implements K-Nearest Neighbors model</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T113235Z" creationid="flyeblue" creationdate="20190307T113235Z">
+        <seg>该类实现了K-Nearest Neighbors模型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The class implements the Expectation Maximization algorithm</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T113220Z" creationid="flyeblue" creationdate="20190307T113220Z">
+        <seg>该类实现了期望最大化算法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The class implements the random forest predictor</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T113416Z" creationid="flyeblue" creationdate="20190307T113416Z">
+        <seg>该类实现随机森林预测器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The class represents a decision tree node</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T113106Z" creationid="flyeblue" creationdate="20190307T113106Z">
+        <seg>该类表示决策树节点</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The class represents a single decision tree or a collection of decision trees</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T113042Z" creationid="flyeblue" creationdate="20190307T113042Z">
@@ -16386,6 +16498,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T111247Z" creationid="flyeblue" creationdate="20190307T111247Z">
         <seg>该类表示单个决策树或决策树集合.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The class represents split in a decision tree</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T113127Z" creationid="flyeblue" creationdate="20190307T113111Z">
+        <seg>该类表示在决策树中拆分</seg>
       </tuv>
     </tu>
     <tu>
@@ -16522,6 +16642,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060210Z" creationid="flyeblue" creationdate="20190307T060210Z">
         <seg>如此获得的描述符可用于分类和姿势估计目标&lt;a0&gt; [219] &lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The structure represents the logarithmic grid range of statmodel parameters</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T113354Z" creationid="flyeblue" creationdate="20190307T113354Z">
+        <seg>该结构表示statmodel参数的对数网格范围</seg>
       </tuv>
     </tu>
     <tu>
@@ -18182,6 +18310,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d0/d65/classcv_1_1ml_1_1RTrees.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T113355Z" creationid="flyeblue" creationdate="20190307T113355Z">
+        <seg>d0/d65/classcv_1_1ml_1_1RTrees.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d0/d66/structcv_1_1cudev_1_1exp10__func_3_01double_01_4.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T065623Z" creationid="flyeblue" creationdate="20190307T065623Z">
@@ -19258,6 +19394,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T070611Z" creationid="flyeblue" creationdate="20190307T070611Z">
         <seg>d1/df8/structcv_1_1cudev_1_1PtrTraits_3_01LutPtrSz_3_01SrcPtr_00_01TablePtr_01_4_01_4.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d1/dfb/classcv_1_1ml_1_1EM.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T113114Z" creationid="flyeblue" creationdate="20190307T113114Z">
+        <seg>d1/dfb/classcv_1_1ml_1_1EM.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -20878,6 +21022,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d4/d8e/classcv_1_1ml_1_1NormalBayesClassifier.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T113307Z" creationid="flyeblue" creationdate="20190307T113307Z">
+        <seg>d4/d8e/classcv_1_1ml_1_1NormalBayesClassifier.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d4/d8e/structcv_1_1cudev_1_1atan2__func.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T064922Z" creationid="flyeblue" creationdate="20190307T064922Z">
@@ -22198,6 +22350,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d6/dca/classcv_1_1ml_1_1ParamGrid.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T113320Z" creationid="flyeblue" creationdate="20190307T113320Z">
+        <seg>d6/dca/classcv_1_1ml_1_1ParamGrid.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d6/dd0/classcv_1_1detail_1_1SphericalWarper.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T075840Z" creationid="flyeblue" creationdate="20190307T075840Z">
@@ -22306,6 +22466,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T063727Z" creationid="flyeblue" creationdate="20190307T063727Z">
         <seg>d6/df9/classcv_1_1cuda_1_1HoughSegmentDetector.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d6/df9/classcv_1_1ml_1_1LogisticRegression.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T113236Z" creationid="flyeblue" creationdate="20190307T113236Z">
+        <seg>d6/df9/classcv_1_1ml_1_1LogisticRegression.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -23642,6 +23810,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072250Z" creationid="flyeblue" creationdate="20190307T072250Z">
         <seg>d9/d36/structcv_1_1datasets_1_1TRACK__votObj.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d9/d37/classcv_1_1ml_1_1DTrees_1_1Split.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T113109Z" creationid="flyeblue" creationdate="20190307T113109Z">
+        <seg>d9/d37/classcv_1_1ml_1_1DTrees_1_1Split.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -25718,6 +25894,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>dc/db4/structcv_1_1ml_1_1SimulatedAnnealingSolverSystem.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T113417Z" creationid="flyeblue" creationdate="20190307T113417Z">
+        <seg>dc/db4/structcv_1_1ml_1_1SimulatedAnnealingSolverSystem.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>dc/db5/structcv_1_1detail_1_1GTypeTraits_3_01cv_1_1GScalar_01_4.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T073820Z" creationid="flyeblue" creationdate="20190307T073820Z">
@@ -26530,6 +26714,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T092802Z" creationid="flyeblue" creationdate="20190307T092802Z">
         <seg>dd/dde/classcv_1_1dnn_1_1ScaleLayer.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>dd/de1/classcv_1_1ml_1_1KNearest.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T113221Z" creationid="flyeblue" creationdate="20190307T113221Z">
+        <seg>dd/de1/classcv_1_1ml_1_1KNearest.html</seg>
       </tuv>
     </tu>
     <tu>
