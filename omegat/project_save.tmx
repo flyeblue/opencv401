@@ -4798,6 +4798,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;Node&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T113045Z" creationid="flyeblue" creationdate="20190307T113045Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;Node&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;NodeData&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T105549Z" creationid="flyeblue" creationdate="20190307T105549Z">
@@ -9830,6 +9838,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;C&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;DTrees&lt;/a3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T113028Z" creationid="flyeblue" creationdate="20190307T113028Z">
+        <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;C&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;DTrees&lt;/a3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;C&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;FacemarkAAM&lt;/a3&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T092949Z" creationid="flyeblue" creationdate="20190307T092949Z">
@@ -11266,6 +11282,14 @@
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190224T140045Z" creationid="Administrator" creationdate="20190224T140045Z">
         <seg>板块标签.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Boosted tree classifier derived from &lt;a0&gt;DTrees&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T113027Z" creationid="flyeblue" creationdate="20190307T113027Z">
+        <seg>从&lt;a0&gt; DTrees &lt;/a0&gt;派生的Boosted树分类器</seg>
       </tuv>
     </tu>
     <tu>
@@ -16350,6 +16374,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The class represents a single decision tree or a collection of decision trees</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T113042Z" creationid="flyeblue" creationdate="20190307T113042Z">
+        <seg>该类表示单个决策树或决策树集合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The class represents a single decision tree or a collection of decision trees.</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T111247Z" creationid="flyeblue" creationdate="20190307T111247Z">
@@ -20778,6 +20810,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T065623Z" creationid="flyeblue" creationdate="20190307T065623Z">
         <seg>d4/d78/structcv_1_1cudev_1_1exp10__func_3_01float_01_4.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d4/d7d/classcv_1_1ml_1_1DTrees_1_1Node.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T113044Z" creationid="flyeblue" creationdate="20190307T113044Z">
+        <seg>d4/d7d/classcv_1_1ml_1_1DTrees_1_1Node.html</seg>
       </tuv>
     </tu>
     <tu>
