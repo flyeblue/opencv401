@@ -566,6 +566,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;BackgroundSubtractorCNT&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T054018Z" creationid="flyeblue" creationdate="20190307T054018Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;BackgroundSubtractorCNT&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;Board&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190224T140020Z" creationid="Administrator" creationdate="20190224T140020Z">
@@ -610,6 +618,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T052758Z" creationid="flyeblue" creationdate="20190307T052758Z">
         <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;N&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;aruco&lt;/a3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;N&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;bgsegm&lt;/a3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T054012Z" creationid="flyeblue" creationdate="20190307T054012Z">
+        <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;N&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;bgsegm&lt;/a3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -842,6 +858,14 @@
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190306T045150Z" creationid="Administrator" creationdate="20190306T045150Z">
         <seg>低于质量水平的所有角落都被拒绝.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All markers are placed in the same plane in a grid arrangment.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T053926Z" creationid="flyeblue" creationdate="20190307T053926Z">
+        <seg>所有标记以网格排列放置在同一平面中.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5558,6 +5582,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The board can be drawn using &lt;a0&gt;drawPlanarBoard()&lt;/a0&gt; function (</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T054010Z" creationid="flyeblue" creationdate="20190307T054010Z">
+        <seg>可以使用 &lt;a0&gt;drawPlanarBoard()&lt;/a0&gt; 函数绘制板(</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The boundary region will be marked with -1.</seg>
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190305T153211Z" creationid="Administrator" creationdate="20190305T153211Z">
@@ -7030,10 +7062,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>de/dca/classcv_1_1bgsegm_1_1BackgroundSubtractorCNT.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T054014Z" creationid="flyeblue" creationdate="20190307T054014Z">
+        <seg>de/dca/classcv_1_1bgsegm_1_1BackgroundSubtractorCNT.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>destination image of the same size and type as src.</seg>
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190305T102519Z" creationid="Administrator" creationdate="20190305T102519Z">
         <seg>跟源图片相同的尺寸和类型.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>df/d5d/namespacecv_1_1bgsegm.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T054011Z" creationid="flyeblue" creationdate="20190307T054011Z">
+        <seg>df/d5d/namespacecv_1_1bgsegm.html</seg>
       </tuv>
     </tu>
     <tu>
