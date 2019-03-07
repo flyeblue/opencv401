@@ -374,6 +374,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a0&gt;Modality&lt;/a0&gt; that computes quantized gradient orientations from a color image</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T110351Z" creationid="flyeblue" creationdate="20190307T110351Z">
+        <seg>&lt;a0&gt;Modality&lt;/a0&gt; that computes quantized gradient orientations from a color image</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a0&gt;Modality&lt;/a0&gt; that computes quantized surface normals from a dense depth map</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T110506Z" creationid="flyeblue" creationdate="20190307T110506Z">
+        <seg>&lt;a0&gt;Modality&lt;/a0&gt; 从密集深度图计算量化表面法线</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a0&gt;More...&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190224T150047Z" creationid="Administrator" creationdate="20190224T150047Z">
@@ -1646,6 +1662,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;ColorGradient&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T110320Z" creationid="flyeblue" creationdate="20190307T110320Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;ColorGradient&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;ColorMomentHash&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T105119Z" creationid="flyeblue" creationdate="20190307T105119Z">
@@ -2102,6 +2126,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;DepthNormal&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T110353Z" creationid="flyeblue" creationdate="20190307T110353Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;DepthNormal&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;DerivXPtr&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T065617Z" creationid="flyeblue" creationdate="20190307T065617Z">
@@ -2146,6 +2178,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T080503Z" creationid="flyeblue" creationdate="20190307T080503Z">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;DetectionOutputLayer&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;Detector&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T110507Z" creationid="flyeblue" creationdate="20190307T110507Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;Detector&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2434,6 +2474,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T061959Z" creationid="flyeblue" creationdate="20190307T061959Z">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;Feature2DAsync&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;Feature&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T110524Z" creationid="flyeblue" creationdate="20190307T110524Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;Feature&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10102,6 +10150,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;N&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;linemod&lt;/a3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T110319Z" creationid="flyeblue" creationdate="20190307T110319Z">
+        <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;N&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;linemod&lt;/a3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;N&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;own&lt;/a3&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T104453Z" creationid="flyeblue" creationdate="20190307T104453Z">
@@ -13614,6 +13670,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Interface for modalities that plug into the LINE template matching representation.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T110350Z" creationid="flyeblue" creationdate="20190307T110350Z">
+        <seg>插入LINE模板匹配表示的模态接口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Interface for video demultiplexing.</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T064628Z" creationid="flyeblue" creationdate="20190307T064628Z">
@@ -14690,6 +14754,14 @@
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190224T164603Z" creationid="Administrator" creationdate="20190224T164603Z">
         <seg>目标检测</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Object detector using the LINE template matching algorithm with any set of modalities</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T110523Z" creationid="flyeblue" creationdate="20190307T110523Z">
+        <seg>物体检测器使用LINE模板匹配算法和任何一组模态</seg>
       </tuv>
     </tu>
     <tu>
@@ -20878,6 +20950,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d5/d08/namespacecv_1_1linemod.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T110312Z" creationid="flyeblue" creationdate="20190307T110312Z">
+        <seg>d5/d08/namespacecv_1_1linemod.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d5/d0b/classcv_1_1aruco_1_1Dictionary.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T053333Z" creationid="flyeblue" creationdate="20190307T053333Z">
@@ -20922,6 +21002,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T070438Z" creationid="flyeblue" creationdate="20190307T070438Z">
         <seg>d5/d1a/structcv_1_1cudev_1_1MakeVec_3_01uint_00_013_01_4.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d5/d1c/classcv_1_1linemod_1_1Modality.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T110321Z" creationid="flyeblue" creationdate="20190307T110321Z">
+        <seg>d5/d1c/classcv_1_1linemod_1_1Modality.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -22054,6 +22142,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d7/d07/classcv_1_1linemod_1_1Detector.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T110507Z" creationid="flyeblue" creationdate="20190307T110507Z">
+        <seg>d7/d07/classcv_1_1linemod_1_1Detector.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d7/d09/classcv_1_1cuda_1_1StereoConstantSpaceBP.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T064126Z" creationid="flyeblue" creationdate="20190307T064126Z">
@@ -22170,6 +22266,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072119Z" creationid="flyeblue" creationdate="20190307T072119Z">
         <seg>d7/d3e/structcv_1_1cudev_1_1tan__func.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d7/d47/classcv_1_1linemod_1_1DepthNormal.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T110352Z" creationid="flyeblue" creationdate="20190307T110352Z">
+        <seg>d7/d47/classcv_1_1linemod_1_1DepthNormal.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -23650,6 +23754,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072206Z" creationid="flyeblue" creationdate="20190307T072206Z">
         <seg>d9/db8/structcv_1_1cudev_1_1XYZ4__to__BGRA__func.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d9/db9/structcv_1_1linemod_1_1Feature.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T110523Z" creationid="flyeblue" creationdate="20190307T110523Z">
+        <seg>d9/db9/structcv_1_1linemod_1_1Feature.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -25186,6 +25298,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T093218Z" creationid="flyeblue" creationdate="20190307T093218Z">
         <seg>dc/d63/classcv_1_1face_1_1FacemarkLBF.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>dc/d64/classcv_1_1linemod_1_1ColorGradient.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T110320Z" creationid="flyeblue" creationdate="20190307T110320Z">
+        <seg>dc/d64/classcv_1_1linemod_1_1ColorGradient.html</seg>
       </tuv>
     </tu>
     <tu>
