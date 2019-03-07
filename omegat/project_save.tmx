@@ -814,6 +814,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;EncoderCallBack&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T064503Z" creationid="flyeblue" creationdate="20190307T064503Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;EncoderCallBack&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;EncoderParams&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T064519Z" creationid="flyeblue" creationdate="20190307T064519Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;EncoderParams&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;Event&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T061749Z" creationid="flyeblue" creationdate="20190307T061749Z">
@@ -874,6 +890,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T062019Z" creationid="flyeblue" creationdate="20190307T062019Z">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;Filter&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;FormatInfo&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T064543Z" creationid="flyeblue" creationdate="20190307T064543Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;FormatInfo&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -974,6 +998,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;RawVideoSource&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T064606Z" creationid="flyeblue" creationdate="20190307T064606Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;RawVideoSource&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;Retina&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T055616Z" creationid="flyeblue" creationdate="20190307T055616Z">
@@ -1070,10 +1102,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;TargetArchs&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T064342Z" creationid="flyeblue" creationdate="20190307T064342Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;TargetArchs&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;TemplateMatching&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T064430Z" creationid="flyeblue" creationdate="20190307T064430Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;TemplateMatching&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;TransientAreasSegmentationModule&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060006Z" creationid="flyeblue" creationdate="20190307T060006Z">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;TransientAreasSegmentationModule&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;VideoReader&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T064630Z" creationid="flyeblue" creationdate="20190307T064630Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;VideoReader&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;VideoWriter&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T064706Z" creationid="flyeblue" creationdate="20190307T064706Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;VideoWriter&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1154,6 +1218,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060323Z" creationid="flyeblue" creationdate="20190307T060323Z">
         <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;N&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;cuda&lt;/a3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;N&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;cudacodec&lt;/a3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T064501Z" creationid="flyeblue" creationdate="20190307T064501Z">
+        <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;N&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;cudacodec&lt;/a3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1742,6 +1814,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Base class for Template Matching.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T064459Z" creationid="flyeblue" creationdate="20190307T064459Z">
+        <seg>模板匹配的基类.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Base class for circles detector algorithm.</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T063108Z" creationid="flyeblue" creationdate="20190307T063108Z">
@@ -2262,6 +2342,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Callbacks for CUDA video encoder</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T064517Z" creationid="flyeblue" creationdate="20190307T064517Z">
+        <seg>CUDA视频编码器的回调</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Camera</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T052651Z" creationid="flyeblue" creationdate="20190307T052651Z">
@@ -2422,6 +2510,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Class providing a set of static methods to check what NVIDIA* card architecture the CUDA module was built for</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T064427Z" creationid="flyeblue" creationdate="20190307T064427Z">
+        <seg>提供一组静态方法的类，用于检查构建CUDA模块的NVIDIA *卡架构</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Class providing functionality for querying the specified GPU properties</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T061205Z" creationid="flyeblue" creationdate="20190307T061205Z">
@@ -2466,6 +2562,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T064029Z" creationid="flyeblue" creationdate="20190307T064029Z">
         <seg>用于计算稀疏光流的类</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Class used for extracting Speeded Up Robust Features (SURF) from an image.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T064338Z" creationid="flyeblue" creationdate="20190307T064338Z">
+        <seg>用于从图像中提取加速鲁棒特征（SURF）的类.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2746,6 +2850,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T053343Z" creationid="flyeblue" creationdate="20190307T053343Z">
         <seg>Dictionary/Set of markers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Different parameters for CUDA video encoder</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T064540Z" creationid="flyeblue" creationdate="20190307T064540Z">
+        <seg>CUDA视频编码器的不同参数</seg>
       </tuv>
     </tu>
     <tu>
@@ -4250,6 +4362,14 @@
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190305T194734Z" creationid="Administrator" creationdate="20190305T194734Z">
         <seg>有趣的是，在上面的过滤器中，中心元素是一个新计算的值，可能是图像中的像素值或新值.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Interface for video demultiplexing.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T064628Z" creationid="flyeblue" creationdate="20190307T064628Z">
+        <seg>用于视频解复用的接口.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6390,6 +6510,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Struct providing information about video file format.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T064604Z" creationid="flyeblue" creationdate="20190307T064604Z">
+        <seg>Struct提供有关视频文件格式的信息.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Supports HAAR and LBP cascades.</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060709Z" creationid="flyeblue" creationdate="20190307T060709Z">
@@ -7438,6 +7566,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Video reader interface</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T064704Z" creationid="flyeblue" creationdate="20190307T064704Z">
+        <seg>视频阅读器界面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>VideoCapture</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T052703Z" creationid="flyeblue" creationdate="20190307T052703Z">
@@ -8110,6 +8246,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d0/de6/namespacecv_1_1cudacodec.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T064500Z" creationid="flyeblue" creationdate="20190307T064500Z">
+        <seg>d0/de6/namespacecv_1_1cudacodec.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d1/d1a/namespacecv_1_1cuda.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060322Z" creationid="flyeblue" creationdate="20190307T060322Z">
@@ -8166,6 +8310,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d2/d58/classcv_1_1cuda_1_1TemplateMatching.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T064429Z" creationid="flyeblue" creationdate="20190307T064429Z">
+        <seg>d2/d58/classcv_1_1cuda_1_1TemplateMatching.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d2/d75/namespacecv.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T052755Z" creationid="flyeblue" creationdate="20190307T052755Z">
@@ -8218,6 +8370,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T055418Z" creationid="flyeblue" creationdate="20190307T055418Z">
         <seg>d3/d46/classcv_1_1Algorithm.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d3/db6/structcv_1_1cudacodec_1_1EncoderParams.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T064518Z" creationid="flyeblue" creationdate="20190307T064518Z">
+        <seg>d3/db6/structcv_1_1cudacodec_1_1EncoderParams.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -8326,10 +8486,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d6/d55/classcv_1_1cudacodec_1_1RawVideoSource.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T064605Z" creationid="flyeblue" creationdate="20190307T064605Z">
+        <seg>d6/d55/classcv_1_1cudacodec_1_1RawVideoSource.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d6/da7/classcv_1_1bgsegm_1_1BackgroundSubtractorMOG.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T055345Z" creationid="flyeblue" creationdate="20190307T055345Z">
         <seg>d6/da7/classcv_1_1bgsegm_1_1BackgroundSubtractorMOG.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d6/db6/classcv_1_1cudacodec_1_1EncoderCallBack.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T064502Z" creationid="flyeblue" creationdate="20190307T064502Z">
+        <seg>d6/db6/classcv_1_1cudacodec_1_1EncoderCallBack.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -8406,6 +8582,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d8/db6/structcv_1_1cudacodec_1_1FormatInfo.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T064542Z" creationid="flyeblue" creationdate="20190307T064542Z">
+        <seg>d8/db6/structcv_1_1cudacodec_1_1FormatInfo.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d9/d30/classcv_1_1cuda_1_1FarnebackOpticalFlow.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T061754Z" creationid="flyeblue" creationdate="20190307T061754Z">
@@ -8450,6 +8634,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T055915Z" creationid="flyeblue" creationdate="20190307T055915Z">
         <seg>d9/dbf/structcv_1_1bioinspired_1_1SegmentationParameters.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d9/dee/classcv_1_1cuda_1_1TargetArchs.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T064340Z" creationid="flyeblue" creationdate="20190307T064340Z">
+        <seg>d9/dee/classcv_1_1cuda_1_1TargetArchs.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -8514,6 +8706,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T064058Z" creationid="flyeblue" creationdate="20190307T064058Z">
         <seg>db/d8a/classcv_1_1cuda_1_1StereoBM.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>db/ded/classcv_1_1cudacodec_1_1VideoReader.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T064629Z" creationid="flyeblue" creationdate="20190307T064629Z">
+        <seg>db/ded/classcv_1_1cudacodec_1_1VideoReader.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -8682,6 +8882,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T061958Z" creationid="flyeblue" creationdate="20190307T061958Z">
         <seg>df/db9/classcv_1_1cuda_1_1Feature2DAsync.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>df/dde/classcv_1_1cudacodec_1_1VideoWriter.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T064705Z" creationid="flyeblue" creationdate="20190307T064705Z">
+        <seg>df/dde/classcv_1_1cudacodec_1_1VideoWriter.html</seg>
       </tuv>
     </tu>
     <tu>
