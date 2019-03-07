@@ -630,6 +630,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;AffineBestOf2NearestMatcher&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072417Z" creationid="flyeblue" creationdate="20190307T072417Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;AffineBestOf2NearestMatcher&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;AffineMapPtr&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T064856Z" creationid="flyeblue" creationdate="20190307T064856Z">
@@ -642,6 +650,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T064857Z" creationid="flyeblue" creationdate="20190307T064857Z">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;AffineMapPtrSz&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;AffineWarper&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072544Z" creationid="flyeblue" creationdate="20190307T072544Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;AffineWarper&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1206,6 +1222,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;BasicVectorRef&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072641Z" creationid="flyeblue" creationdate="20190307T072641Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;BasicVectorRef&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;BestOf2NearestMatcher&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072642Z" creationid="flyeblue" creationdate="20190307T072642Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;BestOf2NearestMatcher&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;BestOf2NearestRangeMatcher&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072705Z" creationid="flyeblue" creationdate="20190307T072705Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;BestOf2NearestRangeMatcher&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;BinaryNegate&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T065548Z" creationid="flyeblue" creationdate="20190307T065548Z">
@@ -1250,6 +1290,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T065551Z" creationid="flyeblue" creationdate="20190307T065551Z">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;Binder2nd&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;Blender&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072706Z" creationid="flyeblue" creationdate="20190307T072706Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;Blender&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7848,8 +7896,16 @@
       <tuv lang="EN-US">
         <seg>Affine transformation based estimator</seg>
       </tuv>
-      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072256Z" creationid="flyeblue" creationdate="20190307T072256Z">
-        <seg>Affine transformation based estimator</seg>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072412Z" creationid="flyeblue" creationdate="20190307T072256Z">
+        <seg>基于仿射变换的估计器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Affine warper that uses rotations and translations</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072639Z" creationid="flyeblue" creationdate="20190307T072639Z">
+        <seg>使用旋转和翻译的仿射整经机</seg>
       </tuv>
     </tu>
     <tu>
@@ -9466,6 +9522,30 @@
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190224T163833Z" creationid="Administrator" creationdate="20190224T163833Z">
         <seg>特征检测和描述</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Features matcher similar to &lt;a0&gt;cv::detail::BestOf2NearestMatcher&lt;/a0&gt; which finds two best matches for each feature and leaves the best one only if the ratio between descriptor distances is greater than the threshold match_conf</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072542Z" creationid="flyeblue" creationdate="20190307T072542Z">
+        <seg>功能类似于&lt;a0&gt; cv :: detail :: BestOf2NearestMatcher &lt;/a0&gt;的匹配器，它为每个功能找到两个最佳匹配，只有当描述符距离之间的比率大于阈值match_conf时，才会保留最佳匹配</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Features matcher which finds two best matches for each feature and leaves the best one only if the ra...</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072436Z" creationid="flyeblue" creationdate="20190307T072436Z">
+        <seg>功能匹配器为每个功能找到两个最佳匹配，并且仅在ra时保留最佳匹配...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Features matcher which finds two best matches for each feature and leaves the best one only if the ratio between descriptor distances is greater than the threshold match_conf</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072702Z" creationid="flyeblue" creationdate="20190307T072702Z">
+        <seg>功能匹配器为每个功能找到两个最佳匹配，只有当描述符距离之间的比率大于阈值match_conf时，才会保留最佳匹配</seg>
       </tuv>
     </tu>
     <tu>
@@ -16486,6 +16566,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d4/d26/classcv_1_1detail_1_1BestOf2NearestMatcher.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072418Z" creationid="flyeblue" creationdate="20190307T072418Z">
+        <seg>d4/d26/classcv_1_1detail_1_1BestOf2NearestMatcher.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d4/d2a/structcv_1_1cudev_1_1bit__rshift.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T065554Z" creationid="flyeblue" creationdate="20190307T065554Z">
@@ -17370,6 +17458,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060935Z" creationid="flyeblue" creationdate="20190307T060935Z">
         <seg>d6/d4a/classcv_1_1cuda_1_1DenseOpticalFlow.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d6/d4a/classcv_1_1detail_1_1Blender.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072705Z" creationid="flyeblue" creationdate="20190307T072705Z">
+        <seg>d6/d4a/classcv_1_1detail_1_1Blender.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -18386,6 +18482,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072227Z" creationid="flyeblue" creationdate="20190307T072227Z">
         <seg>d8/d65/structcv_1_1datasets_1_1IS__weizmannObj.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d8/d72/classcv_1_1detail_1_1BestOf2NearestRangeMatcher.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072704Z" creationid="flyeblue" creationdate="20190307T072704Z">
+        <seg>d8/d72/classcv_1_1detail_1_1BestOf2NearestRangeMatcher.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -20614,6 +20718,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>dd/d76/classcv_1_1detail_1_1AffineWarper.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072543Z" creationid="flyeblue" creationdate="20190307T072543Z">
+        <seg>dd/d76/classcv_1_1detail_1_1AffineWarper.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>dd/d78/structcv_1_1cudev_1_1VecTraits_3_01short2_01_4.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072155Z" creationid="flyeblue" creationdate="20190307T072155Z">
@@ -21442,6 +21554,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T070044Z" creationid="flyeblue" creationdate="20190307T070044Z">
         <seg>df/d5d/structcv_1_1cudev_1_1HLS__to__BGRA__func.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>df/d63/classcv_1_1detail_1_1BasicVectorRef.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072640Z" creationid="flyeblue" creationdate="20190307T072640Z">
+        <seg>df/d63/classcv_1_1detail_1_1BasicVectorRef.html</seg>
       </tuv>
     </tu>
     <tu>
