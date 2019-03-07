@@ -2222,6 +2222,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;DrawLinesMatchesFlags&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T105930Z" creationid="flyeblue" creationdate="20190307T105930Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;DrawLinesMatchesFlags&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;DynamicSharedMem&lt; double &gt;&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T065621Z" creationid="flyeblue" creationdate="20190307T065621Z">
@@ -3638,6 +3646,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;KeyLine&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T105932Z" creationid="flyeblue" creationdate="20190307T105932Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;KeyLine&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;KinFu&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T105552Z" creationid="flyeblue" creationdate="20190307T105552Z">
@@ -3786,6 +3802,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T080942Z" creationid="flyeblue" creationdate="20190307T080942Z">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;LRNLayer&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;LSDDetector&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T110138Z" creationid="flyeblue" creationdate="20190307T110138Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;LSDDetector&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10222,6 +10246,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A class to represent a line</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T110127Z" creationid="flyeblue" creationdate="20190307T110127Z">
+        <seg>表示一条线的类</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A container class for heterogeneous kernel implementation collections</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T104708Z" creationid="flyeblue" creationdate="20190307T104708Z">
@@ -12562,6 +12594,14 @@
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190224T143714Z" creationid="Administrator" creationdate="20190224T143714Z">
         <seg>函数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Furnishes all functionalities for querying a dataset provided by user or internal to class (that user must, anyway, populate) on the model of &lt;a0&gt;Descriptor Matchers&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T105928Z" creationid="flyeblue" creationdate="20190307T105928Z">
+        <seg>提供所有功能，用于查询用户提供的数据集或内部的数据集（用户必须，无论如何，填充）&lt;a0&gt; Descriptor Matchers &lt;/a0&gt;的模型</seg>
       </tuv>
     </tu>
     <tu>
@@ -18846,6 +18886,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d1/dbd/classcv_1_1line__descriptor_1_1LSDDetector.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T110135Z" creationid="flyeblue" creationdate="20190307T110135Z">
+        <seg>d1/dbd/classcv_1_1line__descriptor_1_1LSDDetector.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d1/dcd/structcv_1_1aruco_1_1DetectorParameters.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T053103Z" creationid="flyeblue" creationdate="20190307T053103Z">
@@ -18858,6 +18906,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072042Z" creationid="flyeblue" creationdate="20190307T072042Z">
         <seg>d1/dd1/structcv_1_1cudev_1_1RGBA__to__YCrCb__func.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d1/dd7/structcv_1_1line__descriptor_1_1KeyLine.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T105931Z" creationid="flyeblue" creationdate="20190307T105931Z">
+        <seg>d1/dd7/structcv_1_1line__descriptor_1_1KeyLine.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -22762,6 +22818,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072227Z" creationid="flyeblue" creationdate="20190307T072227Z">
         <seg>d8/d65/structcv_1_1datasets_1_1IS__weizmannObj.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d8/d6f/structcv_1_1line__descriptor_1_1DrawLinesMatchesFlags.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T105930Z" creationid="flyeblue" creationdate="20190307T105930Z">
+        <seg>d8/d6f/structcv_1_1line__descriptor_1_1DrawLinesMatchesFlags.html</seg>
       </tuv>
     </tu>
     <tu>
