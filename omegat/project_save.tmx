@@ -1118,6 +1118,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Background Subtraction using Local &lt;a0&gt;SVD&lt;/a0&gt; Binary Pattern.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T054958Z" creationid="flyeblue" creationdate="20190307T054958Z">
+        <seg>使用局部&lt;a0&gt;SVD&lt;/a0&gt;二进制模式的背景减法.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Background Subtractor module based on the algorithm given in &lt;a0&gt;[74]&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T054456Z" creationid="flyeblue" creationdate="20190307T054456Z">
