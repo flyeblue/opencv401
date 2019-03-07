@@ -7206,6 +7206,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;StereoMatcher&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T132504Z" creationid="flyeblue" creationdate="20190307T132504Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;StereoMatcher&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;StereographicProjector&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T080106Z" creationid="flyeblue" creationdate="20190307T080106Z">
@@ -7242,6 +7250,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072119Z" creationid="flyeblue" creationdate="20190307T072119Z">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;SumExprBody&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;SymetricCensus&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T132600Z" creationid="flyeblue" creationdate="20190307T132600Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;SymetricCensus&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10646,6 +10662,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;C&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;GrayCodePattern&lt;/a3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T132614Z" creationid="flyeblue" creationdate="20190307T132614Z">
+        <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;C&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;GrayCodePattern&lt;/a3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;C&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;HistogramPhaseUnwrapping&lt;/a3&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T115606Z" creationid="flyeblue" creationdate="20190307T115606Z">
@@ -11162,6 +11186,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T132255Z" creationid="flyeblue" creationdate="20190307T132255Z">
         <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;N&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;stereo&lt;/a3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;N&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;structured_light&lt;/a3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T132607Z" creationid="flyeblue" creationdate="20190307T132607Z">
+        <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;N&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;structured_light&lt;/a3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13538,6 +13570,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072702Z" creationid="flyeblue" creationdate="20190307T072702Z">
         <seg>功能匹配器为每个功能找到两个最佳匹配，只有当描述符距离之间的比率大于阈值match_conf时，才会保留最佳匹配</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Filters off small noise blobs (speckles) in the disparity map</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T132556Z" creationid="flyeblue" creationdate="20190307T132556Z">
+        <seg>过滤视差图中的小噪声斑点（斑点）</seg>
       </tuv>
     </tu>
     <tu>
@@ -16510,6 +16550,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Paralel implementation of the center symetric census</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T132602Z" creationid="flyeblue" creationdate="20190307T132602Z">
+        <seg>Paralel implementation of the center symetric census</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Parameter structure that stores the transient events detector setup parameters</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060004Z" creationid="flyeblue" creationdate="20190307T060004Z">
@@ -17674,6 +17722,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T113220Z" creationid="flyeblue" creationdate="20190307T113220Z">
         <seg>该类实现了期望最大化算法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The class implements the modified H. Hirschmuller algorithm &lt;a0&gt;[90]&lt;/a0&gt; that differs from the original one as follows:</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T132502Z" creationid="flyeblue" creationdate="20190307T132502Z">
+        <seg>该类实现了修改后的H. Hirschmuller算法&lt;a0&gt; [90] &lt;/a0&gt;，它与原始算法不同如下：</seg>
       </tuv>
     </tu>
     <tu>
@@ -20222,6 +20278,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d0/de3/citelist.html#CITEREF_UNDERWORLD</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T132615Z" creationid="flyeblue" creationdate="20190307T132615Z">
+        <seg>d0/de3/citelist.html#CITEREF_UNDERWORLD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d0/de3/citelist.html#CITEREF_V03</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T073742Z" creationid="flyeblue" creationdate="20190307T073742Z">
@@ -20922,6 +20986,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T070420Z" creationid="flyeblue" creationdate="20190307T070420Z">
         <seg>d1/deb/structcv_1_1cudev_1_1magnitude__func.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d1/dec/classcv_1_1structured__light_1_1GrayCodePattern.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T132613Z" creationid="flyeblue" creationdate="20190307T132613Z">
+        <seg>d1/dec/classcv_1_1structured__light_1_1GrayCodePattern.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -24494,6 +24566,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d7/d58/namespacecv_1_1structured__light.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T132604Z" creationid="flyeblue" creationdate="20190307T132604Z">
+        <seg>d7/d58/namespacecv_1_1structured__light.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d7/d58/structcv_1_1cudev_1_1HSV4__to__BGRA__FULL__func.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T070133Z" creationid="flyeblue" creationdate="20190307T070133Z">
@@ -25570,6 +25650,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T094121Z" creationid="flyeblue" creationdate="20190307T094121Z">
         <seg>d9/d02/structcv_1_1flann_1_1HierarchicalClusteringIndexParams.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d9/d07/classcv_1_1stereo_1_1StereoMatcher.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T132503Z" creationid="flyeblue" creationdate="20190307T132503Z">
+        <seg>d9/d07/classcv_1_1stereo_1_1StereoMatcher.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -28386,6 +28474,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T065511Z" creationid="flyeblue" creationdate="20190307T065511Z">
         <seg>dd/d23/structcv_1_1cudev_1_1BGR__to__HSV__func.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>dd/d24/classcv_1_1stereo_1_1SymetricCensus.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T132559Z" creationid="flyeblue" creationdate="20190307T132559Z">
+        <seg>dd/d24/classcv_1_1stereo_1_1SymetricCensus.html</seg>
       </tuv>
     </tu>
     <tu>
