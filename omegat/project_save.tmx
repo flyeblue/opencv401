@@ -18638,6 +18638,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This class is repre...</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T150252Z" creationid="flyeblue" creationdate="20190307T150252Z">
+        <seg>这个类代表...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This class is templated with the type of elements for which the index is built</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T104206Z" creationid="flyeblue" creationdate="20190307T094117Z">
