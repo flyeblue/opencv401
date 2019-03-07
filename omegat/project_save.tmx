@@ -3638,6 +3638,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;ICP&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T122014Z" creationid="flyeblue" creationdate="20190307T122014Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;ICP&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;IR_affine&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072226Z" creationid="flyeblue" creationdate="20190307T072226Z">
@@ -5310,6 +5318,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;PhaseUnwrapping&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T121954Z" creationid="flyeblue" creationdate="20190307T121954Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;PhaseUnwrapping&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;PlanePortraitProjector&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T075415Z" creationid="flyeblue" creationdate="20190307T075415Z">
@@ -5362,6 +5378,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T115011Z" creationid="flyeblue" creationdate="20190307T115011Z">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;PlatformInfo&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;Plot2d&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T122012Z" creationid="flyeblue" creationdate="20190307T122012Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;Plot2d&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10654,6 +10678,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;N&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;plot&lt;/a3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T122010Z" creationid="flyeblue" creationdate="20190307T122010Z">
+        <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;N&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;plot&lt;/a3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;N&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;ppf_match_3d&lt;/a3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T122013Z" creationid="flyeblue" creationdate="20190307T122013Z">
+        <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;N&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;ppf_match_3d&lt;/a3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;N&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;vec_math_detail&lt;/a3&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T064755Z" creationid="flyeblue" creationdate="20190307T064755Z">
@@ -10874,6 +10914,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T061142Z" creationid="flyeblue" creationdate="20190307T061142Z">
         <seg>用于匹配关键点描述符的抽象基类</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Abstract base class for phase unwrapping</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T122009Z" creationid="flyeblue" creationdate="20190307T122009Z">
+        <seg>相位展开的抽象基类</seg>
       </tuv>
     </tu>
     <tu>
@@ -12746,6 +12794,14 @@
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190305T104858Z" creationid="Administrator" creationdate="20190305T104858Z">
         <seg>HDR流水线的每个步骤都可以使用不同的算法和参数来实现，因此请查看参考手册以查看所有步骤。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Edges are sorted in a histogram based on their reliability values.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T121914Z" creationid="flyeblue" creationdate="20190307T121914Z">
+        <seg>边缘根据其可靠性值以直方图排序。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14670,6 +14726,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Its reliability is found by adding the the reliabilities of the two pixels connected through it.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T121845Z" creationid="flyeblue" creationdate="20190307T121845Z">
+        <seg>通过添加通过它连接的两个像素的可靠性来找到其可靠性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Just create a mask image with white color on the region you want to find histogram and black otherwise.</seg>
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190305T085444Z" creationid="Administrator" creationdate="20190305T085444Z">
@@ -15858,6 +15922,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T053332Z" creationid="flyeblue" creationdate="20190307T053332Z">
         <seg>detectMarker进程的参数:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Parameters of phaseUnwrapping constructor</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T121945Z" creationid="flyeblue" creationdate="20190307T121945Z">
+        <seg>phaseUnwrapping构造函数的参数</seg>
       </tuv>
     </tu>
     <tu>
@@ -17446,6 +17518,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This class implements a very efficient and robust variant of the iterative closest point (ICP) algori...</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T122015Z" creationid="flyeblue" creationdate="20190307T122015Z">
+        <seg>This class implements a very efficient and robust variant of the iterative closest point (ICP) algori...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This class implements name-value dictionary, values are instances of &lt;a0&gt;DictValue&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T080626Z" creationid="flyeblue" creationdate="20190307T080545Z">
@@ -17530,6 +17610,14 @@
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190304T150903Z" creationid="Administrator" creationdate="20190304T150903Z">
         <seg>这给我们带来了两个好处：首先，代码与原始C / C ++代码一样快（因为它是在后台工作的实际C ++代码），其次，在Python中编写代码比使用C / C ++更容易。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This histogram is then used to unwrap pixels, starting from the highest quality pixel</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T121932Z" creationid="flyeblue" creationdate="20190307T121932Z">
+        <seg>然后，该直方图用于从最高质量的像素开始打开像素</seg>
       </tuv>
     </tu>
     <tu>
@@ -18726,6 +18814,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d0/d1e/classcv_1_1plot_1_1Plot2d.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T122011Z" creationid="flyeblue" creationdate="20190307T122011Z">
+        <seg>d0/d1e/classcv_1_1plot_1_1Plot2d.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d0/d2a/structcv_1_1cudev_1_1AffineMapPtr.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T064855Z" creationid="flyeblue" creationdate="20190307T064855Z">
@@ -18866,6 +18962,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T062116Z" creationid="flyeblue" creationdate="20190307T062116Z">
         <seg>d0/d60/classcv_1_1cuda_1_1GpuMat.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d0/d62/namespacecv_1_1plot.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T122010Z" creationid="flyeblue" creationdate="20190307T122010Z">
+        <seg>d0/d62/namespacecv_1_1plot.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -19378,6 +19482,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T064500Z" creationid="flyeblue" creationdate="20190307T064500Z">
         <seg>d0/de6/namespacecv_1_1cudacodec.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d0/de6/namespacecv_1_1ppf__match__3d.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T122012Z" creationid="flyeblue" creationdate="20190307T122012Z">
+        <seg>d0/de6/namespacecv_1_1ppf__match__3d.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -22942,6 +23054,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d6/d86/structcv_1_1phase__unwrapping_1_1HistogramPhaseUnwrapping_1_1Params.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T121933Z" creationid="flyeblue" creationdate="20190307T121933Z">
+        <seg>d6/d86/structcv_1_1phase__unwrapping_1_1HistogramPhaseUnwrapping_1_1Params.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d6/d8d/classcv_1_1detail_1_1BundleAdjusterAffine.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072807Z" creationid="flyeblue" creationdate="20190307T072807Z">
@@ -24162,6 +24282,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T064753Z" creationid="flyeblue" creationdate="20190307T064753Z">
         <seg>d8/d80/namespacecv_1_1cudev_1_1vec__math__detail.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d8/d83/classcv_1_1phase__unwrapping_1_1PhaseUnwrapping.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T121952Z" creationid="flyeblue" creationdate="20190307T121952Z">
+        <seg>d8/d83/classcv_1_1phase__unwrapping_1_1PhaseUnwrapping.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -26706,6 +26834,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072056Z" creationid="flyeblue" creationdate="20190307T072056Z">
         <seg>dc/d99/structcv_1_1cudev_1_1saturate__cast__func.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>dc/d9b/classcv_1_1ppf__match__3d_1_1ICP.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T122014Z" creationid="flyeblue" creationdate="20190307T122014Z">
+        <seg>dc/d9b/classcv_1_1ppf__match__3d_1_1ICP.html</seg>
       </tuv>
     </tu>
     <tu>
