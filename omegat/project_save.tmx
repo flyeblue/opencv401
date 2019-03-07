@@ -5214,6 +5214,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;PPF3DDetector&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T123607Z" creationid="flyeblue" creationdate="20190307T123607Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;PPF3DDetector&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;PaddingLayer&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T092534Z" creationid="flyeblue" creationdate="20190307T092534Z">
@@ -5410,6 +5418,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T123106Z" creationid="flyeblue" creationdate="20190307T123106Z">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;Pose3D&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;PoseCluster3D&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T123351Z" creationid="flyeblue" creationdate="20190307T123351Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;PoseCluster3D&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6250,6 +6266,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T105511Z" creationid="flyeblue" creationdate="20190307T105511Z">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;RadialVarianceHash&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;RandomPatternCornerFinder&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T123644Z" creationid="flyeblue" creationdate="20190307T123644Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;RandomPatternCornerFinder&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10702,6 +10726,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;N&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;randpattern&lt;/a3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T123643Z" creationid="flyeblue" creationdate="20190307T123643Z">
+        <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;N&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;randpattern&lt;/a3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;N&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;vec_math_detail&lt;/a3&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T064755Z" creationid="flyeblue" creationdate="20190307T064755Z">
@@ -12230,6 +12262,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Class for finding features points and corresponding 3D in world coordinate of a "random" pattern, which can be to be used in calibration.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T123701Z" creationid="flyeblue" creationdate="20190307T123701Z">
+        <seg>用于在“随机”模式的世界坐标中查找特征点和相应3D的类，其可以用于校准。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Class for individual tree</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T115358Z" creationid="flyeblue" creationdate="20190307T115358Z">
@@ -12370,6 +12410,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T063018Z" creationid="flyeblue" creationdate="20190307T063018Z">
         <seg>具有引用计数的类包装来自CUDA的特殊存储器类型分配功能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Class, allowing the load and matching 3D models.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T123626Z" creationid="flyeblue" creationdate="20190307T123626Z">
+        <seg>类，允许加载和匹配3D模型.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14614,6 +14662,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is possible to store, load and perform IO on these poses</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T123606Z" creationid="flyeblue" creationdate="20190307T123606Z">
+        <seg>可以在这些姿势上存储，加载和执行IO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is simpler.</seg>
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190305T130717Z" creationid="Administrator" creationdate="20190305T130717Z">
@@ -14706,6 +14762,14 @@
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190306T035236Z" creationid="Administrator" creationdate="20190306T035236Z">
         <seg>它存储形状边界的（x，y）坐标.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It supports IO functionality together with various helper methods to work with poses</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T123343Z" creationid="flyeblue" creationdate="20190307T123343Z">
+        <seg>它支持IO功能以及各种辅助方法来处理姿势</seg>
       </tuv>
     </tu>
     <tu>
@@ -17134,6 +17198,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The data structure stores both the quaternions and the matrix ...</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T123514Z" creationid="flyeblue" creationdate="20190307T123514Z">
+        <seg>数据结构存储四元数和矩阵 ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The data structure stores both the quaternions and the matrix forms.</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T123215Z" creationid="flyeblue" creationdate="20190307T123215Z">
@@ -17590,6 +17662,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This class is a general container for such groups of poses.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T123551Z" creationid="flyeblue" creationdate="20190307T123551Z">
+        <seg>此类是此类姿势组的通用容器.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This class is templated with the type of elements for which the index is built</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T104206Z" creationid="flyeblue" creationdate="20190307T094117Z">
@@ -18018,6 +18098,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T052328Z" creationid="flyeblue" creationdate="20190307T052328Z">
         <seg>Try to implement them.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Typical Use:</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T123641Z" creationid="flyeblue" creationdate="20190307T123641Z">
+        <seg>典型用途：</seg>
       </tuv>
     </tu>
     <tu>
@@ -18490,6 +18578,14 @@
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190305T164713Z" creationid="Administrator" creationdate="20190305T164713Z">
         <seg>当获得面部时，我们单独选择面部区域并在其内部搜索眼睛而不是搜索整个图像.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When multiple poses (see &lt;a0&gt;Pose3D&lt;/a0&gt;) are grouped together (contribute to the same transformation) pose clusters occur.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T123534Z" creationid="flyeblue" creationdate="20190307T123534Z">
+        <seg>当多个姿势（参见&lt;a0&gt; Pose3D &lt;/a0&gt;）组合在一起（有助于相同的变换）时，会出现姿势簇。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20426,6 +20522,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T075305Z" creationid="flyeblue" creationdate="20190307T075305Z">
         <seg>d2/d41/structcv_1_1detail_1_1ocl__get__out_3_01cv_1_1GArray_3_01U_01_4_01_4.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d2/d4b/classcv_1_1ppf__match__3d_1_1PoseCluster3D.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T123348Z" creationid="flyeblue" creationdate="20190307T123348Z">
+        <seg>d2/d4b/classcv_1_1ppf__match__3d_1_1PoseCluster3D.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -23598,6 +23702,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d7/d43/classcv_1_1randpattern_1_1RandomPatternGenerator.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T123645Z" creationid="flyeblue" creationdate="20190307T123645Z">
+        <seg>d7/d43/classcv_1_1randpattern_1_1RandomPatternGenerator.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d7/d47/classcv_1_1linemod_1_1DepthNormal.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T110352Z" creationid="flyeblue" creationdate="20190307T110352Z">
@@ -26006,6 +26118,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>db/d25/classcv_1_1ppf__match__3d_1_1PPF3DDetector.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T123607Z" creationid="flyeblue" creationdate="20190307T123607Z">
+        <seg>db/d25/classcv_1_1ppf__match__3d_1_1PPF3DDetector.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>db/d26/structcv_1_1face_1_1FacemarkAAM_1_1Model_1_1Texture.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T093136Z" creationid="flyeblue" creationdate="20190307T093136Z">
@@ -26258,6 +26378,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T113449Z" creationid="flyeblue" creationdate="20190307T113449Z">
         <seg>db/d7d/classcv_1_1ml_1_1StatModel.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>db/d7d/namespacecv_1_1randpattern.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T123642Z" creationid="flyeblue" creationdate="20190307T123642Z">
+        <seg>db/d7d/namespacecv_1_1randpattern.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -28874,6 +29002,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T075617Z" creationid="flyeblue" creationdate="20190307T075617Z">
         <seg>df/d8b/structcv_1_1detail_1_1ProtoToMeta_3_01cv_1_1GScalar_01_4.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>df/d8d/classcv_1_1randpattern_1_1RandomPatternCornerFinder.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T123644Z" creationid="flyeblue" creationdate="20190307T123644Z">
+        <seg>df/d8d/classcv_1_1randpattern_1_1RandomPatternCornerFinder.html</seg>
       </tuv>
     </tu>
     <tu>
