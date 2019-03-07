@@ -574,10 +574,106 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;CharucoBoard&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T052804Z" creationid="flyeblue" creationdate="20190307T052804Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;CharucoBoard&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;N&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;aruco&lt;/a3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T052758Z" creationid="flyeblue" creationdate="20190307T052758Z">
+        <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;N&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;aruco&lt;/a3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;N&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;cv&lt;/a3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T052756Z" creationid="flyeblue" creationdate="20190307T052756Z">
+        <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;N&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;cv&lt;/a3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t0&gt;Backends&lt;/t0&gt;&lt;t1&gt;Libraries&lt;/t1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T052645Z" creationid="flyeblue" creationdate="20190307T052645Z">
+        <seg>&lt;t0&gt;Backends&lt;/t0&gt;&lt;t1&gt;Libraries&lt;/t1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t0&gt;CODECS&lt;/t0&gt;&lt;t1&gt;(fourcc)&lt;/t1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T052701Z" creationid="flyeblue" creationdate="20190307T052701Z">
+        <seg>&lt;t0&gt;CODECS&lt;/t0&gt;&lt;t1&gt;(fourcc)&lt;/t1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t0&gt;File or URL stream&lt;/t0&gt;&lt;t1&gt;+ fourcc codec&lt;/t1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T052705Z" creationid="flyeblue" creationdate="20190307T052705Z">
+        <seg>&lt;t0&gt;File or URL stream&lt;/t0&gt;&lt;t1&gt;+ fourcc codec&lt;/t1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t0&gt;Manufacturer&lt;/t0&gt;&lt;t1&gt;Library&lt;/t1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T052644Z" creationid="flyeblue" creationdate="20190307T052644Z">
+        <seg>&lt;t0&gt;Manufacturer&lt;/t0&gt;&lt;t1&gt;Library&lt;/t1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t0&gt;O.S.&lt;/t0&gt;&lt;t1&gt;Libraries&lt;/t1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T052646Z" creationid="flyeblue" creationdate="20190307T052646Z">
+        <seg>&lt;t0&gt;O.S.&lt;/t0&gt;&lt;t1&gt;Libraries&lt;/t1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t0&gt;OpenCV video I/O Structure&lt;/t0&gt; &lt;d1/&gt; &lt;m2&gt; &lt;r3&gt; &lt;c4&gt; &lt;d5/&gt; &lt;d6/&gt; &lt;d7&gt;OpenCV video I/O Structure&lt;/d7&gt; &lt;c8/&gt; &lt;d9&gt; &lt;c10&gt; &lt;d11&gt;PkLab.net&lt;/d11&gt; &lt;/c10&gt; &lt;/d9&gt; &lt;d12&gt;English&lt;/d12&gt; &lt;d13&gt; &lt;r14&gt; &lt;r15&gt;OpenCV&lt;/r15&gt; &lt;r16&gt;Video I/O&lt;/r16&gt; &lt;/r14&gt; &lt;/d13&gt; &lt;d17/&gt; &lt;/c4&gt; &lt;c18&gt; &lt;c19/&gt; &lt;c20/&gt; &lt;c21/&gt; &lt;c22/&gt; &lt;c23/&gt; &lt;/c18&gt; &lt;/r3&gt; &lt;/m2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T052507Z" creationid="flyeblue" creationdate="20190307T052507Z">
         <seg>&lt;t0&gt;OpenCV video I/O Structure&lt;/t0&gt; &lt;d1/&gt; &lt;m2&gt; &lt;r3&gt; &lt;c4&gt; &lt;d5/&gt; &lt;d6/&gt; &lt;d7&gt;OpenCV video I/O Structure&lt;/d7&gt; &lt;c8/&gt; &lt;d9&gt; &lt;c10&gt; &lt;d11&gt;PkLab.net&lt;/d11&gt; &lt;/c10&gt; &lt;/d9&gt; &lt;d12&gt;English&lt;/d12&gt; &lt;d13&gt; &lt;r14&gt; &lt;r15&gt;OpenCV&lt;/r15&gt; &lt;r16&gt;Video I/O&lt;/r16&gt; &lt;/r14&gt; &lt;/d13&gt; &lt;d17/&gt; &lt;/c4&gt; &lt;c18&gt; &lt;c19/&gt; &lt;c20/&gt; &lt;c21/&gt; &lt;c22/&gt; &lt;c23/&gt; &lt;/c18&gt; &lt;/r3&gt; &lt;/m2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t0&gt;create / open&lt;/t0&gt;&lt;t1&gt;device&lt;/t1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T052658Z" creationid="flyeblue" creationdate="20190307T052658Z">
+        <seg>&lt;t0&gt;create / open&lt;/t0&gt;&lt;t1&gt;device&lt;/t1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t0&gt;cv::Mat from&lt;/t0&gt;&lt;t1&gt;buffer&lt;/t1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T052643Z" creationid="flyeblue" creationdate="20190307T052643Z">
+        <seg>&lt;t0&gt;cv::Mat from&lt;/t0&gt;&lt;t1&gt;buffer&lt;/t1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t0&gt;grab / write&lt;/t0&gt;&lt;t1&gt;frame&lt;/t1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T052648Z" creationid="flyeblue" creationdate="20190307T052648Z">
+        <seg>&lt;t0&gt;grab / write&lt;/t0&gt;&lt;t1&gt;frame&lt;/t1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t0&gt;set / get&lt;/t0&gt;&lt;t1&gt;properties&lt;/t1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T052647Z" creationid="flyeblue" creationdate="20190307T052647Z">
+        <seg>&lt;t0&gt;set / get&lt;/t0&gt;&lt;t1&gt;properties&lt;/t1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -594,6 +690,14 @@
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190305T182458Z" creationid="Administrator" creationdate="20190305T182458Z">
         <seg>5x5平均滤波器内核如下所示:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A ChArUco board is a planar board where the markers are placed inside the white squares of a chessboard.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T052919Z" creationid="flyeblue" creationdate="20190307T052919Z">
+        <seg>ChArUco板是平面板，其中标记放置在棋盘的白色方块内.</seg>
       </tuv>
     </tu>
     <tu>
@@ -618,6 +722,14 @@
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190224T170507Z" creationid="Administrator" creationdate="20190224T170507Z">
         <seg>一条线在x坐标系里表示为 \(y = mx+c\) 或者 在极坐标里表示为A line can be represented as \(y = mx+c\) or in a parametric form, as \(\rho = x \cos \theta + y \sin \theta\) where \(\rho\) is the perpendicular distance from the origin to the line, and \(\theta\) is the angle formed by this perpendicular line and the horizontal axis measured in counter-clockwise (That direction varies on how you represent the coordinate system.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>AVF/IOS</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T052639Z" creationid="flyeblue" creationdate="20190307T052639Z">
+        <seg>AVF/IOS</seg>
       </tuv>
     </tu>
     <tu>
@@ -1358,6 +1470,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>C / C++ / JAVA API</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T052642Z" creationid="flyeblue" creationdate="20190307T052642Z">
+        <seg>C / C++ / JAVA API</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Calculates a histogram of a set of arrays.</seg>
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190304T181642Z" creationid="Administrator" creationdate="20190304T181642Z">
@@ -1378,6 +1498,14 @@
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190304T130548Z" creationid="Administrator" creationdate="20190304T130548Z">
         <seg>计算两个数组的加权和</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Camera</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T052651Z" creationid="flyeblue" creationdate="20190307T052651Z">
+        <seg>Camera</seg>
       </tuv>
     </tu>
     <tu>
@@ -1678,6 +1806,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DShow</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T052635Z" creationid="flyeblue" creationdate="20190307T052635Z">
+        <seg>DShow</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Data with Only One Feature</seg>
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190304T162203Z" creationid="Administrator" creationdate="20190304T162203Z">
@@ -1906,6 +2042,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190306T103051Z" creationid="flyeblue" creationdate="20190306T103051Z">
         <seg>极值点表示对象的最顶部，最底部，最右侧和最左侧的点.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FFMPEG</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T052637Z" creationid="flyeblue" creationdate="20190307T052637Z">
+        <seg>FFMPEG</seg>
       </tuv>
     </tu>
     <tu>
@@ -3736,8 +3880,16 @@
       <tuv lang="EN-US">
         <seg>MEDIA DEVICES</seg>
       </tuv>
-      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T052555Z" creationid="flyeblue" creationdate="20190307T052555Z">
-        <seg>媒体设备</seg>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T052632Z" creationid="flyeblue" creationdate="20190307T052632Z">
+        <seg>MEDIA DEVICES</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MSMF</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T052636Z" creationid="flyeblue" creationdate="20190307T052636Z">
+        <seg>MSMF</seg>
       </tuv>
     </tu>
     <tu>
@@ -3754,6 +3906,14 @@
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190305T171016Z" creationid="Administrator" creationdate="20190305T171016Z">
         <seg>制作图像边框（填充）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Manufacturer Driver</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T052641Z" creationid="flyeblue" creationdate="20190307T052641Z">
+        <seg>Manufacturer Driver</seg>
       </tuv>
     </tu>
     <tu>
@@ -3858,6 +4018,14 @@
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190305T075034Z" creationid="Administrator" creationdate="20190305T075034Z">
         <seg>需要在方括号中给出。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Network Stream</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T052656Z" creationid="flyeblue" creationdate="20190307T052656Z">
+        <seg>Network Stream</seg>
       </tuv>
     </tu>
     <tu>
@@ -4086,6 +4254,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>OPENNI</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T052641Z" creationid="flyeblue" creationdate="20190307T052641Z">
+        <seg>OPENNI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ORB is a good choice in low-power devices for panorama stitching etc.</seg>
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190304T174931Z" creationid="Administrator" creationdate="20190304T174931Z">
@@ -4162,6 +4338,22 @@
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190304T153812Z" creationid="Administrator" creationdate="20190304T153812Z">
         <seg>OpenCV 论坛</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OpenCV Video I/O</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T052633Z" creationid="flyeblue" creationdate="20190307T052633Z">
+        <seg>OpenCV Video I/O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OpenCV Video I/O API Backends</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T052634Z" creationid="flyeblue" creationdate="20190307T052634Z">
+        <seg>OpenCV Video I/O API Backends</seg>
       </tuv>
     </tu>
     <tu>
@@ -4258,6 +4450,14 @@
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190304T145549Z" creationid="Administrator" creationdate="20190304T145549Z">
         <seg>OpenCV于1999年在英特尔由&lt;b0&gt;Gary Bradsky&lt;/b0&gt;创立，第一个正式版发布于 2000年。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OpenCV  &lt;s0&gt;4.0.1&lt;/s0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T052751Z" creationid="flyeblue" creationdate="20190307T052751Z">
+        <seg>OpenCV  &lt;s0&gt;4.0.1&lt;/s0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4658,6 +4858,14 @@
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190305T153511Z" creationid="Administrator" creationdate="20190305T153511Z">
         <seg>运行它，享受它，然后学习它.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SYSTEM</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T052614Z" creationid="flyeblue" creationdate="20190307T052614Z">
+        <seg>SYSTEM</seg>
       </tuv>
     </tu>
     <tu>
@@ -6014,6 +6222,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>USER APPLICATION</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T052633Z" creationid="flyeblue" creationdate="20190307T052633Z">
+        <seg>USER APPLICATION</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Understand what contours are.</seg>
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190306T030221Z" creationid="Administrator" creationdate="20190306T030221Z">
@@ -6086,10 +6302,50 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>V4L</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T052638Z" creationid="flyeblue" creationdate="20190307T052638Z">
+        <seg>V4L</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VFW</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T052638Z" creationid="flyeblue" creationdate="20190307T052638Z">
+        <seg>VFW</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Video Analysis</seg>
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190224T163954Z" creationid="Administrator" creationdate="20190224T163954Z">
         <seg>视频分析</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Video File</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T052654Z" creationid="flyeblue" creationdate="20190307T052654Z">
+        <seg>Video File</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VideoCapture</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T052703Z" creationid="flyeblue" creationdate="20190307T052703Z">
+        <seg>VideoCapture</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VideoWriter</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T052704Z" creationid="flyeblue" creationdate="20190307T052704Z">
+        <seg>VideoWriter</seg>
       </tuv>
     </tu>
     <tu>
@@ -6574,6 +6830,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[detail level &lt;s0&gt;1&lt;/s0&gt;&lt;s1&gt;2&lt;/s1&gt;&lt;s2&gt;3&lt;/s2&gt;&lt;s3&gt;4&lt;/s3&gt;&lt;s4&gt;5&lt;/s4&gt;]</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T052754Z" creationid="flyeblue" creationdate="20190307T052754Z">
+        <seg>[detail level &lt;s0&gt;1&lt;/s0&gt;&lt;s1&gt;2&lt;/s1&gt;&lt;s2&gt;3&lt;/s2&gt;&lt;s3&gt;4&lt;/s3&gt;&lt;s4&gt;5&lt;/s4&gt;]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>boundingBox</seg>
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190224T154820Z" creationid="Administrator" creationdate="20190224T154820Z">
@@ -6622,6 +6886,38 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d0/d3c/classcv_1_1aruco_1_1CharucoBoard.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T052801Z" creationid="flyeblue" creationdate="20190307T052801Z">
+        <seg>d0/d3c/classcv_1_1aruco_1_1CharucoBoard.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d2/d75/namespacecv.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T052755Z" creationid="flyeblue" creationdate="20190307T052755Z">
+        <seg>d2/d75/namespacecv.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d4/d17/namespacecv_1_1aruco.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T052757Z" creationid="flyeblue" creationdate="20190307T052757Z">
+        <seg>d4/d17/namespacecv_1_1aruco.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d4/db2/classcv_1_1aruco_1_1Board.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T052800Z" creationid="flyeblue" creationdate="20190307T052800Z">
+        <seg>d4/db2/classcv_1_1aruco_1_1Board.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>destination image of the same size and type as src.</seg>
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190305T102519Z" creationid="Administrator" creationdate="20190305T102519Z">
@@ -6630,10 +6926,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>doxygen.css</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T052748Z" creationid="flyeblue" creationdate="20190307T052748Z">
+        <seg>doxygen.css</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>epsilon - Required accuracy</seg>
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190304T161155Z" creationid="Administrator" creationdate="20190304T161155Z">
         <seg>epsilon - 精度要求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>etc...</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T052640Z" creationid="flyeblue" creationdate="20190307T052640Z">
+        <seg>etc...</seg>
       </tuv>
     </tu>
     <tu>
@@ -6726,6 +7038,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>opencv-logo-small.png</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T052750Z" creationid="flyeblue" creationdate="20190307T052750Z">
+        <seg>opencv-logo-small.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>opencv.ico</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T052743Z" creationid="flyeblue" creationdate="20190307T052743Z">
+        <seg>opencv.ico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ranges : this is our RANGE.</seg>
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190305T075151Z" creationid="Administrator" creationdate="20190305T075151Z">
@@ -6742,6 +7070,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>search/search.css</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T052747Z" creationid="flyeblue" creationdate="20190307T052747Z">
+        <seg>search/search.css</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>source 8-bit single channel image.</seg>
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190305T102248Z" creationid="Administrator" creationdate="20190305T102248Z">
@@ -6754,6 +7090,22 @@
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190224T153736Z" creationid="Administrator" creationdate="20190224T153736Z">
         <seg>静态的 &lt;a0&gt;Ptr&lt;/a0&gt;&lt; _Tp &gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>stylesheet.css</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T052749Z" creationid="flyeblue" creationdate="20190307T052749Z">
+        <seg>stylesheet.css</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>tabs.css</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T052744Z" creationid="flyeblue" creationdate="20190307T052744Z">
+        <seg>tabs.css</seg>
       </tuv>
     </tu>
     <tu>
