@@ -678,6 +678,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;CLAHE&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060713Z" creationid="flyeblue" creationdate="20190307T060713Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;CLAHE&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;CannyEdgeDetector&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060511Z" creationid="flyeblue" creationdate="20190307T060511Z">
@@ -702,10 +710,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;Convolution&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060758Z" creationid="flyeblue" creationdate="20190307T060758Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;Convolution&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;CornernessCriteria&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060821Z" creationid="flyeblue" creationdate="20190307T060821Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;CornernessCriteria&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;CornersDetector&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060848Z" creationid="flyeblue" creationdate="20190307T060848Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;CornersDetector&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;CustomPattern&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060107Z" creationid="flyeblue" creationdate="20190307T060107Z">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;CustomPattern&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;DenseOpticalFlow&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060936Z" creationid="flyeblue" creationdate="20190307T060936Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;DenseOpticalFlow&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1386,6 +1426,38 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060530Z" creationid="flyeblue" creationdate="20190307T060530Z">
         <seg>Canny Edge的基类&lt;a0&gt;检测器&lt;/a0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Base class for Contrast Limited Adaptive Histogram Equalization.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060756Z" creationid="flyeblue" creationdate="20190307T060756Z">
+        <seg>对比度有限自适应直方图均衡的基类.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Base class for Cornerness Criteria computation.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060842Z" creationid="flyeblue" creationdate="20190307T060842Z">
+        <seg>拐角标准计算的基类.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Base class for Corners &lt;a0&gt;Detector&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060934Z" creationid="flyeblue" creationdate="20190307T060934Z">
+        <seg>拐角的基类&lt;a0&gt;探测器&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Base class for convolution (or cross-correlation) operator.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060820Z" creationid="flyeblue" creationdate="20190307T060820Z">
+        <seg>卷积（或互相关）运算符的基类.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5862,6 +5934,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Supports HAAR and LBP cascades.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060709Z" creationid="flyeblue" creationdate="20190307T060709Z">
+        <seg>支持HAAR和LBP级联.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Suppose you want to set all the red pixels to zero, you do not need to split the channels first.</seg>
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190305T170241Z" creationid="Administrator" creationdate="20190305T170241Z">
@@ -7622,6 +7702,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d4/d25/classcv_1_1cuda_1_1Convolution.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060757Z" creationid="flyeblue" creationdate="20190307T060757Z">
+        <seg>d4/d25/classcv_1_1cuda_1_1Convolution.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d4/db2/classcv_1_1aruco_1_1Board.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T052800Z" creationid="flyeblue" creationdate="20190307T052800Z">
@@ -7658,6 +7746,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060344Z" creationid="flyeblue" creationdate="20190307T060344Z">
         <seg>d5/df2/classcv_1_1cuda_1_1BackgroundSubtractorGMG.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d6/d4a/classcv_1_1cuda_1_1DenseOpticalFlow.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060935Z" creationid="flyeblue" creationdate="20190307T060935Z">
+        <seg>d6/d4a/classcv_1_1cuda_1_1DenseOpticalFlow.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -7742,10 +7838,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>db/d79/classcv_1_1cuda_1_1CLAHE.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060711Z" creationid="flyeblue" creationdate="20190307T060711Z">
+        <seg>db/d79/classcv_1_1cuda_1_1CLAHE.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>dc/d54/classcv_1_1bioinspired_1_1Retina.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T055615Z" creationid="flyeblue" creationdate="20190307T055615Z">
         <seg>dc/d54/classcv_1_1bioinspired_1_1Retina.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>dd/d63/classcv_1_1cuda_1_1CornernessCriteria.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060821Z" creationid="flyeblue" creationdate="20190307T060821Z">
+        <seg>dd/d63/classcv_1_1cuda_1_1CornernessCriteria.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -7770,6 +7882,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T054715Z" creationid="flyeblue" creationdate="20190307T054715Z">
         <seg>de/d4c/classcv_1_1bgsegm_1_1BackgroundSubtractorLSBP.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>de/d95/classcv_1_1cuda_1_1CornersDetector.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060844Z" creationid="flyeblue" creationdate="20190307T060844Z">
+        <seg>de/d95/classcv_1_1cuda_1_1CornersDetector.html</seg>
       </tuv>
     </tu>
     <tu>
