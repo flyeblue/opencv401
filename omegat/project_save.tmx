@@ -350,6 +350,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a0&gt;Candidate&lt;/a0&gt; feature with a score</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T110903Z" creationid="flyeblue" creationdate="20190307T110903Z">
+        <seg>&lt;a0&gt;Candidate&lt;/a0&gt; 特征点分数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a0&gt;Classes&lt;/a0&gt; | &lt;a1&gt;Enumerations&lt;/a1&gt; | &lt;a2&gt;Functions&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190224T161704Z" creationid="Administrator" creationdate="20190224T161704Z">
@@ -1626,6 +1634,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T073100Z" creationid="flyeblue" creationdate="20190307T073100Z">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;CameraParams&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;Candidate&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T110736Z" creationid="flyeblue" creationdate="20190307T110736Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;Candidate&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4598,6 +4614,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;Match&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T110547Z" creationid="flyeblue" creationdate="20190307T110547Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;Match&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;MatchesInfo&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T073828Z" creationid="flyeblue" creationdate="20190307T073828Z">
@@ -4682,6 +4706,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T073948Z" creationid="flyeblue" creationdate="20190307T073948Z">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;MetaType&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;Modality&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T110623Z" creationid="flyeblue" creationdate="20190307T110623Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;Modality&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9862,6 +9894,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;C&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;QuantizedPyramid&lt;/a3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T110655Z" creationid="flyeblue" creationdate="20190307T110655Z">
+        <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;C&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;QuantizedPyramid&lt;/a3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;C&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;RetinaParameters&lt;/a3&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T055700Z" creationid="flyeblue" creationdate="20190307T055700Z">
@@ -11478,6 +11518,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Candidate feature with a score.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T110809Z" creationid="flyeblue" creationdate="20190307T110809Z">
+        <seg>具有分数的候选人特征.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cascade classifier class used for object detection.</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060641Z" creationid="flyeblue" creationdate="20190307T060641Z">
@@ -12050,6 +12098,14 @@
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190305T145239Z" creationid="Administrator" creationdate="20190305T145239Z">
         <seg>膨胀将物体边界增加到背景.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Discriminant feature described by its location and label</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T110546Z" creationid="flyeblue" creationdate="20190307T110546Z">
+        <seg>由其位置和标签描述的判别特征l</seg>
       </tuv>
     </tu>
     <tu>
@@ -13666,6 +13722,14 @@
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190305T194734Z" creationid="Administrator" creationdate="20190305T194734Z">
         <seg>有趣的是，在上面的过滤器中，中心元素是一个新计算的值，可能是图像中的像素值或新值.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Interface for modalities that plug into the LINE template matching representation</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T110653Z" creationid="flyeblue" creationdate="20190307T110653Z">
+        <seg>插入LINE模板匹配表示的模态接口</seg>
       </tuv>
     </tu>
     <tu>
@@ -15346,6 +15410,22 @@
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190304T153449Z" creationid="Administrator" creationdate="20190304T153449Z">
         <seg>记住，我们 &lt;b0&gt;一起&lt;/b0&gt;能让这个项目获得巨大成功</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Represents a modality operating over an image pyramid</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T110734Z" creationid="flyeblue" creationdate="20190307T110734Z">
+        <seg>表示在图像金字塔上运行的模态</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Represents a successful template match</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T110622Z" creationid="flyeblue" creationdate="20190307T110622Z">
+        <seg>表示成功的模板匹配</seg>
       </tuv>
     </tu>
     <tu>
@@ -22374,6 +22454,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d7/d6f/classcv_1_1linemod_1_1QuantizedPyramid.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T110654Z" creationid="flyeblue" creationdate="20190307T110654Z">
+        <seg>d7/d6f/classcv_1_1linemod_1_1QuantizedPyramid.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d7/d71/structcv_1_1cudev_1_1HSV__to__RGBA__FULL__func.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T070231Z" creationid="flyeblue" creationdate="20190307T070231Z">
@@ -23674,6 +23762,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072228Z" creationid="flyeblue" creationdate="20190307T072228Z">
         <seg>d9/da0/structcv_1_1datasets_1_1MSM__middleburyObj.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d9/da0/structcv_1_1linemod_1_1Match.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T110547Z" creationid="flyeblue" creationdate="20190307T110547Z">
+        <seg>d9/da0/structcv_1_1linemod_1_1Match.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -27378,6 +27474,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T070502Z" creationid="flyeblue" creationdate="20190307T070502Z">
         <seg>df/d9f/structcv_1_1cudev_1_1not__equal__to.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>df/da3/structcv_1_1linemod_1_1QuantizedPyramid_1_1Candidate.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T110735Z" creationid="flyeblue" creationdate="20190307T110735Z">
+        <seg>df/da3/structcv_1_1linemod_1_1QuantizedPyramid_1_1Candidate.html</seg>
       </tuv>
     </tu>
     <tu>
