@@ -37264,8 +37264,8 @@
       <tuv lang="EN-US">
         <seg>Inheritance diagram for cv::TrackerMOSSE:</seg>
       </tuv>
-      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T114158Z" creationid="flyeblue" creationdate="20190308T114158Z">
-        <seg>Inheritance diagram for cv::TrackerMOSSE:</seg>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T114455Z" creationid="flyeblue" creationdate="20190308T114158Z">
+        <seg>cv :: TrackerMOSSE的继承图：</seg>
       </tuv>
     </tu>
     <tu>
@@ -39408,8 +39408,8 @@
       <tuv lang="EN-US">
         <seg>Public Member Functions inherited from &lt;a0&gt;cv::Tracker&lt;/a0&gt;</seg>
       </tuv>
-      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T114217Z" creationid="flyeblue" creationdate="20190308T114217Z">
-        <seg>Public Member Functions inherited from &lt;a0&gt;cv::Tracker&lt;/a0&gt;</seg>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T114416Z" creationid="flyeblue" creationdate="20190308T114217Z">
+        <seg>公共成员函数继承自&lt;a0&gt; cv :: Tracker &lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -60320,8 +60320,8 @@
       <tuv lang="EN-US">
         <seg>the MOSSE (Minimum Output Sum of Squared Error) tracker &lt;a0&gt;More...&lt;/a0&gt;</seg>
       </tuv>
-      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T114155Z" creationid="flyeblue" creationdate="20190308T114155Z">
-        <seg>the MOSSE (Minimum Output Sum of Squared Error) tracker &lt;a0&gt;More...&lt;/a0&gt;</seg>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T114547Z" creationid="flyeblue" creationdate="20190308T114155Z">
+        <seg>MOSSE(平方误差的最小输出和)跟踪器&lt;a0&gt;更多... &lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
