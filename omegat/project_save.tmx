@@ -846,6 +846,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;&lt;AVCaptureVideoDataOutputSampleBufferDelegate&gt;&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091210Z" creationid="flyeblue" creationdate="20190308T091210Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;&lt;AVCaptureVideoDataOutputSampleBufferDelegate&gt;&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;&lt;CvPhotoCameraDelegate &gt;&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091245Z" creationid="flyeblue" creationdate="20190308T091245Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;&lt;CvPhotoCameraDelegate &gt;&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;&lt;CvVideoCameraDelegate &gt;&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091252Z" creationid="flyeblue" creationdate="20190308T091252Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;&lt;CvVideoCameraDelegate &gt;&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;AKAZE&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190308T081052Z" creationid="flyeblue" creationdate="20190308T081052Z">
@@ -2134,6 +2158,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;CT_ASSERT_FAILURE&lt; true &gt;&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091155Z" creationid="flyeblue" creationdate="20190308T091155Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;CT_ASSERT_FAILURE&lt; true &gt;&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;CT_ASSERT_FAILURE&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091152Z" creationid="flyeblue" creationdate="20190308T091152Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;CT_ASSERT_FAILURE&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;CV_FINAL&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190308T090612Z" creationid="flyeblue" creationdate="20190308T090612Z">
@@ -2170,6 +2210,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190308T083958Z" creationid="flyeblue" creationdate="20190308T083958Z">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;CalibrateRobertson&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;CallMetaData&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091125Z" creationid="flyeblue" creationdate="20190308T091125Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;CallMetaData&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2638,6 +2686,38 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;Cv16suf&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091213Z" creationid="flyeblue" creationdate="20190308T091213Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;Cv16suf&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;Cv32suf&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091216Z" creationid="flyeblue" creationdate="20190308T091216Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;Cv32suf&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;Cv64suf&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091219Z" creationid="flyeblue" creationdate="20190308T091219Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;Cv64suf&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;CvAbstractCamera&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091222Z" creationid="flyeblue" creationdate="20190308T091222Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;CvAbstractCamera&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;CvFeatureEvaluator&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190308T084132Z" creationid="flyeblue" creationdate="20190308T084132Z">
@@ -2682,6 +2762,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190308T084204Z" creationid="flyeblue" creationdate="20190308T084204Z">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;CvParams&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;CvPhotoCamera&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091242Z" creationid="flyeblue" creationdate="20190308T091242Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;CvPhotoCamera&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2738,6 +2826,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T094109Z" creationid="flyeblue" creationdate="20190307T094109Z">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;CvType&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;CvVideoCamera&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091249Z" creationid="flyeblue" creationdate="20190308T091249Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;CvVideoCamera&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3230,6 +3326,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;DistIndex&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091109Z" creationid="flyeblue" creationdate="20190308T091109Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;DistIndex&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;DownhillSolver&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190308T084442Z" creationid="flyeblue" creationdate="20190308T084442Z">
@@ -3682,6 +3786,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T062019Z" creationid="flyeblue" creationdate="20190307T062019Z">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;Filter&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;FinalShowCaller&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091134Z" creationid="flyeblue" creationdate="20190308T091134Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;FinalShowCaller&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4430,6 +4542,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;Gray2RGB&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091255Z" creationid="flyeblue" creationdate="20190308T091255Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;Gray2RGB&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;GrayworldWB&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080917Z" creationid="flyeblue" creationdate="20190308T080917Z">
@@ -5018,6 +5138,54 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T070226Z" creationid="flyeblue" creationdate="20190307T070226Z">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;HSV_to_RGB_func&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;HaarClassifierCascadeDescriptor&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091258Z" creationid="flyeblue" creationdate="20190308T091258Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;HaarClassifierCascadeDescriptor&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;HaarClassifierNode128&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091301Z" creationid="flyeblue" creationdate="20190308T091301Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;HaarClassifierNode128&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;HaarClassifierNodeDescriptor32&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091304Z" creationid="flyeblue" creationdate="20190308T091304Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;HaarClassifierNodeDescriptor32&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;HaarFeature64&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091307Z" creationid="flyeblue" creationdate="20190308T091307Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;HaarFeature64&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;HaarFeatureDescriptor32&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091311Z" creationid="flyeblue" creationdate="20190308T091311Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;HaarFeatureDescriptor32&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;HaarStage64&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091314Z" creationid="flyeblue" creationdate="20190308T091314Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;HaarStage64&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5670,6 +5838,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;L2_Simple&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T090931Z" creationid="flyeblue" creationdate="20190308T090931Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;L2_Simple&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;LATCH&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080325Z" creationid="flyeblue" creationdate="20190308T080325Z">
@@ -6070,6 +6246,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;LinearIndex&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T090934Z" creationid="flyeblue" creationdate="20190308T090934Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;LinearIndex&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;LinearIndexParams&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T104215Z" creationid="flyeblue" creationdate="20190307T104215Z">
@@ -6118,6 +6302,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;Logger&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T090939Z" creationid="flyeblue" creationdate="20190308T090939Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;Logger&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;LogisticRegression&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T113237Z" creationid="flyeblue" creationdate="20190307T113237Z">
@@ -6138,6 +6330,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190308T073113Z" creationid="flyeblue" creationdate="20190308T073113Z">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;LpMotionStabilizer&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;LshIndex&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T090942Z" creationid="flyeblue" creationdate="20190308T090942Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;LshIndex&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6886,6 +7086,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;Matrix&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T090947Z" creationid="flyeblue" creationdate="20190308T090947Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;Matrix&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;Matx&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190308T085209Z" creationid="flyeblue" creationdate="20190308T085209Z">
@@ -6898,6 +7106,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190308T085215Z" creationid="flyeblue" creationdate="20190308T085215Z">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;MatxCommaInitializer&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;MaxDistance&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T090950Z" creationid="flyeblue" creationdate="20190308T090950Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;MaxDistance&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7026,6 +7242,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T073948Z" creationid="flyeblue" creationdate="20190307T073948Z">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;MetaType&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;MinkowskiDistance&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T090953Z" creationid="flyeblue" creationdate="20190308T090953Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;MinkowskiDistance&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7178,6 +7402,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190308T085334Z" creationid="flyeblue" creationdate="20190308T085334Z">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;NAryMatIterator&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;NNIndex&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T090956Z" creationid="flyeblue" creationdate="20190308T090956Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;NNIndex&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7498,6 +7730,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T092905Z" creationid="flyeblue" creationdate="20190307T092905Z">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;ObjectDetection&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;ObjectFactory&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T090959Z" creationid="flyeblue" creationdate="20190308T090959Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;ObjectFactory&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7970,6 +8210,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190308T085503Z" creationid="flyeblue" creationdate="20190308T085503Z">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;Point_&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;PooledAllocator&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091002Z" creationid="flyeblue" creationdate="20190308T091002Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;PooledAllocator&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8910,6 +9158,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;RadiusResultSet&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091006Z" creationid="flyeblue" creationdate="20190308T091006Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;RadiusResultSet&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;RadiusUniqueResultSet&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091009Z" creationid="flyeblue" creationdate="20190308T091009Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;RadiusUniqueResultSet&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;RandomPatternCornerFinder&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T123644Z" creationid="flyeblue" creationdate="20190307T123644Z">
@@ -9074,6 +9338,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T070627Z" creationid="flyeblue" creationdate="20190307T070627Z">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;ResizePtrSz&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;ResultSet&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091012Z" creationid="flyeblue" creationdate="20190308T091012Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;ResultSet&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9774,6 +10046,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;StartStopTimer&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091056Z" creationid="flyeblue" creationdate="20190308T091056Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;StartStopTimer&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;StatModel&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T113450Z" creationid="flyeblue" creationdate="20190307T113450Z">
@@ -10462,6 +10742,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;True&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091059Z" creationid="flyeblue" creationdate="20190308T091059Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;True&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;TupleTraits&lt; tuple&lt; P0, P1, P2, P3, P4, P5, P6, P7, P8, P9 &gt; &gt;&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072134Z" creationid="flyeblue" creationdate="20190307T072134Z">
@@ -10566,6 +10854,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;UniqueRandom&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091103Z" creationid="flyeblue" creationdate="20190308T091103Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;UniqueRandom&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;UnscentedKalmanFilter&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190308T053607Z" creationid="flyeblue" creationdate="20190308T053607Z">
@@ -10578,6 +10874,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190308T054120Z" creationid="flyeblue" creationdate="20190308T054120Z">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;UnscentedKalmanFilterParams&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;UntypedMatrix&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091112Z" creationid="flyeblue" creationdate="20190308T091112Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;UntypedMatrix&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11590,6 +11894,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;ZeroIterator&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091115Z" creationid="flyeblue" creationdate="20190308T091115Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;ZeroIterator&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;ZipPtr&lt; tuple&lt; Ptr0, Ptr1 &gt; &gt;&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072218Z" creationid="flyeblue" creationdate="20190307T072218Z">
@@ -12002,6 +12314,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T064909Z" creationid="flyeblue" creationdate="20190307T064909Z">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;asinh_func&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;assertTest&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091149Z" creationid="flyeblue" creationdate="20190308T091149Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;assertTest&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12526,6 +12846,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;cvhalDFT&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091225Z" creationid="flyeblue" creationdate="20190308T091225Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;cvhalDFT&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;cvhalFilter2D&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091232Z" creationid="flyeblue" creationdate="20190308T091232Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;cvhalFilter2D&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;cvhalKeyPoint&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091239Z" creationid="flyeblue" creationdate="20190308T091239Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;cvhalKeyPoint&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;descriptorExtractor&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060110Z" creationid="flyeblue" creationdate="20190307T060110Z">
@@ -12930,6 +13274,22 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072225Z" creationid="flyeblue" creationdate="20190307T072225Z">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;groundTruth&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;hash&lt; cv::GShape &gt;&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091206Z" creationid="flyeblue" creationdate="20190308T091206Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;hash&lt; cv::GShape &gt;&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;hash&lt; cv::gapi::GBackend &gt;&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091203Z" creationid="flyeblue" creationdate="20190308T091203Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;hash&lt; cv::gapi::GBackend &gt;&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13846,6 +14206,54 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;simpleDistance&lt; ChiSquareDistance&lt; ElementType &gt;, ElementType &gt;&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091021Z" creationid="flyeblue" creationdate="20190308T091021Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;simpleDistance&lt; ChiSquareDistance&lt; ElementType &gt;, ElementType &gt;&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;simpleDistance&lt; HellingerDistance&lt; ElementType &gt;, ElementType &gt;&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091025Z" creationid="flyeblue" creationdate="20190308T091025Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;simpleDistance&lt; HellingerDistance&lt; ElementType &gt;, ElementType &gt;&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;simpleDistance&lt; L2&lt; ElementType &gt;, ElementType &gt;&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091028Z" creationid="flyeblue" creationdate="20190308T091028Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;simpleDistance&lt; L2&lt; ElementType &gt;, ElementType &gt;&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;simpleDistance&lt; L2_Simple&lt; ElementType &gt;, ElementType &gt;&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091031Z" creationid="flyeblue" creationdate="20190308T091031Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;simpleDistance&lt; L2_Simple&lt; ElementType &gt;, ElementType &gt;&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;simpleDistance&lt; MinkowskiDistance&lt; ElementType &gt;, ElementType &gt;&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091034Z" creationid="flyeblue" creationdate="20190308T091034Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;simpleDistance&lt; MinkowskiDistance&lt; ElementType &gt;, ElementType &gt;&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;simpleDistance&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091018Z" creationid="flyeblue" creationdate="20190308T091018Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;simpleDistance&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;sin_func&lt; double &gt;&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072101Z" creationid="flyeblue" creationdate="20190307T072101Z">
@@ -14066,6 +14474,54 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072113Z" creationid="flyeblue" creationdate="20190307T072113Z">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;sqrt_func&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;squareDistance&lt; ChiSquareDistance&lt; ElementType &gt;, ElementType &gt;&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091040Z" creationid="flyeblue" creationdate="20190308T091040Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;squareDistance&lt; ChiSquareDistance&lt; ElementType &gt;, ElementType &gt;&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;squareDistance&lt; HellingerDistance&lt; ElementType &gt;, ElementType &gt;&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091044Z" creationid="flyeblue" creationdate="20190308T091044Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;squareDistance&lt; HellingerDistance&lt; ElementType &gt;, ElementType &gt;&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;squareDistance&lt; L2&lt; ElementType &gt;, ElementType &gt;&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091047Z" creationid="flyeblue" creationdate="20190308T091047Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;squareDistance&lt; L2&lt; ElementType &gt;, ElementType &gt;&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;squareDistance&lt; L2_Simple&lt; ElementType &gt;, ElementType &gt;&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091050Z" creationid="flyeblue" creationdate="20190308T091050Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;squareDistance&lt; L2_Simple&lt; ElementType &gt;, ElementType &gt;&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;squareDistance&lt; MinkowskiDistance&lt; ElementType &gt;, ElementType &gt;&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091053Z" creationid="flyeblue" creationdate="20190308T091053Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;squareDistance&lt; MinkowskiDistance&lt; ElementType &gt;, ElementType &gt;&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;squareDistance&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091037Z" creationid="flyeblue" creationdate="20190308T091037Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;squareDistance&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14782,6 +15238,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;C&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;UniqueResultSet&lt;/a3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091106Z" creationid="flyeblue" creationdate="20190308T091106Z">
+        <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;C&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;UniqueResultSet&lt;/a3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;C&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;View&lt;/a3&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T104255Z" creationid="flyeblue" creationdate="20190307T104255Z">
@@ -14794,6 +15258,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T073822Z" creationid="flyeblue" creationdate="20190307T073822Z">
         <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;C&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;has_custom_wrap&lt;/a3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;N&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;NcvCTprep&lt;/a3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091145Z" creationid="flyeblue" creationdate="20190308T091145Z">
+        <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;N&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;NcvCTprep&lt;/a3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14890,6 +15362,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190308T090529Z" creationid="flyeblue" creationdate="20190308T090529Z">
         <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;N&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;cvflann&lt;/a3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;N&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;cvv&lt;/a3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091118Z" creationid="flyeblue" creationdate="20190308T091118Z">
+        <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;N&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;cvv&lt;/a3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15034,6 +15514,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T104447Z" creationid="flyeblue" creationdate="20190307T104447Z">
         <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;N&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;imgproc&lt;/a3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;N&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;impl&lt;/a3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091122Z" creationid="flyeblue" creationdate="20190308T091122Z">
+        <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;N&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;impl&lt;/a3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15338,6 +15826,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080914Z" creationid="flyeblue" creationdate="20190308T080914Z">
         <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;N&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;xphoto&lt;/a3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;N&lt;/s2&gt;&lt;/s1&gt;&lt;b3&gt;std&lt;/b3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091157Z" creationid="flyeblue" creationdate="20190308T091157Z">
+        <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;N&lt;/s2&gt;&lt;/s1&gt;&lt;b3&gt;std&lt;/b3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -18530,6 +19026,22 @@
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190306T030511Z" creationid="Administrator" creationdate="20190306T030511Z">
         <seg>绘制轮廓轮廓或填充轮廓.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dummy structure storing DFT/DCT context</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091229Z" creationid="flyeblue" creationdate="20190308T091229Z">
+        <seg>存储DFT /DCT上下文的虚拟结构</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dummy structure storing filtering context</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091236Z" creationid="flyeblue" creationdate="20190308T091236Z">
+        <seg>存储过滤上下文的虚拟结构</seg>
       </tuv>
     </tu>
     <tu>
@@ -22094,6 +22606,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Optional information about a location in Code</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091130Z" creationid="flyeblue" creationdate="20190308T091130Z">
+        <seg>有关Code中位置的可选信息</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Optional parameter for fitting process</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T093028Z" creationid="flyeblue" creationdate="20190307T093028Z">
@@ -22254,6 +22774,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Passes the control to the debug-window for a last time.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091139Z" creationid="flyeblue" creationdate="20190308T091139Z">
+        <seg>最后一次将控件传递给调试窗口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pay attention for the data types, as the images should be 1-channel or 3-channels 8-bit (np.uint8) and the exposure times need to be float32 and in seconds.</seg>
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190305T111638Z" creationid="Administrator" creationdate="20190305T111638Z">
@@ -22370,6 +22898,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190308T085518Z" creationid="flyeblue" creationdate="20190308T085518Z">
         <seg>QtFont仅适用于Qt。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>RAII-class to call &lt;a0&gt;finalShow()&lt;/a0&gt; in it's dtor</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091142Z" creationid="flyeblue" creationdate="20190308T091142Z">
+        <seg>RAII类在它的dtor中调用&lt;a0&gt; finalShow()&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22578,6 +23114,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T132217Z" creationid="flyeblue" creationdate="20190307T132217Z">
         <seg>SFMLibmvEuclideanReconstruction类提供与Libmv Structure From Motion管道的接口...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>STL namespace</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091200Z" creationid="flyeblue" creationdate="20190308T091200Z">
+        <seg>STL命名空间</seg>
       </tuv>
     </tu>
     <tu>
@@ -26326,6 +26870,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d0/d28/structcvflann_1_1UniqueResultSet_1_1DistIndex.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091107Z" creationid="flyeblue" creationdate="20190308T091107Z">
+        <seg>d0/d28/structcvflann_1_1UniqueResultSet_1_1DistIndex.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d0/d2a/structcv_1_1cudev_1_1AffineMapPtr.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T064855Z" creationid="flyeblue" creationdate="20190307T064855Z">
@@ -26782,6 +27334,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d0/d93/structNcvCTprep_1_1assertTest.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091147Z" creationid="flyeblue" creationdate="20190308T091147Z">
+        <seg>d0/d93/structNcvCTprep_1_1assertTest.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d0/d94/structcv_1_1detail_1_1scratch__helper_3_01false_00_01Impl_00_01Ins_8_8_8_01_4.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T075805Z" creationid="flyeblue" creationdate="20190307T075805Z">
@@ -26858,6 +27418,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080154Z" creationid="flyeblue" creationdate="20190308T080154Z">
         <seg>d0/da3/classcv_1_1viz_1_1WTrajectory.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d0/da3/classcvv_1_1FinalShowCaller.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091132Z" creationid="flyeblue" creationdate="20190308T091132Z">
+        <seg>d0/da3/classcvv_1_1FinalShowCaller.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -27558,6 +28126,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d0/de8/interfaceCvAbstractCamera.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091221Z" creationid="flyeblue" creationdate="20190308T091221Z">
+        <seg>d0/de8/interfaceCvAbstractCamera.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d0/deb/classcv_1_1datasets_1_1GR__skig.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072225Z" creationid="flyeblue" creationdate="20190307T072225Z">
@@ -27642,6 +28218,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190308T073004Z" creationid="flyeblue" creationdate="20190308T073004Z">
         <seg>d0/df6/classcv_1_1videostab_1_1IMotionStabilizer.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d0/df6/structcvflann_1_1MinkowskiDistance.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T090951Z" creationid="flyeblue" creationdate="20190308T090951Z">
+        <seg>d0/df6/structcvflann_1_1MinkowskiDistance.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -27926,6 +28510,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d1/d50/classcvflann_1_1Logger.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T090937Z" creationid="flyeblue" creationdate="20190308T090937Z">
+        <seg>d1/d50/classcvflann_1_1Logger.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d1/d54/classcv_1_1util_1_1bad__variant__access.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190308T071709Z" creationid="flyeblue" creationdate="20190308T071709Z">
@@ -28058,6 +28650,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190308T090723Z" creationid="flyeblue" creationdate="20190308T090723Z">
         <seg>d1/d73/classcvflann_1_1DynamicBitset.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d1/d74/structHaarFeature64.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091306Z" creationid="flyeblue" creationdate="20190308T091306Z">
+        <seg>d1/d74/structHaarFeature64.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -28582,6 +29182,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d2/d12/namespaceNcvCTprep.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091144Z" creationid="flyeblue" creationdate="20190308T091144Z">
+        <seg>d2/d12/namespaceNcvCTprep.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d2/d15/classcv_1_1cnn__3dobj_1_1icoSphere.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060211Z" creationid="flyeblue" creationdate="20190307T060211Z">
@@ -28706,6 +29314,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T073331Z" creationid="flyeblue" creationdate="20190307T073331Z">
         <seg>d2/d37/classcv_1_1detail_1_1ExposureCompensator.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d2/d37/classcvflann_1_1LinearIndex.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T090932Z" creationid="flyeblue" creationdate="20190308T090932Z">
+        <seg>d2/d37/classcvflann_1_1LinearIndex.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -28898,6 +29514,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T075758Z" creationid="flyeblue" creationdate="20190307T075758Z">
         <seg>d2/d64/structcv_1_1detail_1_1scalar__wrapper.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d2/d69/classcvflann_1_1RadiusResultSet.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091004Z" creationid="flyeblue" creationdate="20190308T091004Z">
+        <seg>d2/d69/classcvflann_1_1RadiusResultSet.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -29170,6 +29794,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190308T090052Z" creationid="flyeblue" creationdate="20190308T090052Z">
         <seg>d2/da3/classcv_1_1TrackerFeatureHOG.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d2/da8/structcvhalFilter2D.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091231Z" creationid="flyeblue" creationdate="20190308T091231Z">
+        <seg>d2/da8/structcvhalFilter2D.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -29462,6 +30094,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d2/deb/structcvflann_1_1squareDistance_3_01ChiSquareDistance_3_01ElementType_01_4_00_01ElementType_01_4.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091039Z" creationid="flyeblue" creationdate="20190308T091039Z">
+        <seg>d2/deb/structcvflann_1_1squareDistance_3_01ChiSquareDistance_3_01ElementType_01_4_00_01ElementType_01_4.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d2/def/structcv_1_1cudev_1_1BGR__to__BGRA__func.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T064957Z" creationid="flyeblue" creationdate="20190307T064957Z">
@@ -29594,6 +30234,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T075831Z" creationid="flyeblue" creationdate="20190307T075831Z">
         <seg>d3/d0d/structcv_1_1detail_1_1SphericalPortraitProjector.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d3/d10/structstd_1_1hash_3_01cv_1_1gapi_1_1GBackend_01_4.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091202Z" creationid="flyeblue" creationdate="20190308T091202Z">
+        <seg>d3/d10/structstd_1_1hash_3_01cv_1_1gapi_1_1GBackend_01_4.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -29926,6 +30574,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d3/d54/protocolCvVideoCameraDelegate_01-p.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091250Z" creationid="flyeblue" creationdate="20190308T091250Z">
+        <seg>d3/d54/protocolCvVideoCameraDelegate_01-p.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d3/d56/structcv_1_1flann_1_1AutotunedIndexParams.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T094049Z" creationid="flyeblue" creationdate="20190307T094049Z">
@@ -30050,6 +30706,22 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T073816Z" creationid="flyeblue" creationdate="20190307T073816Z">
         <seg>d3/d85/structcv_1_1detail_1_1GTypeTraits.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d3/d86/structcvflann_1_1squareDistance_3_01L2__Simple_3_01ElementType_01_4_00_01ElementType_01_4.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091048Z" creationid="flyeblue" creationdate="20190308T091048Z">
+        <seg>d3/d86/structcvflann_1_1squareDistance_3_01L2__Simple_3_01ElementType_01_4_00_01ElementType_01_4.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d3/d87/classcvflann_1_1True.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091058Z" creationid="flyeblue" creationdate="20190308T091058Z">
+        <seg>d3/d87/classcvflann_1_1True.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -30242,6 +30914,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T064518Z" creationid="flyeblue" creationdate="20190307T064518Z">
         <seg>d3/db6/structcv_1_1cudacodec_1_1EncoderParams.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d3/db9/classcvflann_1_1Matrix.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T090945Z" creationid="flyeblue" creationdate="20190308T090945Z">
+        <seg>d3/db9/classcvflann_1_1Matrix.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -30614,6 +31294,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d4/d1d/interfaceCvPhotoCamera.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091241Z" creationid="flyeblue" creationdate="20190308T091241Z">
+        <seg>d4/d1d/interfaceCvPhotoCamera.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d4/d1e/classcv_1_1StrongClassifierDirectSelection.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190308T085826Z" creationid="flyeblue" creationdate="20190308T085826Z">
@@ -30842,6 +31530,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T070626Z" creationid="flyeblue" creationdate="20190307T070626Z">
         <seg>d4/d59/structcv_1_1cudev_1_1RemapPtr2Sz.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d4/d5a/classcvflann_1_1UntypedMatrix.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091111Z" creationid="flyeblue" creationdate="20190308T091111Z">
+        <seg>d4/d5a/classcvflann_1_1UntypedMatrix.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -31110,6 +31806,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d4/d99/structstd_1_1hash_3_01cv_1_1GShape_01_4.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091205Z" creationid="flyeblue" creationdate="20190308T091205Z">
+        <seg>d4/d99/structstd_1_1hash_3_01cv_1_1GShape_01_4.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d4/d9d/structcv_1_1cudev_1_1sqrt__func_3_01double_01_4.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072113Z" creationid="flyeblue" creationdate="20190307T072113Z">
@@ -31302,6 +32006,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d4/dc3/structcvflann_1_1ZeroIterator.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091114Z" creationid="flyeblue" creationdate="20190308T091114Z">
+        <seg>d4/dc3/structcvflann_1_1ZeroIterator.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d4/dc7/classcv_1_1multicalib_1_1MultiCameraCalibration.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T114016Z" creationid="flyeblue" creationdate="20190307T114016Z">
@@ -31314,6 +32026,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080207Z" creationid="flyeblue" creationdate="20190308T080207Z">
         <seg>d4/dca/classcv_1_1viz_1_1WTrajectorySpheres.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d4/dca/classcvflann_1_1UniqueResultSet.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091104Z" creationid="flyeblue" creationdate="20190308T091104Z">
+        <seg>d4/dca/classcvflann_1_1UniqueResultSet.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -31402,6 +32122,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072203Z" creationid="flyeblue" creationdate="20190307T072203Z">
         <seg>d4/dd7/structcv_1_1cudev_1_1VecTraits_3_01ushort3_01_4.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d4/dd9/structcvv_1_1impl_1_1CallMetaData.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091123Z" creationid="flyeblue" creationdate="20190308T091123Z">
+        <seg>d4/dd9/structcvv_1_1impl_1_1CallMetaData.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -31654,6 +32382,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d5/d24/structcvflann_1_1LinearIndexParams.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T090936Z" creationid="flyeblue" creationdate="20190308T090936Z">
+        <seg>d5/d24/structcvflann_1_1LinearIndexParams.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d5/d29/structcv_1_1cudev_1_1HLS4__to__RGBA__func.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T070012Z" creationid="flyeblue" creationdate="20190307T070012Z">
@@ -31694,6 +32430,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d5/d34/classcvflann_1_1LshIndex.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T090940Z" creationid="flyeblue" creationdate="20190308T090940Z">
+        <seg>d5/d34/classcvflann_1_1LshIndex.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d5/d34/structcv_1_1cudev_1_1Luv4__to__BGR__func.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T070409Z" creationid="flyeblue" creationdate="20190307T070409Z">
@@ -31706,6 +32450,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072222Z" creationid="flyeblue" creationdate="20190307T072222Z">
         <seg>d5/d36/classcv_1_1datasets_1_1AR__sports.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d5/d37/structHaarStage64.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091312Z" creationid="flyeblue" creationdate="20190308T091312Z">
+        <seg>d5/d37/structHaarStage64.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -32110,6 +32862,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d5/da0/structcvflann_1_1simpleDistance_3_01L2__Simple_3_01ElementType_01_4_00_01ElementType_01_4.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091029Z" creationid="flyeblue" creationdate="20190308T091029Z">
+        <seg>d5/da0/structcvflann_1_1simpleDistance_3_01L2__Simple_3_01ElementType_01_4_00_01ElementType_01_4.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d5/da1/structcv_1_1cudev_1_1PtrTraits_3_01IntegerAreaInterPtrSz_3_01SrcPtr_01_4_01_4.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T070609Z" creationid="flyeblue" creationdate="20190307T070609Z">
@@ -32282,6 +33042,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T115054Z" creationid="flyeblue" creationdate="20190307T115054Z">
         <seg>d5/ddf/classcv_1_1ogl_1_1Texture2D.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d5/ddf/structcvflann_1_1LshIndexParams.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T090943Z" creationid="flyeblue" creationdate="20190308T090943Z">
+        <seg>d5/ddf/structcvflann_1_1LshIndexParams.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -32642,6 +33410,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T064900Z" creationid="flyeblue" creationdate="20190307T064900Z">
         <seg>d6/d59/structcv_1_1cudev_1_1asin__func_3_01double_01_4.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d6/d59/structcvflann_1_1SearchParams.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091015Z" creationid="flyeblue" creationdate="20190308T091015Z">
+        <seg>d6/d59/structcvflann_1_1SearchParams.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -33254,6 +34030,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d6/dfc/structHaarClassifierCascadeDescriptor.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091256Z" creationid="flyeblue" creationdate="20190308T091256Z">
+        <seg>d6/dfc/structHaarClassifierCascadeDescriptor.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d7/d03/classcv_1_1BaseClassifier.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190308T081938Z" creationid="flyeblue" creationdate="20190308T081938Z">
@@ -33450,6 +34234,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072032Z" creationid="flyeblue" creationdate="20190307T072032Z">
         <seg>d7/d2e/structcv_1_1cudev_1_1RGBA__to__Luv4__func.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d7/d2f/protocolCvPhotoCameraDelegate_01-p.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091244Z" creationid="flyeblue" creationdate="20190308T091244Z">
+        <seg>d7/d2f/protocolCvPhotoCameraDelegate_01-p.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -33782,6 +34574,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d7/d84/namespacecvv_1_1impl.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091120Z" creationid="flyeblue" creationdate="20190308T091120Z">
+        <seg>d7/d84/namespacecvv_1_1impl.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d7/d84/structcv_1_1cudev_1_1SobelXPtrSz.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072110Z" creationid="flyeblue" creationdate="20190307T072110Z">
@@ -34042,6 +34842,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072211Z" creationid="flyeblue" creationdate="20190307T072211Z">
         <seg>d7/dc3/structcv_1_1cudev_1_1YCrCb4__to__RGB__func.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d7/dc6/classAVCaptureVideoDataOutputSampleBufferDelegate-p.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091208Z" creationid="flyeblue" creationdate="20190308T091208Z">
+        <seg>d7/dc6/classAVCaptureVideoDataOutputSampleBufferDelegate-p.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -34414,10 +35222,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d8/d42/classcvflann_1_1ResultSet.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091010Z" creationid="flyeblue" creationdate="20190308T091010Z">
+        <seg>d8/d42/classcvflann_1_1ResultSet.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d8/d48/structcv_1_1cudev_1_1minimum_3_01uchar_01_4.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T070453Z" creationid="flyeblue" creationdate="20190307T070453Z">
         <seg>d8/d48/structcv_1_1cudev_1_1minimum_3_01uchar_01_4.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d8/d4a/classcvflann_1_1RadiusUniqueResultSet.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091007Z" creationid="flyeblue" creationdate="20190308T091007Z">
+        <seg>d8/d4a/classcvflann_1_1RadiusUniqueResultSet.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -34686,6 +35510,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d8/d94/structHaarClassifierNodeDescriptor32.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091303Z" creationid="flyeblue" creationdate="20190308T091303Z">
+        <seg>d8/d94/structHaarClassifierNodeDescriptor32.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d8/d95/classcv_1_1videostab_1_1ILog.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190308T072934Z" creationid="flyeblue" creationdate="20190308T072934Z">
@@ -34834,6 +35666,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T114015Z" creationid="flyeblue" creationdate="20190307T114015Z">
         <seg>d8/db8/namespacecv_1_1multicalib.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d8/db8/structcvflann_1_1squareDistance_3_01L2_3_01ElementType_01_4_00_01ElementType_01_4.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091045Z" creationid="flyeblue" creationdate="20190308T091045Z">
+        <seg>d8/db8/structcvflann_1_1squareDistance_3_01L2_3_01ElementType_01_4_00_01ElementType_01_4.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -35046,6 +35886,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d9/d03/classcvflann_1_1PooledAllocator.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091001Z" creationid="flyeblue" creationdate="20190308T091001Z">
+        <seg>d9/d03/classcvflann_1_1PooledAllocator.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d9/d07/classcv_1_1stereo_1_1StereoMatcher.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T132503Z" creationid="flyeblue" creationdate="20190307T132503Z">
@@ -35086,6 +35934,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d9/d10/classcvflann_1_1NNIndex.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T090955Z" creationid="flyeblue" creationdate="20190308T090955Z">
+        <seg>d9/d10/classcvflann_1_1NNIndex.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d9/d10/structcvflann_1_1anyimpl_1_1choose__policy_3_01bool_01_4.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190308T090545Z" creationid="flyeblue" creationdate="20190308T090545Z">
@@ -35098,6 +35954,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T080133Z" creationid="flyeblue" creationdate="20190307T080133Z">
         <seg>d9/d12/namespacecv_1_1directx.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d9/d12/structcvflann_1_1simpleDistance.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091017Z" creationid="flyeblue" creationdate="20190308T091017Z">
+        <seg>d9/d12/structcvflann_1_1simpleDistance.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -35694,6 +36558,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d9/da3/structcvflann_1_1L2.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T090928Z" creationid="flyeblue" creationdate="20190308T090928Z">
+        <seg>d9/da3/structcvflann_1_1L2.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d9/da5/structcv_1_1cudev_1_1RGB__to__HSV4__func_3_01float_01_4.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T071926Z" creationid="flyeblue" creationdate="20190307T071926Z">
@@ -35706,6 +36578,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072039Z" creationid="flyeblue" creationdate="20190307T072039Z">
         <seg>d9/da9/structcv_1_1cudev_1_1RGBA__to__XYZ4__func.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d9/daa/structcvhalKeyPoint.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091237Z" creationid="flyeblue" creationdate="20190308T091237Z">
+        <seg>d9/daa/structcvhalKeyPoint.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -35966,6 +36846,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d9/de3/classcvflann_1_1UniqueRandom.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091101Z" creationid="flyeblue" creationdate="20190308T091101Z">
+        <seg>d9/de3/classcvflann_1_1UniqueRandom.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d9/de4/structcv_1_1cudev_1_1exp__func_3_01uchar_01_4.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T065635Z" creationid="flyeblue" creationdate="20190307T065635Z">
@@ -36050,6 +36938,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T064154Z" creationid="flyeblue" creationdate="20190307T064154Z">
         <seg>d9/df3/classcv_1_1cuda_1_1Stream.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d9/df3/unionCv32suf.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091214Z" creationid="flyeblue" creationdate="20190308T091214Z">
+        <seg>d9/df3/unionCv32suf.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -36294,6 +37190,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>da/d59/structcvflann_1_1L2__Simple.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T090929Z" creationid="flyeblue" creationdate="20190308T090929Z">
+        <seg>da/d59/structcvflann_1_1L2__Simple.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>da/d5a/structcv_1_1detail_1_1OCVCallHelper_3_01Impl_00_01std_1_1tuple_3_01Ins_8_8_8_01_4_00_01std_1_1tuple_3_01Outs_8_8_8_01_4_01_4.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T075319Z" creationid="flyeblue" creationdate="20190307T075319Z">
@@ -36434,6 +37338,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190308T054118Z" creationid="flyeblue" creationdate="20190308T054118Z">
         <seg>da/d73/classcv_1_1tracking_1_1UnscentedKalmanFilterParams.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>da/d73/structNcvCTprep_1_1CT__ASSERT__FAILURE.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091150Z" creationid="flyeblue" creationdate="20190308T091150Z">
+        <seg>da/d73/structNcvCTprep_1_1CT__ASSERT__FAILURE.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -37454,6 +38366,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>db/d86/structcvflann_1_1MaxDistance.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T090948Z" creationid="flyeblue" creationdate="20190308T090948Z">
+        <seg>db/d86/structcvflann_1_1MaxDistance.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>db/d87/structcv_1_1cudev_1_1VecTraits_3_01uchar1_01_4.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072157Z" creationid="flyeblue" creationdate="20190307T072157Z">
@@ -37490,6 +38410,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072230Z" creationid="flyeblue" creationdate="20190307T072230Z">
         <seg>db/d88/structcv_1_1datasets_1_1PD__inriaObj.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>db/d88/structcvflann_1_1simpleDistance_3_01HellingerDistance_3_01ElementType_01_4_00_01ElementType_01_4.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091023Z" creationid="flyeblue" creationdate="20190308T091023Z">
+        <seg>db/d88/structcvflann_1_1simpleDistance_3_01HellingerDistance_3_01ElementType_01_4_00_01ElementType_01_4.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -37538,6 +38466,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T070014Z" creationid="flyeblue" creationdate="20190307T070014Z">
         <seg>db/d9e/structcv_1_1cudev_1_1HLS__to__BGR__FULL__func.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>db/da9/interfaceCvVideoCamera.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091247Z" creationid="flyeblue" creationdate="20190308T091247Z">
+        <seg>db/da9/interfaceCvVideoCamera.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -37658,6 +38594,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190308T090127Z" creationid="flyeblue" creationdate="20190308T090127Z">
         <seg>db/dd1/structcv_1_1TrackerKCF_1_1Params.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>db/dd1/structcvflann_1_1simpleDistance_3_01MinkowskiDistance_3_01ElementType_01_4_00_01ElementType_01_4.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091033Z" creationid="flyeblue" creationdate="20190308T091033Z">
+        <seg>db/dd1/structcvflann_1_1simpleDistance_3_01MinkowskiDistance_3_01ElementType_01_4_00_01ElementType_01_4.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -37990,6 +38934,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>dc/d2a/structcvflann_1_1SavedIndexParams.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091014Z" creationid="flyeblue" creationdate="20190308T091014Z">
+        <seg>dc/d2a/structcvflann_1_1SavedIndexParams.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>dc/d2b/classcv_1_1cuda_1_1Filter.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T062019Z" creationid="flyeblue" creationdate="20190307T062019Z">
@@ -38054,6 +39006,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>dc/d3c/structcvflann_1_1simpleDistance_3_01L2_3_01ElementType_01_4_00_01ElementType_01_4.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091026Z" creationid="flyeblue" creationdate="20190308T091026Z">
+        <seg>dc/d3c/structcvflann_1_1simpleDistance_3_01L2_3_01ElementType_01_4_00_01ElementType_01_4.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>dc/d3e/classcv_1_1detail_1_1DisjointSets.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T073326Z" creationid="flyeblue" creationdate="20190307T073326Z">
@@ -38066,6 +39026,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190308T072035Z" creationid="flyeblue" creationdate="20190308T072035Z">
         <seg>dc/d3e/classcv_1_1util_1_1variant.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>dc/d3f/structcvflann_1_1squareDistance_3_01HellingerDistance_3_01ElementType_01_4_00_01ElementType_01_4.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091042Z" creationid="flyeblue" creationdate="20190308T091042Z">
+        <seg>dc/d3f/structcvflann_1_1squareDistance_3_01HellingerDistance_3_01ElementType_01_4_00_01ElementType_01_4.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -38238,6 +39206,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>dc/d68/structcvflann_1_1squareDistance.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091036Z" creationid="flyeblue" creationdate="20190308T091036Z">
+        <seg>dc/d68/structcvflann_1_1squareDistance.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>dc/d69/structcv_1_1flann_1_1CvType_3_01double_01_4.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T094112Z" creationid="flyeblue" creationdate="20190307T094112Z">
@@ -38282,6 +39258,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T065630Z" creationid="flyeblue" creationdate="20190307T065630Z">
         <seg>dc/d73/structcv_1_1cudev_1_1exp__func.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>dc/d73/structcvflann_1_1squareDistance_3_01MinkowskiDistance_3_01ElementType_01_4_00_01ElementType_01_4.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091052Z" creationid="flyeblue" creationdate="20190308T091052Z">
+        <seg>dc/d73/structcvflann_1_1squareDistance_3_01MinkowskiDistance_3_01ElementType_01_4_00_01ElementType_01_4.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -38670,6 +39654,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>dc/dcf/structNcvCTprep_1_1CT__ASSERT__FAILURE_3_01true_01_4.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091153Z" creationid="flyeblue" creationdate="20190308T091153Z">
+        <seg>dc/dcf/structNcvCTprep_1_1CT__ASSERT__FAILURE_3_01true_01_4.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>dc/dd1/classcv_1_1superres_1_1BroxOpticalFlow.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T134417Z" creationid="flyeblue" creationdate="20190307T134417Z">
@@ -38934,6 +39926,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>dd/d06/namespacecvv.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091117Z" creationid="flyeblue" creationdate="20190308T091117Z">
+        <seg>dd/d06/namespacecvv.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>dd/d07/structcv_1_1cudev_1_1LBGR__to__Lab__func.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T070308Z" creationid="flyeblue" creationdate="20190307T070308Z">
@@ -38986,6 +39986,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072226Z" creationid="flyeblue" creationdate="20190307T072226Z">
         <seg>dd/d0e/classcv_1_1datasets_1_1IS__bsds.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>dd/d0f/unionCv16suf.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091211Z" creationid="flyeblue" creationdate="20190308T091211Z">
+        <seg>dd/d0f/unionCv16suf.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -39426,6 +40434,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T065000Z" creationid="flyeblue" creationdate="20190307T065000Z">
         <seg>dd/d95/structcv_1_1cudev_1_1BGR__to__HLS4__FULL__func_3_01float_01_4.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>dd/d95/structcvflann_1_1simpleDistance_3_01ChiSquareDistance_3_01ElementType_01_4_00_01ElementType_01_4.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091020Z" creationid="flyeblue" creationdate="20190308T091020Z">
+        <seg>dd/d95/structcvflann_1_1simpleDistance_3_01ChiSquareDistance_3_01ElementType_01_4_00_01ElementType_01_4.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -39974,6 +40990,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>de/d27/structcvhalDFT.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091224Z" creationid="flyeblue" creationdate="20190308T091224Z">
+        <seg>de/d27/structcvhalDFT.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>de/d29/classcv_1_1img__hash_1_1ImgHashBase.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T105143Z" creationid="flyeblue" creationdate="20190307T105143Z">
@@ -40178,6 +41202,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T113631Z" creationid="flyeblue" creationdate="20190307T113631Z">
         <seg>de/d54/classcv_1_1ml_1_1SVMSGD.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>de/d55/unionCv64suf.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091218Z" creationid="flyeblue" creationdate="20190308T091218Z">
+        <seg>de/d55/unionCv64suf.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -40550,6 +41582,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>de/db5/structHaarClassifierNode128.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091300Z" creationid="flyeblue" creationdate="20190308T091300Z">
+        <seg>de/db5/structHaarClassifierNode128.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>de/db6/classcv_1_1Detector.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060513Z" creationid="flyeblue" creationdate="20190307T060513Z">
@@ -40618,6 +41658,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T054014Z" creationid="flyeblue" creationdate="20190307T054014Z">
         <seg>de/dca/classcv_1_1bgsegm_1_1BackgroundSubtractorCNT.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>de/dd0/classcvflann_1_1StartStopTimer.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091055Z" creationid="flyeblue" creationdate="20190308T091055Z">
+        <seg>de/dd0/classcvflann_1_1StartStopTimer.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -41038,6 +42086,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>df/d47/classcv_1_1cudev_1_1color__cvt__detail_1_1Gray2RGB.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091253Z" creationid="flyeblue" creationdate="20190308T091253Z">
+        <seg>df/d47/classcv_1_1cudev_1_1color__cvt__detail_1_1Gray2RGB.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>df/d47/structcv_1_1cudev_1_1numeric__limits_3_01ushort_01_4.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T070557Z" creationid="flyeblue" creationdate="20190307T070557Z">
@@ -41314,6 +42370,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072156Z" creationid="flyeblue" creationdate="20190307T072156Z">
         <seg>df/d87/structcv_1_1cudev_1_1VecTraits_3_01uchar_01_4.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>df/d88/structHaarFeatureDescriptor32.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091309Z" creationid="flyeblue" creationdate="20190308T091309Z">
+        <seg>df/d88/structHaarFeatureDescriptor32.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -41606,6 +42670,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>df/dd6/classcvflann_1_1ObjectFactory.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T090958Z" creationid="flyeblue" creationdate="20190308T090958Z">
+        <seg>df/dd6/classcvflann_1_1ObjectFactory.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>df/dd8/structcv_1_1cudev_1_1BGR__to__RGB__func.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T065517Z" creationid="flyeblue" creationdate="20190307T065517Z">
@@ -41762,6 +42834,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190308T085631Z" creationid="flyeblue" creationdate="20190308T085631Z">
         <seg>df/dfe/classcv_1_1ShapeTransformer.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>df/dff/group__cvv.html#ga06724816aad0970637457645ae60c8ca</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091135Z" creationid="flyeblue" creationdate="20190308T091135Z">
+        <seg>df/dff/group__cvv.html#ga06724816aad0970637457645ae60c8ca</seg>
       </tuv>
     </tu>
     <tu>
