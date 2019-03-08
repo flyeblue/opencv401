@@ -7710,6 +7710,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;UkfSystemModel&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T051605Z" creationid="flyeblue" creationdate="20190308T051605Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;UkfSystemModel&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;UnaryNegate&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072141Z" creationid="flyeblue" creationdate="20190307T072141Z">
@@ -18110,6 +18118,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The class for initialization parameters of Augmented Unscented Kalman filter</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T051557Z" creationid="flyeblue" creationdate="20190308T051557Z">
+        <seg>增广Unscented卡尔曼滤波器的初始化参数类</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The class implements Histogram of Oriented Gradients (&lt;a0&gt;[40]&lt;/a0&gt;) object detector</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T062400Z" creationid="flyeblue" creationdate="20190307T062321Z">
@@ -27042,6 +27058,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T065628Z" creationid="flyeblue" creationdate="20190307T065628Z">
         <seg>da/d29/structcv_1_1cudev_1_1exp2__func_3_01short_01_4.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>da/d2b/classcv_1_1tracking_1_1UkfSystemModel.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T051602Z" creationid="flyeblue" creationdate="20190308T051602Z">
+        <seg>da/d2b/classcv_1_1tracking_1_1UkfSystemModel.html</seg>
       </tuv>
     </tu>
     <tu>
