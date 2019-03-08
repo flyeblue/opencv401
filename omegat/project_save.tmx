@@ -1566,6 +1566,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;BRISK&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T083857Z" creationid="flyeblue" creationdate="20190308T083857Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;BRISK&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;BackendNode&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T080145Z" creationid="flyeblue" creationdate="20190307T080145Z">
@@ -34450,6 +34458,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080601Z" creationid="flyeblue" creationdate="20190308T080601Z">
         <seg>de/db7/classcv_1_1ximgproc_1_1AdaptiveManifoldFilter.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>de/dbf/classcv_1_1BRISK.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T083847Z" creationid="flyeblue" creationdate="20190308T083847Z">
+        <seg>de/dbf/classcv_1_1BRISK.html</seg>
       </tuv>
     </tu>
     <tu>
