@@ -254,6 +254,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>#a3f8e0f52eb5787584c8f3fa374e13019</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T115729Z" creationid="flyeblue" creationdate="20190308T115729Z">
+        <seg>#a3f8e0f52eb5787584c8f3fa374e13019</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>#include "tracker.hpp"</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190308T114156Z" creationid="flyeblue" creationdate="20190308T114156Z">
@@ -494,6 +502,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T115733Z" creationid="flyeblue" creationdate="20190308T115733Z">
+        <seg>(</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(I will show an example later.)</seg>
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190305T074908Z" creationid="Administrator" creationdate="20190305T074908Z">
@@ -546,6 +562,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T093931Z" creationid="flyeblue" creationdate="20190307T093931Z">
         <seg>（不需要很多正面训练（10-50），也没有负面因素，对噪音/腌制也很有效）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>)</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T115801Z" creationid="flyeblue" creationdate="20190308T115801Z">
+        <seg>)</seg>
       </tuv>
     </tu>
     <tu>
@@ -17394,6 +17418,14 @@
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190224T161137Z" creationid="Administrator" creationdate="20190224T161137Z">
         <seg>&lt;e0&gt;边界框&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;a1&gt;§ &lt;/a1&gt;&lt;/s0&gt;~TrackerMOSSE()</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T115730Z" creationid="flyeblue" creationdate="20190308T115730Z">
+        <seg>&lt;s0&gt;&lt;a1&gt;§ &lt;/a1&gt;&lt;/s0&gt;~TrackerMOSSE()</seg>
       </tuv>
     </tu>
     <tu>
@@ -35360,8 +35392,8 @@
       <tuv lang="EN-US">
         <seg>Clears the algorithm state.</seg>
       </tuv>
-      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T114831Z" creationid="flyeblue" creationdate="20190308T114831Z">
-        <seg>Clears the algorithm state.</seg>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T115617Z" creationid="flyeblue" creationdate="20190308T114831Z">
+        <seg>清除算法状态。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35498,6 +35530,14 @@
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190304T162233Z" creationid="Administrator" creationdate="20190304T162233Z">
         <seg>考虑一下，你有一组只有一个特征的数据，即一维。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Constructor &amp; Destructor Documentation</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T115727Z" creationid="flyeblue" creationdate="20190308T115727Z">
+        <seg>Constructor &amp; Destructor Documentation</seg>
       </tuv>
     </tu>
     <tu>
@@ -37960,8 +38000,8 @@
       <tuv lang="EN-US">
         <seg>It differs from the above function only in what argument(s) it accepts.</seg>
       </tuv>
-      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T114859Z" creationid="flyeblue" creationdate="20190308T114859Z">
-        <seg>It differs from the above function only in what argument(s) it accepts.</seg>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T115534Z" creationid="flyeblue" creationdate="20190308T114859Z">
+        <seg>它与上述函数的不同之处仅在于它接受的参数。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39904,8 +39944,8 @@
       <tuv lang="EN-US">
         <seg>Public Member Functions inherited from &lt;a0&gt;cv::Algorithm&lt;/a0&gt;</seg>
       </tuv>
-      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T114820Z" creationid="flyeblue" creationdate="20190308T114820Z">
-        <seg>Public Member Functions inherited from &lt;a0&gt;cv::Algorithm&lt;/a0&gt;</seg>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T115644Z" creationid="flyeblue" creationdate="20190308T114820Z">
+        <seg>公共成员函数继承自&lt;a0&gt; cv :: Algorithm &lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -40832,8 +40872,8 @@
       <tuv lang="EN-US">
         <seg>Static Public Member Functions</seg>
       </tuv>
-      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T114900Z" creationid="flyeblue" creationdate="20190308T114900Z">
-        <seg>Static Public Member Functions</seg>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T115522Z" creationid="flyeblue" creationdate="20190308T114900Z">
+        <seg>静态公共成员函数</seg>
       </tuv>
     </tu>
     <tu>
@@ -41618,6 +41658,14 @@
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190305T111439Z" creationid="Administrator" creationdate="20190305T111439Z">
         <seg>第一阶段只是将所有图像加载到列表中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The implementation is based on &lt;a0&gt;[19]&lt;/a0&gt; Visual Object Tracking using Adaptive Correlation Filters</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T115724Z" creationid="flyeblue" creationdate="20190308T115724Z">
+        <seg>The implementation is based on &lt;a0&gt;[19]&lt;/a0&gt; Visual Object Tracking using Adaptive Correlation Filters</seg>
       </tuv>
     </tu>
     <tu>
@@ -60808,8 +60856,8 @@
       <tuv lang="EN-US">
         <seg>simplified API for language bindings This is an overloaded member function, provided for convenience.</seg>
       </tuv>
-      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T114857Z" creationid="flyeblue" creationdate="20190308T114857Z">
-        <seg>simplified API for language bindings This is an overloaded member function, provided for convenience.</seg>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T115551Z" creationid="flyeblue" creationdate="20190308T114857Z">
+        <seg>语言绑定的简化API这是一个重载的成员函数，为方便起见而提供。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60918,6 +60966,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>this tracker works with grayscale images, if passed bgr ones, they will get converted internally.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T115725Z" creationid="flyeblue" creationdate="20190308T115725Z">
+        <seg>this tracker works with grayscale images, if passed bgr ones, they will get converted internally.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>type of termination criteria.</seg>
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190304T160039Z" creationid="Administrator" creationdate="20190304T160039Z">
@@ -60962,6 +61018,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190308T114833Z" creationid="flyeblue" creationdate="20190308T114833Z">
         <seg>virtual bool</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>virtual cv::TrackerMOSSE::~TrackerMOSSE</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T115732Z" creationid="flyeblue" creationdate="20190308T115732Z">
+        <seg>virtual cv::TrackerMOSSE::~TrackerMOSSE</seg>
       </tuv>
     </tu>
     <tu>
