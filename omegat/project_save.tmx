@@ -15422,6 +15422,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It contains functions for computing the next state and the measurement.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T053341Z" creationid="flyeblue" creationdate="20190308T053341Z">
+        <seg>它包含用于计算下一个状态和测量的函数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It contains the inner codification</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T053423Z" creationid="flyeblue" creationdate="20190307T053423Z">
