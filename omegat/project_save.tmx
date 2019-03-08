@@ -430,6 +430,38 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>#letter_w</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T093405Z" creationid="flyeblue" creationdate="20190308T093405Z">
+        <seg>#letter_w</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>#letter_x</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T093429Z" creationid="flyeblue" creationdate="20190308T093429Z">
+        <seg>#letter_x</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>#letter_y</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T093452Z" creationid="flyeblue" creationdate="20190308T093452Z">
+        <seg>#letter_y</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>#letter_z</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T093516Z" creationid="flyeblue" creationdate="20190308T093516Z">
+        <seg>#letter_z</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(I will show an example later.)</seg>
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190305T074908Z" creationid="Administrator" creationdate="20190305T074908Z">
@@ -794,6 +826,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080023Z" creationid="flyeblue" creationdate="20190308T080023Z">
         <seg>隐式共享&lt;a0&gt;小部件&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a0&gt;_&lt;/a0&gt; | &lt;a1&gt;a&lt;/a1&gt; | &lt;a2&gt;b&lt;/a2&gt; | &lt;a3&gt;c&lt;/a3&gt; | &lt;a4&gt;d&lt;/a4&gt; | &lt;a5&gt;e&lt;/a5&gt; | &lt;a6&gt;f&lt;/a6&gt; | &lt;a7&gt;g&lt;/a7&gt; | &lt;a8&gt;h&lt;/a8&gt; | &lt;a9&gt;i&lt;/a9&gt; | &lt;a10&gt;j&lt;/a10&gt; | &lt;a11&gt;k&lt;/a11&gt; | &lt;a12&gt;l&lt;/a12&gt; | &lt;a13&gt;m&lt;/a13&gt; | &lt;a14&gt;n&lt;/a14&gt; | &lt;a15&gt;o&lt;/a15&gt; | &lt;a16&gt;p&lt;/a16&gt; | &lt;a17&gt;q&lt;/a17&gt; | &lt;a18&gt;r&lt;/a18&gt; | &lt;a19&gt;s&lt;/a19&gt; | &lt;a20&gt;t&lt;/a20&gt; | &lt;a21&gt;u&lt;/a21&gt; | &lt;a22&gt;v&lt;/a22&gt; | &lt;a23&gt;w&lt;/a23&gt; | &lt;a24&gt;x&lt;/a24&gt; | &lt;a25&gt;y&lt;/a25&gt; | &lt;a26&gt;z&lt;/a26&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T093517Z" creationid="flyeblue" creationdate="20190308T093517Z">
+        <seg>&lt;a0&gt;_&lt;/a0&gt; | &lt;a1&gt;a&lt;/a1&gt; | &lt;a2&gt;b&lt;/a2&gt; | &lt;a3&gt;c&lt;/a3&gt; | &lt;a4&gt;d&lt;/a4&gt; | &lt;a5&gt;e&lt;/a5&gt; | &lt;a6&gt;f&lt;/a6&gt; | &lt;a7&gt;g&lt;/a7&gt; | &lt;a8&gt;h&lt;/a8&gt; | &lt;a9&gt;i&lt;/a9&gt; | &lt;a10&gt;j&lt;/a10&gt; | &lt;a11&gt;k&lt;/a11&gt; | &lt;a12&gt;l&lt;/a12&gt; | &lt;a13&gt;m&lt;/a13&gt; | &lt;a14&gt;n&lt;/a14&gt; | &lt;a15&gt;o&lt;/a15&gt; | &lt;a16&gt;p&lt;/a16&gt; | &lt;a17&gt;q&lt;/a17&gt; | &lt;a18&gt;r&lt;/a18&gt; | &lt;a19&gt;s&lt;/a19&gt; | &lt;a20&gt;t&lt;/a20&gt; | &lt;a21&gt;u&lt;/a21&gt; | &lt;a22&gt;v&lt;/a22&gt; | &lt;a23&gt;w&lt;/a23&gt; | &lt;a24&gt;x&lt;/a24&gt; | &lt;a25&gt;y&lt;/a25&gt; | &lt;a26&gt;z&lt;/a26&gt;</seg>
       </tuv>
     </tu>
     <tu>
