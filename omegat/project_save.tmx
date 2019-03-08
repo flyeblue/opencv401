@@ -33240,8 +33240,8 @@
       <tuv lang="EN-US">
         <seg>Additional Inherited Members</seg>
       </tuv>
-      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T115011Z" creationid="flyeblue" creationdate="20190308T115011Z">
-        <seg>Additional Inherited Members</seg>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T115206Z" creationid="flyeblue" creationdate="20190308T115011Z">
+        <seg>其他继承成员</seg>
       </tuv>
     </tu>
     <tu>
@@ -38600,16 +38600,16 @@
       <tuv lang="EN-US">
         <seg>Loads algorithm from a String.</seg>
       </tuv>
-      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T114916Z" creationid="flyeblue" creationdate="20190308T114916Z">
-        <seg>Loads algorithm from a String.</seg>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T115444Z" creationid="flyeblue" creationdate="20190308T114916Z">
+        <seg>从String加载算法。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Loads algorithm from the file.</seg>
       </tuv>
-      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T114911Z" creationid="flyeblue" creationdate="20190308T114911Z">
-        <seg>Loads algorithm from the file.</seg>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T115503Z" creationid="flyeblue" creationdate="20190308T114911Z">
+        <seg>从文件中加载算法。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39888,8 +39888,8 @@
       <tuv lang="EN-US">
         <seg>Protected Member Functions inherited from &lt;a0&gt;cv::Tracker&lt;/a0&gt;</seg>
       </tuv>
-      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T115011Z" creationid="flyeblue" creationdate="20190308T115011Z">
-        <seg>Protected Member Functions inherited from &lt;a0&gt;cv::Tracker&lt;/a0&gt;</seg>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T115152Z" creationid="flyeblue" creationdate="20190308T115011Z">
+        <seg>受保护的成员函数继承自&lt;a0&gt; cv :: Tracker &lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -39976,8 +39976,8 @@
       <tuv lang="EN-US">
         <seg>Reads algorithm from the file node.</seg>
       </tuv>
-      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T115010Z" creationid="flyeblue" creationdate="20190308T115010Z">
-        <seg>Reads algorithm from the file node.</seg>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T115256Z" creationid="flyeblue" creationdate="20190308T115010Z">
+        <seg>从文件节点读取算法</seg>
       </tuv>
     </tu>
     <tu>
