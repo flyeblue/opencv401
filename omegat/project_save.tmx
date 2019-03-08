@@ -18294,6 +18294,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The interface for dynamical system model.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T053129Z" creationid="flyeblue" creationdate="20190308T053129Z">
+        <seg>动态系统模型的界面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The model of AAM &lt;a0&gt;Algorithm&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T093201Z" creationid="flyeblue" creationdate="20190307T093134Z">
