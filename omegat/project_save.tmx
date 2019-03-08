@@ -5398,6 +5398,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;MotionEstimatorRansacL2&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T073428Z" creationid="flyeblue" creationdate="20190308T073428Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;MotionEstimatorRansacL2&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;MotionSaliency&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T124339Z" creationid="flyeblue" creationdate="20190307T124339Z">
@@ -12608,8 +12616,8 @@
       <tuv lang="EN-US">
         <seg>Base class for all global motion estimation methods</seg>
       </tuv>
-      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T073146Z" creationid="flyeblue" creationdate="20190308T073146Z">
-        <seg>Base class for all global motion estimation methods</seg>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T073552Z" creationid="flyeblue" creationdate="20190308T073146Z">
+        <seg>所有全局运动估计方法的基类</seg>
       </tuv>
     </tu>
     <tu>
@@ -13944,8 +13952,8 @@
       <tuv lang="EN-US">
         <seg>Describes a global 2D motion estimation method which minimizes &lt;a0&gt;L1&lt;/a0&gt; error</seg>
       </tuv>
-      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T073204Z" creationid="flyeblue" creationdate="20190308T073204Z">
-        <seg>描述了一种全局2D运动估计方法，其最小化&lt;a0&gt; L1 &lt;/ a0&gt;误差</seg>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T073517Z" creationid="flyeblue" creationdate="20190308T073204Z">
+        <seg>描述了一种全局2D运动估计方法，其最小化&lt;a0&gt;L1&lt;/a0&gt;误差</seg>
       </tuv>
     </tu>
     <tu>
@@ -25418,6 +25426,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072122Z" creationid="flyeblue" creationdate="20190307T072122Z">
         <seg>d6/dbd/structcv_1_1cudev_1_1tan__func_3_01short_01_4.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d6/dbe/classcv_1_1videostab_1_1MotionEstimatorRansacL2.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T073424Z" creationid="flyeblue" creationdate="20190308T073424Z">
+        <seg>d6/dbe/classcv_1_1videostab_1_1MotionEstimatorRansacL2.html</seg>
       </tuv>
     </tu>
     <tu>
