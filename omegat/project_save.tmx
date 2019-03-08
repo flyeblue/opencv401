@@ -8526,6 +8526,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;WCameraPosition&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T075515Z" creationid="flyeblue" creationdate="20190308T075515Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;WCameraPosition&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;Warp&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072204Z" creationid="flyeblue" creationdate="20190307T072204Z">
@@ -19344,8 +19352,16 @@
       <tuv lang="EN-US">
         <seg>This 3D &lt;a0&gt;Widget&lt;/a0&gt; defines an arrow</seg>
       </tuv>
-      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T075341Z" creationid="flyeblue" creationdate="20190308T075303Z">
-        <seg>这个3D &lt;a0&gt;&lt;/a0&gt; Widget &lt;/ a0&gt;定义了一个箭头</seg>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T075645Z" creationid="flyeblue" creationdate="20190308T075303Z">
+        <seg>这个3D&lt;a0&gt;widget&lt;/a0&gt;定义了一个箭头</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This 3D &lt;a0&gt;Widget&lt;/a0&gt; represents camera position in a scene by its axes or viewing frustum.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T075648Z" creationid="flyeblue" creationdate="20190308T075648Z">
+        <seg>该3D &lt;a0&gt;小部件&lt;/ a0&gt;表示场景中的相机在其轴或视锥体上的位置。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31794,6 +31810,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T075314Z" creationid="flyeblue" creationdate="20190307T075314Z">
         <seg>df/d06/structcv_1_1detail_1_1OCLCallHelper_3_01Impl_00_01std_1_1tuple_3_01Ins_8_8_8_01_4_00_01std_1_1tuple_3_01Outs_8_8_8_01_4_01_4.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>df/d0c/classcv_1_1viz_1_1WCircle.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T075703Z" creationid="flyeblue" creationdate="20190308T075703Z">
+        <seg>df/d0c/classcv_1_1viz_1_1WCircle.html</seg>
       </tuv>
     </tu>
     <tu>
