@@ -798,6 +798,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;AVIReadContainer&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T081422Z" creationid="flyeblue" creationdate="20190308T081422Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;AVIReadContainer&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;AVIWriteContainer&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T081424Z" creationid="flyeblue" creationdate="20190308T081424Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;AVIWriteContainer&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;AbsLayer&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T080140Z" creationid="flyeblue" creationdate="20190307T080140Z">
@@ -1530,6 +1546,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T080322Z" creationid="flyeblue" creationdate="20190307T080322Z">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;BackendWrapper&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;BackgroundSubtractor&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T081425Z" creationid="flyeblue" creationdate="20190308T081425Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;BackgroundSubtractor&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -28318,6 +28342,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d7/d13/classcv_1_1AVIWriteContainer.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T081423Z" creationid="flyeblue" creationdate="20190308T081423Z">
+        <seg>d7/d13/classcv_1_1AVIWriteContainer.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d7/d15/structcv_1_1rgbd_1_1OdometryFrame.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T124322Z" creationid="flyeblue" creationdate="20190307T124322Z">
@@ -28946,6 +28978,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T070610Z" creationid="flyeblue" creationdate="20190307T070610Z">
         <seg>d7/deb/structcv_1_1cudev_1_1PtrTraits_3_01LinearInterPtrSz_3_01SrcPtr_01_4_01_4.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d7/df6/classcv_1_1BackgroundSubtractor.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T081425Z" creationid="flyeblue" creationdate="20190308T081425Z">
+        <seg>d7/df6/classcv_1_1BackgroundSubtractor.html</seg>
       </tuv>
     </tu>
     <tu>
