@@ -246,6 +246,62 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>#letter__</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T092147Z" creationid="flyeblue" creationdate="20190308T092147Z">
+        <seg>#letter__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>#letter_a</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T092211Z" creationid="flyeblue" creationdate="20190308T092211Z">
+        <seg>#letter_a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>#letter_b</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T092235Z" creationid="flyeblue" creationdate="20190308T092235Z">
+        <seg>#letter_b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>#letter_c</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T092258Z" creationid="flyeblue" creationdate="20190308T092258Z">
+        <seg>#letter_c</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>#letter_d</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T092322Z" creationid="flyeblue" creationdate="20190308T092322Z">
+        <seg>#letter_d</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>#letter_e</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T092345Z" creationid="flyeblue" creationdate="20190308T092345Z">
+        <seg>#letter_e</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>#letter_f</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T092409Z" creationid="flyeblue" creationdate="20190308T092409Z">
+        <seg>#letter_f</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(I will show an example later.)</seg>
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190305T074908Z" creationid="Administrator" creationdate="20190305T074908Z">
@@ -18158,6 +18214,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Class Index</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T092124Z" creationid="flyeblue" creationdate="20190308T092124Z">
+        <seg>Class Index</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Class List</seg>
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190224T122129Z" creationid="Administrator" creationdate="20190224T122129Z">
@@ -22866,6 +22930,14 @@
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190305T154016Z" creationid="Administrator" creationdate="20190305T154016Z">
         <seg>OpenCV: 图像的基本操作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OpenCV: Class Index</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T092100Z" creationid="flyeblue" creationdate="20190308T092100Z">
+        <seg>OpenCV：类索引</seg>
       </tuv>
     </tu>
     <tu>
