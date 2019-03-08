@@ -630,6 +630,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a0&gt;CvType&lt; float &gt;&lt;/a0&gt; (&lt;a1&gt;cv::flann&lt;/a1&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T093605Z" creationid="flyeblue" creationdate="20190308T093605Z">
+        <seg>&lt;a0&gt;CvType&lt; float &gt;&lt;/a0&gt; (&lt;a1&gt;cv::flann&lt;/a1&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a0&gt;CvType&lt; short &gt;&lt;/a0&gt; (&lt;a1&gt;cv::flann&lt;/a1&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T093717Z" creationid="flyeblue" creationdate="20190308T093717Z">
+        <seg>&lt;a0&gt;CvType&lt; short &gt;&lt;/a0&gt; (&lt;a1&gt;cv::flann&lt;/a1&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a0&gt;Data&lt;/a0&gt; container for the facemark::getData function</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T093031Z" creationid="flyeblue" creationdate="20190307T093031Z">
@@ -642,6 +658,22 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190308T084756Z" creationid="flyeblue" creationdate="20190308T084756Z">
         <seg>&lt;a0&gt; GComputation &lt;/a0&gt;类表示捕获的计算图。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a0&gt;HSV_to_BGR_FULL_func&lt; float &gt;&lt;/a0&gt; (&lt;a1&gt;cv::cudev&lt;/a1&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T093826Z" creationid="flyeblue" creationdate="20190308T093826Z">
+        <seg>&lt;a0&gt;HSV_to_BGR_FULL_func&lt; float &gt;&lt;/a0&gt; (&lt;a1&gt;cv::cudev&lt;/a1&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a0&gt;HSV_to_BGR_FULL_func&lt;/a0&gt; (&lt;a1&gt;cv::cudev&lt;/a1&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T093628Z" creationid="flyeblue" creationdate="20190308T093628Z">
+        <seg>&lt;a0&gt;HSV_to_BGR_FULL_func&lt;/a0&gt; (&lt;a1&gt;cv::cudev&lt;/a1&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -666,6 +698,22 @@
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190224T150047Z" creationid="Administrator" creationdate="20190224T150047Z">
         <seg>&lt;a0&gt;更多...&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a0&gt;NCVVector&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T093630Z" creationid="flyeblue" creationdate="20190308T093630Z">
+        <seg>&lt;a0&gt;NCVVector&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a0&gt;NCVVectorAlloc&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T093828Z" creationid="flyeblue" creationdate="20190308T093828Z">
+        <seg>&lt;a0&gt;NCVVectorAlloc&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -838,10 +886,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a0&gt;_InputArray&lt;/a0&gt; (&lt;a1&gt;cv&lt;/a1&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T093915Z" creationid="flyeblue" creationdate="20190308T093915Z">
+        <seg>&lt;a0&gt;_InputArray&lt;/a0&gt; (&lt;a1&gt;cv&lt;/a1&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a0&gt;cv.split()&lt;/a0&gt; is a costly operation (in terms of time).</seg>
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190305T170534Z" creationid="Administrator" creationdate="20190305T170534Z">
         <seg>&lt;a0&gt;cv.split()&lt;/a0&gt;是一项昂贵的操作（就时间而言）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a0&gt;simpleDistance&lt; HellingerDistance&lt; ElementType &gt;, ElementType &gt;&lt;/a0&gt; (&lt;a1&gt;cvflann&lt;/a1&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T093653Z" creationid="flyeblue" creationdate="20190308T093653Z">
+        <seg>&lt;a0&gt;simpleDistance&lt; HellingerDistance&lt; ElementType &gt;, ElementType &gt;&lt;/a0&gt; (&lt;a1&gt;cvflann&lt;/a1&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a0&gt;simpleDistance&lt; L2&lt; ElementType &gt;, ElementType &gt;&lt;/a0&gt; (&lt;a1&gt;cvflann&lt;/a1&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T093851Z" creationid="flyeblue" creationdate="20190308T093851Z">
+        <seg>&lt;a0&gt;simpleDistance&lt; L2&lt; ElementType &gt;, ElementType &gt;&lt;/a0&gt; (&lt;a1&gt;cvflann&lt;/a1&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -27226,6 +27298,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080631Z" creationid="flyeblue" creationdate="20190308T080631Z">
         <seg>\ [d（z_a，z_b）= \ sum（a_n  -  s b_n e ^ {j（n \ alpha + \ phi）}）^ 2 \]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>_</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T093541Z" creationid="flyeblue" creationdate="20190308T093541Z">
+        <seg>_</seg>
       </tuv>
     </tu>
     <tu>
