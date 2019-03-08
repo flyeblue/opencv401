@@ -646,6 +646,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a0&gt;CvType&lt; unsigned char &gt;&lt;/a0&gt; (&lt;a1&gt;cv::flann&lt;/a1&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T093938Z" creationid="flyeblue" creationdate="20190308T093938Z">
+        <seg>&lt;a0&gt;CvType&lt; unsigned char &gt;&lt;/a0&gt; (&lt;a1&gt;cv::flann&lt;/a1&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a0&gt;CvType&lt; unsigned short &gt;&lt;/a0&gt; (&lt;a1&gt;cv::flann&lt;/a1&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T094201Z" creationid="flyeblue" creationdate="20190308T094201Z">
+        <seg>&lt;a0&gt;CvType&lt; unsigned short &gt;&lt;/a0&gt; (&lt;a1&gt;cv::flann&lt;/a1&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a0&gt;CvVideoCamera&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T095702Z" creationid="flyeblue" creationdate="20190308T095702Z">
+        <seg>&lt;a0&gt;CvVideoCamera&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a0&gt;Data&lt;/a0&gt; container for the facemark::getData function</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T093031Z" creationid="flyeblue" creationdate="20190307T093031Z">
@@ -662,6 +686,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a0&gt;HSV_to_BGRA_FULL_func&lt;/a0&gt; (&lt;a1&gt;cv::cudev&lt;/a1&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T095830Z" creationid="flyeblue" creationdate="20190308T095830Z">
+        <seg>&lt;a0&gt;HSV_to_BGRA_FULL_func&lt;/a0&gt; (&lt;a1&gt;cv::cudev&lt;/a1&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a0&gt;HSV_to_BGR_FULL_func&lt; float &gt;&lt;/a0&gt; (&lt;a1&gt;cv::cudev&lt;/a1&gt;)</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190308T093826Z" creationid="flyeblue" creationdate="20190308T093826Z">
@@ -674,6 +706,22 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190308T093628Z" creationid="flyeblue" creationdate="20190308T093628Z">
         <seg>&lt;a0&gt;HSV_to_BGR_FULL_func&lt;/a0&gt; (&lt;a1&gt;cv::cudev&lt;/a1&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a0&gt;HSV_to_BGR_func&lt; float &gt;&lt;/a0&gt; (&lt;a1&gt;cv::cudev&lt;/a1&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T094224Z" creationid="flyeblue" creationdate="20190308T094224Z">
+        <seg>&lt;a0&gt;HSV_to_BGR_func&lt; float &gt;&lt;/a0&gt; (&lt;a1&gt;cv::cudev&lt;/a1&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a0&gt;HSV_to_BGR_func&lt;/a0&gt; (&lt;a1&gt;cv::cudev&lt;/a1&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T094049Z" creationid="flyeblue" creationdate="20190308T094049Z">
+        <seg>&lt;a0&gt;HSV_to_BGR_func&lt;/a0&gt; (&lt;a1&gt;cv::cudev&lt;/a1&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -714,6 +762,30 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190308T093828Z" creationid="flyeblue" creationdate="20190308T093828Z">
         <seg>&lt;a0&gt;NCVVectorAlloc&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a0&gt;NCVVectorReuse&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T094050Z" creationid="flyeblue" creationdate="20190308T094050Z">
+        <seg>&lt;a0&gt;NCVVectorReuse&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a0&gt;NearestInterPtr&lt;/a0&gt; (&lt;a1&gt;cv::cudev&lt;/a1&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T094923Z" creationid="flyeblue" creationdate="20190308T094923Z">
+        <seg>&lt;a0&gt;NearestInterPtr&lt;/a0&gt; (&lt;a1&gt;cv::cudev&lt;/a1&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a0&gt;NearestInterPtrSz&lt;/a0&gt; (&lt;a1&gt;cv::cudev&lt;/a1&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T100255Z" creationid="flyeblue" creationdate="20190308T100255Z">
+        <seg>&lt;a0&gt;NearestInterPtrSz&lt;/a0&gt; (&lt;a1&gt;cv::cudev&lt;/a1&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -894,6 +966,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a0&gt;_InputOutputArray&lt;/a0&gt; (&lt;a1&gt;cv&lt;/a1&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T094137Z" creationid="flyeblue" creationdate="20190308T094137Z">
+        <seg>&lt;a0&gt;_InputOutputArray&lt;/a0&gt; (&lt;a1&gt;cv&lt;/a1&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a0&gt;_LayerStaticRegisterer&lt;/a0&gt; (&lt;a1&gt;cv::dnn::details&lt;/a1&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T095545Z" creationid="flyeblue" creationdate="20190308T095545Z">
+        <seg>&lt;a0&gt;_LayerStaticRegisterer&lt;/a0&gt; (&lt;a1&gt;cv::dnn::details&lt;/a1&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a0&gt;cv.split()&lt;/a0&gt; is a costly operation (in terms of time).</seg>
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190305T170534Z" creationid="Administrator" creationdate="20190305T170534Z">
@@ -914,6 +1002,22 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190308T093851Z" creationid="flyeblue" creationdate="20190308T093851Z">
         <seg>&lt;a0&gt;simpleDistance&lt; L2&lt; ElementType &gt;, ElementType &gt;&lt;/a0&gt; (&lt;a1&gt;cvflann&lt;/a1&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a0&gt;simpleDistance&lt; L2_Simple&lt; ElementType &gt;, ElementType &gt;&lt;/a0&gt; (&lt;a1&gt;cvflann&lt;/a1&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T094114Z" creationid="flyeblue" creationdate="20190308T094114Z">
+        <seg>&lt;a0&gt;simpleDistance&lt; L2_Simple&lt; ElementType &gt;, ElementType &gt;&lt;/a0&gt; (&lt;a1&gt;cvflann&lt;/a1&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a0&gt;simpleDistance&lt; MinkowskiDistance&lt; ElementType &gt;, ElementType &gt;&lt;/a0&gt; (&lt;a1&gt;cvflann&lt;/a1&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T095207Z" creationid="flyeblue" creationdate="20190308T095207Z">
+        <seg>&lt;a0&gt;simpleDistance&lt; MinkowskiDistance&lt; ElementType &gt;, ElementType &gt;&lt;/a0&gt; (&lt;a1&gt;cvflann&lt;/a1&gt;)</seg>
       </tuv>
     </tu>
     <tu>
