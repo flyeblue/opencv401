@@ -670,6 +670,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>../../d0/d03/classcv_1_1detail_1_1GraphCutSeamFinderBase.html#a42953bdb4c8a234670d37c5b5f4386cb</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T120652Z" creationid="flyeblue" creationdate="20190308T120652Z">
+        <seg>../../d0/d03/classcv_1_1detail_1_1GraphCutSeamFinderBase.html#a42953bdb4c8a234670d37c5b5f4386cb</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>../../d0/d03/classcv_1_1detail_1_1GraphCutSeamFinderBase.html#a42953bdb4c8a234670d37c5b5f4386cba4e0af02eed7c3f02976244dc832e0e81</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T120657Z" creationid="flyeblue" creationdate="20190308T120657Z">
+        <seg>../../d0/d03/classcv_1_1detail_1_1GraphCutSeamFinderBase.html#a42953bdb4c8a234670d37c5b5f4386cba4e0af02eed7c3f02976244dc832e0e81</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>../../d0/d03/classcv_1_1detail_1_1GraphCutSeamFinderBase.html#a42953bdb4c8a234670d37c5b5f4386cbafe0d275582723d93a0c576584ea90091</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T120653Z" creationid="flyeblue" creationdate="20190308T120653Z">
+        <seg>../../d0/d03/classcv_1_1detail_1_1GraphCutSeamFinderBase.html#a42953bdb4c8a234670d37c5b5f4386cbafe0d275582723d93a0c576584ea90091</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>../../d0/d03/classcv_1_1detail_1_1GraphCutSeamFinderBase.html#details</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190308T120224Z" creationid="flyeblue" creationdate="20190308T120224Z">
@@ -39032,8 +39056,8 @@
       <tuv lang="EN-US">
         <seg>Minimum graph cut-based seam estimator.</seg>
       </tuv>
-      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T073754Z" creationid="flyeblue" creationdate="20190307T073754Z">
-        <seg>Minimum graph cut-based seam estimator.</seg>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T120740Z" creationid="flyeblue" creationdate="20190307T073754Z">
+        <seg>基于最小图切割的接缝估算器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40126,6 +40150,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Public Types</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T120649Z" creationid="flyeblue" creationdate="20190308T120649Z">
+        <seg>Public Types</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Python is a general purpose programming language started by &lt;b0&gt;Guido van Rossum&lt;/b0&gt; that became very popular very quickly, mainly because of its simplicity and code readability.</seg>
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190304T150630Z" creationid="Administrator" creationdate="20190304T150630Z">
@@ -40426,6 +40458,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190308T085522Z" creationid="flyeblue" creationdate="20190308T085522Z">
         <seg>见cv :: fontQt。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See details in  .</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T120644Z" creationid="flyeblue" creationdate="20190308T120644Z">
+        <seg>See details in  .</seg>
       </tuv>
     </tu>
     <tu>
@@ -44090,6 +44130,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190308T114759Z" creationid="flyeblue" creationdate="20190308T114150Z">
         <seg>cv :: TrackerMOSSE类参考</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>cv::detail::GraphCutSeamFinder</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T120646Z" creationid="flyeblue" creationdate="20190308T120646Z">
+        <seg>cv::detail::GraphCutSeamFinder</seg>
       </tuv>
     </tu>
     <tu>
@@ -60674,6 +60722,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190308T103953Z" creationid="flyeblue" creationdate="20190308T103953Z">
         <seg>e</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>enum</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T120650Z" creationid="flyeblue" creationdate="20190308T120650Z">
+        <seg>enum</seg>
       </tuv>
     </tu>
     <tu>
