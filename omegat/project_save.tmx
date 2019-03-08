@@ -10294,6 +10294,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;optional_lock_guard&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T072213Z" creationid="flyeblue" creationdate="20190308T072213Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;optional_lock_guard&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;optional_shared_lock_guard&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T072356Z" creationid="flyeblue" creationdate="20190308T072356Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;optional_shared_lock_guard&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;plus&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T070559Z" creationid="flyeblue" creationdate="20190307T070559Z">
@@ -11726,6 +11742,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A simple scoped lock (RAII-style locking for exclusive/write access)</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T072210Z" creationid="flyeblue" creationdate="20190308T072210Z">
+        <seg>一个简单的作用域锁（用于独占/写访问的RAII样式锁）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>AVF/IOS</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T052639Z" creationid="flyeblue" creationdate="20190307T052639Z">
@@ -11962,6 +11986,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T121830Z" creationid="flyeblue" creationdate="20190307T121830Z">
         <seg>边是由水平或垂直连接的两个像素定义的实体。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An optional simple scoped lock (RAII-style locking for exclusive/write access)</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T072353Z" creationid="flyeblue" creationdate="20190308T072353Z">
+        <seg>可选的简单范围锁（用于独占/写访问的RAII样式锁定）</seg>
       </tuv>
     </tu>
     <tu>
@@ -22390,6 +22422,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d2/ddd/classcv_1_1utils_1_1optional__shared__lock__guard.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T072354Z" creationid="flyeblue" creationdate="20190308T072354Z">
+        <seg>d2/ddd/classcv_1_1utils_1_1optional__shared__lock__guard.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d2/dde/classcv_1_1line__descriptor_1_1BinaryDescriptorMatcher.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T105743Z" creationid="flyeblue" creationdate="20190307T105743Z">
@@ -23082,6 +23122,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T064835Z" creationid="flyeblue" creationdate="20190307T064835Z">
         <seg>d3/de3/structcv_1_1cudev_1_1acos__func_3_01uchar_01_4.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d3/de8/classcv_1_1utils_1_1optional__lock__guard.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T072212Z" creationid="flyeblue" creationdate="20190308T072212Z">
+        <seg>d3/de8/classcv_1_1utils_1_1optional__lock__guard.html</seg>
       </tuv>
     </tu>
     <tu>
