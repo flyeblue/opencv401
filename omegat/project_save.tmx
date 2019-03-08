@@ -846,6 +846,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;AugmentedUnscentedKalmanFilterParams&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T045941Z" creationid="flyeblue" creationdate="20190308T045941Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;AugmentedUnscentedKalmanFilterParams&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;AutotunedIndexParams&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T094054Z" creationid="flyeblue" creationdate="20190307T094054Z">
@@ -11990,6 +11998,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Augmented Unscented Kalman filter parameters.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T050126Z" creationid="flyeblue" creationdate="20190308T050126Z">
+        <seg>增广Unscented卡尔曼滤波器参数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Authors came up with following modification.</seg>
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190304T173026Z" creationid="Administrator" creationdate="20190304T173026Z">
@@ -16120,8 +16136,8 @@
       <tuv lang="EN-US">
         <seg>Model can be downloaded from &lt;a3&gt;DropBox&lt;/a3&gt;.</seg>
       </tuv>
-      <tuv lang="ZH" changeid="flyeblue" changedate="20190307T152436Z" creationid="flyeblue" creationdate="20190307T152436Z">
-        <seg>Model can be downloaded from &lt;a3&gt;DropBox&lt;/a3&gt;.</seg>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T045938Z" creationid="flyeblue" creationdate="20190307T152436Z">
+        <seg>Model可以从&lt;a3&gt;DropBox&lt;/a3&gt;下载.</seg>
       </tuv>
     </tu>
     <tu>
