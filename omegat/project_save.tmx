@@ -4214,6 +4214,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;KeyboardEvent&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T075012Z" creationid="flyeblue" creationdate="20190308T075012Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;KeyboardEvent&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;KeypointBasedMotionEstimator&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190308T073043Z" creationid="flyeblue" creationdate="20190308T073043Z">
@@ -19430,6 +19438,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This class represents color in BGR order</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T075009Z" creationid="flyeblue" creationdate="20190308T075009Z">
+        <seg>此类以BGR顺序表示颜色</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This class uses OpenCV dnn module to load pre-trained model described in &lt;a1&gt;[119]&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T152539Z" creationid="flyeblue" creationdate="20190307T152334Z">
@@ -23114,6 +23130,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072244Z" creationid="flyeblue" creationdate="20190307T072244Z">
         <seg>d3/d02/structcv_1_1datasets_1_1tag.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d3/d06/classcv_1_1viz_1_1KeyboardEvent.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T075010Z" creationid="flyeblue" creationdate="20190308T075010Z">
+        <seg>d3/d06/classcv_1_1viz_1_1KeyboardEvent.html</seg>
       </tuv>
     </tu>
     <tu>
