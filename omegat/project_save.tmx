@@ -1038,6 +1038,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;BFMatcher&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T081943Z" creationid="flyeblue" creationdate="20190308T081943Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;BFMatcher&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;BGRA_to_BGR_func&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T065522Z" creationid="flyeblue" creationdate="20190307T065522Z">
@@ -1534,6 +1542,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;BOWImgDescriptorExtractor&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T081949Z" creationid="flyeblue" creationdate="20190308T081949Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;BOWImgDescriptorExtractor&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;BOWKMeansTrainer&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T082013Z" creationid="flyeblue" creationdate="20190308T082013Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;BOWKMeansTrainer&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;BOWTrainer&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T082023Z" creationid="flyeblue" creationdate="20190308T082023Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;BOWTrainer&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;BackendNode&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T080145Z" creationid="flyeblue" creationdate="20190307T080145Z">
@@ -1590,6 +1622,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;BackgroundSubtractorKNN&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T081927Z" creationid="flyeblue" creationdate="20190308T081927Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;BackgroundSubtractorKNN&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;BackgroundSubtractorLSBP&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T054716Z" creationid="flyeblue" creationdate="20190307T054716Z">
@@ -1618,6 +1658,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T055354Z" creationid="flyeblue" creationdate="20190307T055354Z">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;BackgroundSubtractorMOG&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;BaseClassifier&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T081940Z" creationid="flyeblue" creationdate="20190308T081940Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;BaseClassifier&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5594,6 +5642,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T105347Z" creationid="flyeblue" creationdate="20190307T105347Z">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;MarrHildrethHash&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;MaskGenerator&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T081936Z" creationid="flyeblue" creationdate="20190308T081936Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;MaskGenerator&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12094,6 +12150,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;C&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;BaseCascadeClassifier&lt;/a3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T081933Z" creationid="flyeblue" creationdate="20190308T081933Z">
+        <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;C&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;BaseCascadeClassifier&lt;/a3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;C&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;BinaryDescriptor&lt;/a3&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T105703Z" creationid="flyeblue" creationdate="20190307T105703Z">
@@ -13134,6 +13198,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Abstract base class for training the &lt;e0&gt;bag of visual words&lt;/e0&gt; vocabulary from a set of descriptors</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T082029Z" creationid="flyeblue" creationdate="20190308T082029Z">
+        <seg>从一组描述符训练&lt;e0&gt;视觉词&lt;/ e0&gt;词汇包的抽象基类</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Access image properties</seg>
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190305T154243Z" creationid="Administrator" creationdate="20190305T154243Z">
@@ -13758,6 +13830,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Base class for background/foreground segmentation.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T081924Z" creationid="flyeblue" creationdate="20190308T081924Z">
+        <seg>背景/前景分割的基类.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Base class for circles detector algorithm.</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T063108Z" creationid="flyeblue" creationdate="20190307T063108Z">
@@ -14146,6 +14226,14 @@
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190304T131053Z" creationid="Administrator" creationdate="20190304T131053Z">
         <seg>两个图像应该具有相同的深度和类型，或者第二个图像可以是标量值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Brute-force descriptor matcher</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T081946Z" creationid="flyeblue" creationdate="20190308T081946Z">
+        <seg>暴力描述符匹配器</seg>
       </tuv>
     </tu>
     <tu>
@@ -14970,6 +15058,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T064311Z" creationid="flyeblue" creationdate="20190307T064311Z">
         <seg>允许从&lt;a0&gt; cuda :: Stream &lt;/a0&gt;获取cudaStream_t的类</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Class to compute an image descriptor using the &lt;e0&gt;bag of visual words&lt;/e0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T081951Z" creationid="flyeblue" creationdate="20190308T081951Z">
+        <seg>Class to compute an image descriptor using the &lt;e0&gt;bag of visual words&lt;/e0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17726,10 +17822,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>K-nearest neighbours - based Background/Foreground Segmentation &lt;a0&gt;Algorithm&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T081928Z" creationid="flyeblue" creationdate="20190308T081928Z">
+        <seg>K-nearest neighbours - based Background/Foreground Segmentation &lt;a0&gt;Algorithm&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>KinectFusion implementation</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T105656Z" creationid="flyeblue" creationdate="20190307T105553Z">
         <seg>KinectFusion实现</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Kmeans -based class to train visual vocabulary using the &lt;e0&gt;bag of visual words&lt;/e0&gt; approach.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T082017Z" creationid="flyeblue" creationdate="20190308T082017Z">
+        <seg>基于Kmeans的课程，使用&lt;e0&gt;视觉词汇&lt;/ e0&gt;方法训练视觉词汇。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24726,6 +24838,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d2/d6b/classcv_1_1BOWImgDescriptorExtractor.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T081948Z" creationid="flyeblue" creationdate="20190308T081948Z">
+        <seg>d2/d6b/classcv_1_1BOWImgDescriptorExtractor.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d2/d6c/classcv_1_1videostab_1_1StabilizerBase.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190308T074123Z" creationid="flyeblue" creationdate="20190308T074123Z">
@@ -25670,6 +25790,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d3/da1/classcv_1_1BFMatcher.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T081941Z" creationid="flyeblue" creationdate="20190308T081941Z">
+        <seg>d3/da1/classcv_1_1BFMatcher.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d3/da3/structcv_1_1cudev_1_1multiplies.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T070456Z" creationid="flyeblue" creationdate="20190307T070456Z">
@@ -26318,6 +26446,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d4/d72/classcv_1_1BOWKMeansTrainer.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T081953Z" creationid="flyeblue" creationdate="20190308T081953Z">
+        <seg>d4/d72/classcv_1_1BOWKMeansTrainer.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d4/d72/structcv_1_1cudev_1_1MakeVec_3_01ushort_00_013_01_4.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T070440Z" creationid="flyeblue" creationdate="20190307T070440Z">
@@ -26818,6 +26954,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T070630Z" creationid="flyeblue" creationdate="20190307T070630Z">
         <seg>d5/d13/structcv_1_1cudev_1_1RGB__to__HLS__FULL__func.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d5/d14/classcv_1_1BOWTrainer.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T082022Z" creationid="flyeblue" creationdate="20190308T082022Z">
+        <seg>d5/d14/classcv_1_1BOWTrainer.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -28270,10 +28414,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d6/dfb/classcv_1_1BaseCascadeClassifier_1_1MaskGenerator.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T081935Z" creationid="flyeblue" creationdate="20190308T081935Z">
+        <seg>d6/dfb/classcv_1_1BaseCascadeClassifier_1_1MaskGenerator.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d6/dfb/structcv_1_1cudev_1_1cos__func.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T065602Z" creationid="flyeblue" creationdate="20190307T065602Z">
         <seg>d6/dfb/structcv_1_1cudev_1_1cos__func.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d7/d03/classcv_1_1BaseClassifier.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T081938Z" creationid="flyeblue" creationdate="20190308T081938Z">
+        <seg>d7/d03/classcv_1_1BaseClassifier.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -28642,6 +28802,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T065518Z" creationid="flyeblue" creationdate="20190307T065518Z">
         <seg>d7/d78/structcv_1_1cudev_1_1BGR__to__XYZ4__func.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d7/d7b/classcv_1_1BackgroundSubtractorMOG2.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T081930Z" creationid="flyeblue" creationdate="20190308T081930Z">
+        <seg>d7/d7b/classcv_1_1BackgroundSubtractorMOG2.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -31166,6 +31334,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>da/dd5/classcv_1_1BaseCascadeClassifier.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T081932Z" creationid="flyeblue" creationdate="20190308T081932Z">
+        <seg>da/dd5/classcv_1_1BaseCascadeClassifier.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>da/dd9/structcv_1_1cudev_1_1LaplacianPtrSz.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T070305Z" creationid="flyeblue" creationdate="20190307T070305Z">
@@ -31754,6 +31930,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T070447Z" creationid="flyeblue" creationdate="20190307T070447Z">
         <seg>db/d87/structcv_1_1cudev_1_1maximum_3_01short_01_4.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>db/d88/classcv_1_1BackgroundSubtractorKNN.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T081925Z" creationid="flyeblue" creationdate="20190308T081925Z">
+        <seg>db/d88/classcv_1_1BackgroundSubtractorKNN.html</seg>
       </tuv>
     </tu>
     <tu>
