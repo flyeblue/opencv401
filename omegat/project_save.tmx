@@ -342,6 +342,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>3D visualizer window.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T075244Z" creationid="flyeblue" creationdate="20190308T075244Z">
+        <seg>3D可视化窗口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>:</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060535Z" creationid="flyeblue" creationdate="20190307T060535Z">
@@ -5318,6 +5326,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;Mesh&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T075227Z" creationid="flyeblue" creationdate="20190308T075227Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;Mesh&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;MetaHelper&lt; K, std::tuple&lt; Ins... &gt;, Out &gt;&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T073922Z" creationid="flyeblue" creationdate="20190307T073922Z">
@@ -5466,6 +5482,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190308T074046Z" creationid="flyeblue" creationdate="20190308T074046Z">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;MotionStabilizationPipeline&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;MouseEvent&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T075233Z" creationid="flyeblue" creationdate="20190308T075233Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;MouseEvent&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8478,10 +8502,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;Viz3d&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T075240Z" creationid="flyeblue" creationdate="20190308T075240Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;Viz3d&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;VoronoiSeamFinder&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T080130Z" creationid="flyeblue" creationdate="20190307T080130Z">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;VoronoiSeamFinder&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;WArrow&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T075250Z" creationid="flyeblue" creationdate="20190308T075250Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;WArrow&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12922,6 +12962,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T075606Z" creationid="flyeblue" creationdate="20190307T075606Z">
         <seg>Base class for warping logic implementation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Base class of all widgets.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T075255Z" creationid="flyeblue" creationdate="20190308T075255Z">
+        <seg>所有小部件的基类。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19294,6 +19342,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This 3D &lt;a0&gt;Widget&lt;/a0&gt; defines an arrow</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T075341Z" creationid="flyeblue" creationdate="20190308T075303Z">
+        <seg>这个3D &lt;a0&gt;&lt;/a0&gt; Widget &lt;/ a0&gt;定义了一个箭头</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This algorithm transforms image to contrast using gradients on all levels of gaussian pyramid...</seg>
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190305T123001Z" creationid="Administrator" creationdate="20190305T123001Z">
@@ -19398,6 +19454,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This class is implicitly shared</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T075247Z" creationid="flyeblue" creationdate="20190308T075247Z">
+        <seg>这个类是隐式共享的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This class is repre...</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T150252Z" creationid="flyeblue" creationdate="20190307T150252Z">
@@ -19438,6 +19502,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This class represents a keyboard event</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T075223Z" creationid="flyeblue" creationdate="20190308T075223Z">
+        <seg>此类表示键盘事件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This class represents a mouse event</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T075237Z" creationid="flyeblue" creationdate="20190308T075237Z">
+        <seg>此类表示鼠标事件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This class represents color in BGR order</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190308T075009Z" creationid="flyeblue" creationdate="20190308T075009Z">
@@ -19458,6 +19538,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190308T074258Z" creationid="flyeblue" creationdate="20190308T074258Z">
         <seg>This class wraps intrinsic parameters of a camera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This class wraps mesh attributes, and it can load a mesh from a ply file.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T075230Z" creationid="flyeblue" creationdate="20190308T075230Z">
+        <seg>此类包装网格属性，它可以从层文件加载网格。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20386,6 +20474,14 @@
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190305T104059Z" creationid="Administrator" creationdate="20190305T104059Z">
         <seg>虽然人眼可以适应各种光线条件，但大多数成像设备每通道使用8位，因此我们仅限于256级。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Widget is implicitly shared.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T075259Z" creationid="flyeblue" creationdate="20190308T075259Z">
+        <seg>Widget是隐式共享的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25310,6 +25406,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d6/d32/classcv_1_1viz_1_1Viz3d.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T075238Z" creationid="flyeblue" creationdate="20190308T075238Z">
+        <seg>d6/d32/classcv_1_1viz_1_1Viz3d.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d6/d37/structcv_1_1cudev_1_1MakeVec_3_01short_00_013_01_4.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T070432Z" creationid="flyeblue" creationdate="20190307T070432Z">
@@ -25762,6 +25866,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T113320Z" creationid="flyeblue" creationdate="20190307T113320Z">
         <seg>d6/dca/classcv_1_1ml_1_1ParamGrid.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d6/dcc/classcv_1_1viz_1_1WCameraPosition.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T075341Z" creationid="flyeblue" creationdate="20190308T075341Z">
+        <seg>d6/dcc/classcv_1_1viz_1_1WCameraPosition.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -26474,6 +26586,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T070403Z" creationid="flyeblue" creationdate="20190307T070403Z">
         <seg>d7/dc8/structcv_1_1cudev_1_1LRGB__to__Luv4__func.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d7/dcd/classcv_1_1viz_1_1Widget.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T075252Z" creationid="flyeblue" creationdate="20190308T075252Z">
+        <seg>d7/dcd/classcv_1_1viz_1_1Widget.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -29582,6 +29702,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>dc/d3b/classcv_1_1viz_1_1MouseEvent.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T075232Z" creationid="flyeblue" creationdate="20190308T075232Z">
+        <seg>dc/d3b/classcv_1_1viz_1_1MouseEvent.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>dc/d3e/classcv_1_1detail_1_1DisjointSets.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T073326Z" creationid="flyeblue" creationdate="20190307T073326Z">
@@ -29642,6 +29770,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T070301Z" creationid="flyeblue" creationdate="20190307T070301Z">
         <seg>dc/d4d/structcv_1_1cudev_1_1Lab__to__LRGBA__func.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>dc/d4f/classcv_1_1viz_1_1Mesh.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T075225Z" creationid="flyeblue" creationdate="20190308T075225Z">
+        <seg>dc/d4f/classcv_1_1viz_1_1Mesh.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -30378,6 +30514,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072219Z" creationid="flyeblue" creationdate="20190307T072219Z">
         <seg>dd/d2b/structcv_1_1cudev_1_1ZipPtr_3_01tuple_3_01Ptr0_00_01Ptr1_00_01Ptr2_00_01Ptr3_01_4_01_4.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>dd/d2d/classcv_1_1viz_1_1WArrow.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T075249Z" creationid="flyeblue" creationdate="20190308T075249Z">
+        <seg>dd/d2d/classcv_1_1viz_1_1WArrow.html</seg>
       </tuv>
     </tu>
     <tu>
