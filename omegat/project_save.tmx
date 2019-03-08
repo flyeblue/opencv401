@@ -262,6 +262,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>#include "seam_finders.hpp"</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T120227Z" creationid="flyeblue" creationdate="20190308T120227Z">
+        <seg>#include "seam_finders.hpp"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>#include "tracker.hpp"</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190308T114156Z" creationid="flyeblue" creationdate="20190308T114156Z">
@@ -502,6 +510,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>#pub-types</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T120159Z" creationid="flyeblue" creationdate="20190308T120159Z">
+        <seg>#pub-types</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190308T115733Z" creationid="flyeblue" creationdate="20190308T115733Z">
@@ -642,6 +658,30 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190308T114200Z" creationid="flyeblue" creationdate="20190308T114200Z">
         <seg>../../d0/d02/classcv_1_1TrackerMOSSE.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>../../d0/d03/classcv_1_1detail_1_1GraphCutSeamFinderBase.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T120110Z" creationid="flyeblue" creationdate="20190308T120110Z">
+        <seg>../../d0/d03/classcv_1_1detail_1_1GraphCutSeamFinderBase.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>../../d0/d03/classcv_1_1detail_1_1GraphCutSeamFinderBase.html#details</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T120224Z" creationid="flyeblue" creationdate="20190308T120224Z">
+        <seg>../../d0/d03/classcv_1_1detail_1_1GraphCutSeamFinderBase.html#details</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>../../d0/d03/classcv_1_1detail_1_1GraphCutSeamFinderBase.png</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T120231Z" creationid="flyeblue" creationdate="20190308T120231Z">
+        <seg>../../d0/d03/classcv_1_1detail_1_1GraphCutSeamFinderBase.png</seg>
       </tuv>
     </tu>
     <tu>
@@ -806,10 +846,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>../../d1/d46/group__stitching.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T120219Z" creationid="flyeblue" creationdate="20190308T120219Z">
+        <seg>../../d1/d46/group__stitching.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>../../d2/d75/namespacecv.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190308T114137Z" creationid="flyeblue" creationdate="20190308T114137Z">
         <seg>../../d2/d75/namespacecv.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>../../d2/daf/namespacecv_1_1detail.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T120107Z" creationid="flyeblue" creationdate="20190308T120107Z">
+        <seg>../../d2/daf/namespacecv_1_1detail.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -1014,6 +1070,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>../../d8/ddf/classcv_1_1detail_1_1GraphCutSeamFinderBase-members.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T120215Z" creationid="flyeblue" creationdate="20190308T120215Z">
+        <seg>../../d8/ddf/classcv_1_1detail_1_1GraphCutSeamFinderBase-members.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>../../d9/d24/group__stitching__seam.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T120221Z" creationid="flyeblue" creationdate="20190308T120221Z">
+        <seg>../../d9/d24/group__stitching__seam.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>../../d9/d64/classcv_1_1TrackerMOSSE-members.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190308T114147Z" creationid="flyeblue" creationdate="20190308T114147Z">
@@ -1042,6 +1114,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190308T115040Z" creationid="flyeblue" creationdate="20190308T115040Z">
         <seg>../../da/d76/classcv_1_1TrackerSampler.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>../../db/dda/classcv_1_1detail_1_1GraphCutSeamFinder.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T120232Z" creationid="flyeblue" creationdate="20190308T120232Z">
+        <seg>../../db/dda/classcv_1_1detail_1_1GraphCutSeamFinder.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -1110,6 +1190,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>../../df/ddd/tracker_8hpp.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T120101Z" creationid="flyeblue" creationdate="20190308T120101Z">
+        <seg>../../df/ddd/tracker_8hpp.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>../../doxygen.css</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190308T114018Z" creationid="flyeblue" creationdate="20190308T114018Z">
@@ -1162,6 +1250,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190308T114017Z" creationid="flyeblue" creationdate="20190308T114017Z">
         <seg>../../tabs.css</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>/build/master-contrib_docs-lin64/opencv_contrib/modules/tracking/include/opencv2/tracking/&lt;a0&gt;tracker.hpp&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T120102Z" creationid="flyeblue" creationdate="20190308T120102Z">
+        <seg>/build/master-contrib_docs-lin64/opencv_contrib/modules/tracking/include/opencv2/tracking/&lt;a0&gt;tracker.hpp&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6478,6 +6574,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a0&gt;Images stitching&lt;/a0&gt; » &lt;a1&gt;Seam Estimation&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T120223Z" creationid="flyeblue" creationdate="20190308T120223Z">
+        <seg>&lt;a0&gt;Images stitching&lt;/a0&gt; » &lt;a1&gt;Seam Estimation&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a0&gt;ImgHashBase&lt;/a0&gt; (&lt;a1&gt;cv::img_hash&lt;/a1&gt;)</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190308T102638Z" creationid="flyeblue" creationdate="20190308T102638Z">
@@ -10090,6 +10194,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190308T114148Z" creationid="flyeblue" creationdate="20190308T114148Z">
         <seg>&lt;a0&gt;Public Member Functions&lt;/a0&gt; | &lt;a1&gt;Static Public Member Functions&lt;/a1&gt; | &lt;a2&gt;List of all members&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a0&gt;Public Types&lt;/a0&gt; | &lt;a1&gt;List of all members&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T120216Z" creationid="flyeblue" creationdate="20190308T120216Z">
+        <seg>&lt;a0&gt;Public Types&lt;/a0&gt; | &lt;a1&gt;List of all members&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17418,6 +17530,14 @@
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190224T161137Z" creationid="Administrator" creationdate="20190224T161137Z">
         <seg>&lt;e0&gt;边界框&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;a1&gt;§ &lt;/a1&gt;&lt;/s0&gt;create()</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T120049Z" creationid="flyeblue" creationdate="20190308T120049Z">
+        <seg>&lt;s0&gt;&lt;a1&gt;§ &lt;/a1&gt;&lt;/s0&gt;create()</seg>
       </tuv>
     </tu>
     <tu>
@@ -32846,6 +32966,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>=</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T120057Z" creationid="flyeblue" creationdate="20190308T120057Z">
+        <seg>=</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A 3x3 normalized box filter would look like below:</seg>
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190305T185949Z" creationid="Administrator" creationdate="20190305T185949Z">
@@ -33890,6 +34018,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T073804Z" creationid="flyeblue" creationdate="20190307T073804Z">
         <seg>Base class for all minimum graph-cut-based seam estimators</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Base class for all minimum graph-cut-based seam estimators.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T120226Z" creationid="flyeblue" creationdate="20190308T120226Z">
+        <seg>Base class for all minimum graph-cut-based seam estimators.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36718,6 +36854,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Generated on Sat Dec 22 2018 08:24:16 for OpenCV by  &lt;a0&gt; &lt;i1/&gt; &lt;/a0&gt; 1.8.12</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T120104Z" creationid="flyeblue" creationdate="20190308T120104Z">
+        <seg>Generated on Sat Dec 22 2018 08:24:16 for OpenCV by  &lt;a0&gt; &lt;i1/&gt; &lt;/a0&gt; 1.8.12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Generated on Sat Dec 22 2018 08:24:21 for OpenCV by  &lt;a0&gt; &lt;i1/&gt; &lt;/a0&gt; 1.8.12</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190308T091627Z" creationid="flyeblue" creationdate="20190308T091627Z">
@@ -36770,6 +36914,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080521Z" creationid="flyeblue" creationdate="20190308T080521Z">
         <seg>基于图的分割&lt;a0&gt;算法&lt;/a0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>GraphCutSeamFinderBase</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T120112Z" creationid="flyeblue" creationdate="20190308T120112Z">
+        <seg>GraphCutSeamFinderBase</seg>
       </tuv>
     </tu>
     <tu>
@@ -37762,6 +37914,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190308T114455Z" creationid="flyeblue" creationdate="20190308T114158Z">
         <seg>cv :: TrackerMOSSE的继承图：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inheritance diagram for cv::detail::GraphCutSeamFinderBase:</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T120229Z" creationid="flyeblue" creationdate="20190308T120229Z">
+        <seg>Inheritance diagram for cv::detail::GraphCutSeamFinderBase:</seg>
       </tuv>
     </tu>
     <tu>
@@ -39630,6 +39790,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>OpenCV: cv::detail::GraphCutSeamFinderBase Class Reference</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T120105Z" creationid="flyeblue" creationdate="20190308T120105Z">
+        <seg>OpenCV: cv::detail::GraphCutSeamFinderBase Class Reference</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Operation is like this: keep this kernel above a pixel, add all the 25 pixels below this kernel, take its average and replace the central pixel with the new average value.</seg>
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190305T182642Z" creationid="Administrator" creationdate="20190305T182642Z">
@@ -39962,6 +40130,14 @@
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190304T150630Z" creationid="Administrator" creationdate="20190304T150630Z">
         <seg>Python 是一种由&lt;b0&gt;Guido van Rossum&lt;/b0&gt; 开发的编程语言，它很快变得非常流行，主要是因为它简单和可读性好。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Python:</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T120054Z" creationid="flyeblue" creationdate="20190308T120054Z">
+        <seg>Python:</seg>
       </tuv>
     </tu>
     <tu>
@@ -41664,8 +41840,8 @@
       <tuv lang="EN-US">
         <seg>The implementation is based on &lt;a0&gt;[19]&lt;/a0&gt; Visual Object Tracking using Adaptive Correlation Filters</seg>
       </tuv>
-      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T115724Z" creationid="flyeblue" creationdate="20190308T115724Z">
-        <seg>The implementation is based on &lt;a0&gt;[19]&lt;/a0&gt; Visual Object Tracking using Adaptive Correlation Filters</seg>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T120031Z" creationid="flyeblue" creationdate="20190308T115724Z">
+        <seg>该实现基于使用自适应相关滤波器的&lt;a0&gt; [19] &lt;/a0&gt;视觉对象跟踪</seg>
       </tuv>
     </tu>
     <tu>
@@ -43878,6 +44054,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>cv.TrackerMOSSE_create(</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T120059Z" creationid="flyeblue" creationdate="20190308T120059Z">
+        <seg>cv.TrackerMOSSE_create(</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>cv::Algorithm</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190308T114204Z" creationid="flyeblue" creationdate="20190308T114204Z">
@@ -43906,6 +44090,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190308T114759Z" creationid="flyeblue" creationdate="20190308T114150Z">
         <seg>cv :: TrackerMOSSE类参考</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>cv::detail::GraphCutSeamFinderBase Class Reference</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T120218Z" creationid="flyeblue" creationdate="20190308T120218Z">
+        <seg>cv::detail::GraphCutSeamFinderBase Class Reference</seg>
       </tuv>
     </tu>
     <tu>
@@ -59390,6 +59582,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>detail</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T120109Z" creationid="flyeblue" creationdate="20190308T120109Z">
+        <seg>detail</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>df/d03/structcv_1_1cudev_1_1HSV4__to__RGBA__FULL__func_3_01float_01_4.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T070204Z" creationid="flyeblue" creationdate="20190307T070204Z">
@@ -60822,6 +61022,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>retval</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T120056Z" creationid="flyeblue" creationdate="20190308T120056Z">
+        <seg>retval</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>s</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190308T113336Z" creationid="flyeblue" creationdate="20190308T113336Z">
@@ -60870,6 +61078,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>static</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T120053Z" creationid="flyeblue" creationdate="20190308T120053Z">
+        <seg>static</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>static &lt;a0&gt;Ptr&lt;/a0&gt;&lt; &lt;a1&gt;TrackerMOSSE&lt;/a1&gt; &gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190308T114902Z" creationid="flyeblue" creationdate="20190308T114902Z">
@@ -60882,6 +61098,14 @@
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190224T153736Z" creationid="Administrator" creationdate="20190224T153736Z">
         <seg>静态的 &lt;a0&gt;Ptr&lt;/a0&gt;&lt; _Tp &gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>static &lt;a0&gt;Ptr&lt;/a0&gt;&lt;&lt;a1&gt;TrackerMOSSE&lt;/a1&gt;&gt; cv::TrackerMOSSE::create</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T120051Z" creationid="flyeblue" creationdate="20190308T120051Z">
+        <seg>static &lt;a0&gt;Ptr&lt;/a0&gt;&lt;&lt;a1&gt;TrackerMOSSE&lt;/a1&gt;&gt; cv::TrackerMOSSE::create</seg>
       </tuv>
     </tu>
     <tu>
@@ -60968,8 +61192,8 @@
       <tuv lang="EN-US">
         <seg>this tracker works with grayscale images, if passed bgr ones, they will get converted internally.</seg>
       </tuv>
-      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T115725Z" creationid="flyeblue" creationdate="20190308T115725Z">
-        <seg>this tracker works with grayscale images, if passed bgr ones, they will get converted internally.</seg>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T120017Z" creationid="flyeblue" creationdate="20190308T115725Z">
+        <seg>此跟踪器使用灰度图像，如果通过bgr，它们将在内部转换。</seg>
       </tuv>
     </tu>
     <tu>
