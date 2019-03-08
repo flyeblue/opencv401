@@ -542,6 +542,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a1&gt;ContourFitting&lt;/a1&gt; match two contours \( z_a \) and \( z_b \) minimizing distance</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080627Z" creationid="flyeblue" creationdate="20190308T080627Z">
+        <seg>&lt;a1&gt; ContourFitting &lt;/a1&gt;匹配两个轮廓\（z_a \）和\（z_b \）最小化距离</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b0&gt;&lt;a1&gt;cv.BORDER_CONSTANT&lt;/a1&gt;&lt;/b0&gt; - Adds a constant colored border.</seg>
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190305T173755Z" creationid="Administrator" creationdate="20190305T173755Z">
@@ -2342,6 +2350,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;DTFilter&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080651Z" creationid="flyeblue" creationdate="20190308T080651Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;DTFilter&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;Data&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T093029Z" creationid="flyeblue" creationdate="20190307T093029Z">
@@ -2598,6 +2614,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;DisparityFilter&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080637Z" creationid="flyeblue" creationdate="20190308T080637Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;DisparityFilter&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;DisparityWLSFilter&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080644Z" creationid="flyeblue" creationdate="20190308T080644Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;DisparityWLSFilter&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;DpSeamFinder&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T073329Z" creationid="flyeblue" creationdate="20190307T073329Z">
@@ -2658,6 +2690,22 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T134817Z" creationid="flyeblue" creationdate="20190307T134817Z">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;ERStat&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;EdgeAwareInterpolator&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080700Z" creationid="flyeblue" creationdate="20190308T080700Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;EdgeAwareInterpolator&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;EdgeBoxes&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080708Z" creationid="flyeblue" creationdate="20190308T080708Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;EdgeBoxes&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2830,6 +2878,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;FastBilateralSolverFilter&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080740Z" creationid="flyeblue" creationdate="20190308T080740Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;FastBilateralSolverFilter&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;FastFeatureDetector&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T061913Z" creationid="flyeblue" creationdate="20190307T061913Z">
@@ -2838,10 +2894,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;FastGlobalSmootherFilter&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080747Z" creationid="flyeblue" creationdate="20190308T080747Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;FastGlobalSmootherFilter&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;FastICPOdometry&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T124318Z" creationid="flyeblue" creationdate="20190307T124318Z">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;FastICPOdometry&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;FastLineDetector&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080753Z" creationid="flyeblue" creationdate="20190308T080753Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;FastLineDetector&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3350,10 +3422,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;GrayworldWB&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080917Z" creationid="flyeblue" creationdate="20190308T080917Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;GrayworldWB&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;GridBoard&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T053427Z" creationid="flyeblue" creationdate="20190307T053427Z">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;GridBoard&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;GuidedFilter&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080800Z" creationid="flyeblue" creationdate="20190308T080800Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;GuidedFilter&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4706,6 +4794,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T080923Z" creationid="flyeblue" creationdate="20190307T080923Z">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;LayerParams&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;LearningBasedWB&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080924Z" creationid="flyeblue" creationdate="20190308T080924Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;LearningBasedWB&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6670,6 +6766,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;RFFeatureGetter&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080807Z" creationid="flyeblue" creationdate="20190308T080807Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;RFFeatureGetter&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;RGBA_to_GRAY_func&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072004Z" creationid="flyeblue" creationdate="20190307T072004Z">
@@ -7334,6 +7438,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;RidgeDetectionFilter&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080810Z" creationid="flyeblue" creationdate="20190308T080810Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;RidgeDetectionFilter&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;RotationWarper&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T075636Z" creationid="flyeblue" creationdate="20190307T075636Z">
@@ -7646,6 +7758,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;SimpleWB&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080930Z" creationid="flyeblue" creationdate="20190308T080930Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;SimpleWB&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;SimulatedAnnealingSolverSystem&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T113419Z" creationid="flyeblue" creationdate="20190307T113419Z">
@@ -7722,6 +7842,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T092812Z" creationid="flyeblue" creationdate="20190307T092812Z">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;SoftmaxLayer&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;SparseMatchInterpolator&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080830Z" creationid="flyeblue" creationdate="20190308T080830Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;SparseMatchInterpolator&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7942,6 +8070,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;StructuredEdgeDetection&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080837Z" creationid="flyeblue" creationdate="20190308T080837Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;StructuredEdgeDetection&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;StructuredLightPattern&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T134250Z" creationid="flyeblue" creationdate="20190307T134250Z">
@@ -7962,6 +8098,30 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T134425Z" creationid="flyeblue" creationdate="20190307T134425Z">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;SuperResolution&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;SuperpixelLSC&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080845Z" creationid="flyeblue" creationdate="20190308T080845Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;SuperpixelLSC&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;SuperpixelSEEDS&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080851Z" creationid="flyeblue" creationdate="20190308T080851Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;SuperpixelSEEDS&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;SuperpixelSLIC&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080857Z" creationid="flyeblue" creationdate="20190308T080857Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;SuperpixelSLIC&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8202,6 +8362,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190308T074127Z" creationid="flyeblue" creationdate="20190308T074127Z">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;ToFileMotionWriter&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;TonemapDurand&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080941Z" creationid="flyeblue" creationdate="20190308T080941Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;TonemapDurand&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8750,6 +8918,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;WBDetector&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080907Z" creationid="flyeblue" creationdate="20190308T080907Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;WBDetector&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;WCameraPosition&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190308T075515Z" creationid="flyeblue" creationdate="20190308T075515Z">
@@ -8954,6 +9130,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190308T074140Z" creationid="flyeblue" creationdate="20190308T074140Z">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;WeightingDeblurer&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;WhiteBalancer&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080947Z" creationid="flyeblue" creationdate="20190308T080947Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;WhiteBalancer&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9250,6 +9434,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072220Z" creationid="flyeblue" creationdate="20190307T072220Z">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;ZipPtrSz&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;_InputArray&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080954Z" creationid="flyeblue" creationdate="20190308T080954Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;_InputArray&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12494,6 +12686,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;N&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;xobjdetect&lt;/a3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080904Z" creationid="flyeblue" creationdate="20190308T080904Z">
+        <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;N&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;xobjdetect&lt;/a3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;N&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;xphoto&lt;/a3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080914Z" creationid="flyeblue" creationdate="20190308T080914Z">
+        <seg>&lt;s0&gt;►&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;N&lt;/s2&gt;&lt;/s1&gt;&lt;a3&gt;xphoto&lt;/a3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t0&gt;Backends&lt;/t0&gt;&lt;t1&gt;Libraries&lt;/t1&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T052645Z" creationid="flyeblue" creationdate="20190307T052645Z">
@@ -12678,6 +12886,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A simple white balance algorithm that works by independently stretching each of the input image channels to the specified range.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080934Z" creationid="flyeblue" creationdate="20190308T080934Z">
+        <seg>一种简单的白平衡算法，通过将每个输入图像通道独立拉伸到指定范围来工作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>AVF/IOS</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T052639Z" creationid="flyeblue" creationdate="20190307T052639Z">
@@ -12814,6 +13030,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Adapted from &lt;a1&gt;[52]&lt;/a1&gt; and &lt;a2&gt;[135]&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080827Z" creationid="flyeblue" creationdate="20190308T080827Z">
+        <seg>Adapted from &lt;a1&gt;[52]&lt;/a1&gt; and &lt;a2&gt;[135]&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Additional Resources</seg>
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190304T142047Z" creationid="Administrator" creationdate="20190304T142047Z">
@@ -12826,6 +13050,14 @@
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190305T104732Z" creationid="Administrator" creationdate="20190305T104732Z">
         <seg>当场景或相机的物体在镜头之间移动时会出现额外的复杂性，因为应该注册和对齐具有不同曝光的图像.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Additional refinement can be done using Skeletonization and Binarization.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080825Z" creationid="flyeblue" creationdate="20190308T080825Z">
+        <seg>可以使用Skeletonization和Binarization进行额外的细化。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12994,6 +13226,14 @@
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190305T085152Z" creationid="Administrator" creationdate="20190305T085152Z">
         <seg>掩码的使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Applies Ridge Detection Filter to an input image.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080818Z" creationid="flyeblue" creationdate="20190308T080818Z">
+        <seg>将脊检测滤波器应用于输入图像。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14190,6 +14430,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Class for &lt;a0&gt;ContourFitting&lt;/a0&gt; algorithms.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080623Z" creationid="flyeblue" creationdate="20190308T080623Z">
+        <seg>&lt;a0&gt; ContourFitting &lt;/a0&gt;算法的类。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Class for ContourFitting algorithms.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080616Z" creationid="flyeblue" creationdate="20190308T080616Z">
+        <seg>ContourFitting算法的类。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Class for computing BRIEF descriptors described in &lt;a0&gt;[32]&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080249Z" creationid="flyeblue" creationdate="20190308T080249Z">
@@ -14270,6 +14526,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Class implementing &lt;a0&gt;EdgeBoxes&lt;/a0&gt; algorithm from &lt;a1&gt;[237]&lt;/a1&gt; :</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080737Z" creationid="flyeblue" creationdate="20190308T080737Z">
+        <seg>Class implementing &lt;a0&gt;EdgeBoxes&lt;/a0&gt; algorithm from &lt;a1&gt;[237]&lt;/a1&gt; :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Class implementing &lt;a0&gt;VGG&lt;/a0&gt; (Oxford Visual Geometry Group) descriptor trained end to end using "Descriptor Learning Using Convex Optimisation" (DLCO) aparatus described in &lt;a1&gt;[178]&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080507Z" creationid="flyeblue" creationdate="20190308T080507Z">
@@ -14290,6 +14554,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080256Z" creationid="flyeblue" creationdate="20190308T080256Z">
         <seg>实现DAISY描述符的类，描述于。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Class implementing EdgeBoxes algorithm from  :</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080712Z" creationid="flyeblue" creationdate="20190308T080712Z">
+        <seg>实现EdgeBoxes算法的类来自：</seg>
       </tuv>
     </tu>
     <tu>
@@ -14342,6 +14614,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Class implementing edge detection algorithm from &lt;a0&gt;[46]&lt;/a0&gt; :</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080842Z" creationid="flyeblue" creationdate="20190308T080842Z">
+        <seg>从&lt;a0&gt; [46] &lt;/a0&gt;实现边缘检测算法的类：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Class implementing the &lt;a0&gt;FREAK&lt;/a0&gt; (&lt;e1&gt;Fast Retina Keypoint&lt;/e1&gt;) keypoint descriptor, described in &lt;a2&gt;[4]&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080316Z" creationid="flyeblue" creationdate="20190308T080316Z">
@@ -14354,6 +14634,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T063911Z" creationid="flyeblue" creationdate="20190307T063911Z">
         <seg>实现&lt;a0&gt; ORB &lt;/a0&gt;（&lt;e1&gt; orientation BRIEF &lt;/e1&gt;）关键点检测器和描述符提取器的类</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Class implementing the FLD (Fast Line &lt;a0&gt;Detector&lt;/a0&gt;) algorithm described in &lt;a1&gt;[111]&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080757Z" creationid="flyeblue" creationdate="20190308T080757Z">
+        <seg>Class implementing the FLD (Fast Line &lt;a0&gt;Detector&lt;/a0&gt;) algorithm described in &lt;a1&gt;[111]&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14382,6 +14670,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Class implementing the LSC (Linear Spectral Clustering) superpixels algorithm described in &lt;a0&gt;[115]&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080848Z" creationid="flyeblue" creationdate="20190308T080848Z">
+        <seg>Class implementing the LSC (Linear Spectral Clustering) superpixels algorithm described in &lt;a0&gt;[115]&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Class implementing the MSD (&lt;e0&gt;Maximal Self-Dissimilarity&lt;/e0&gt;) keypoint detector, described in &lt;a1&gt;[195]&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080338Z" creationid="flyeblue" creationdate="20190308T080338Z">
@@ -14394,6 +14690,22 @@
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190304T174954Z" creationid="Administrator" creationdate="20190304T174954Z">
         <seg>实现ORB（面向简要）关键点检测器和描述符提取器的类。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Class implementing the SEEDS (Superpixels Extracted via Energy-Driven Sampling) superpixels algorithm described in &lt;a0&gt;[203]&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080854Z" creationid="flyeblue" creationdate="20190308T080854Z">
+        <seg>Class implementing the SEEDS (Superpixels Extracted via Energy-Driven Sampling) superpixels algorithm described in &lt;a0&gt;[203]&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Class implementing the SLIC (Simple Linear Iterative Clustering) superpixels algorithm described in &lt;a0&gt;[1]&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080901Z" creationid="flyeblue" creationdate="20190308T080901Z">
+        <seg>Class implementing the SLIC (Simple Linear Iterative Clustering) superpixels algorithm described in &lt;a0&gt;[1]&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14710,6 +15022,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ContourFitting match two contours  and  minimizing distance  whe...</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080620Z" creationid="flyeblue" creationdate="20190308T080620Z">
+        <seg>ContourFitting匹配两个轮廓并最小化距离......</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Contours : Getting Started</seg>
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190305T124718Z" creationid="Administrator" creationdate="20190305T124718Z">
@@ -14970,6 +15290,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T110546Z" creationid="flyeblue" creationdate="20190307T110546Z">
         <seg>由其位置和标签描述的判别特征l</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Disparity map filter based on Weighted Least Squares filter (in form of Fast Global Smoother that is a lot faster than traditional Weighted Least Squares filter implementations) and optional use of left-right-consistency-based confidence to refine the results in half-occlusions and uniform areas</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080648Z" creationid="flyeblue" creationdate="20190308T080648Z">
+        <seg>基于加权最小二乘滤波器的视差图滤波器（以快速全局平滑器的形式，比传统的加权最小二乘滤波器快得多） implementations) and optional use of left-right-consistency-based confidence to refine the results in half-occlusions and uniform areas</seg>
       </tuv>
     </tu>
     <tu>
@@ -15526,6 +15854,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For increased robustness it ignores the top and bottom \(p\%\) of pixel values</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080937Z" creationid="flyeblue" creationdate="20190308T080937Z">
+        <seg>为了提高稳健性，它会忽略像素值的顶部和底部\（p \％\）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For individual pixel access, the Numpy array methods, array.item() and array.itemset() are considered better, however they always return a scalar.</seg>
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190305T155554Z" creationid="Administrator" creationdate="20190305T155554Z">
@@ -15738,6 +16074,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080521Z" creationid="flyeblue" creationdate="20190308T080521Z">
         <seg>基于图的分割&lt;a0&gt;算法&lt;/a0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gray-world white balance algorithm</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080920Z" creationid="flyeblue" creationdate="20190308T080920Z">
+        <seg>灰色世界白平衡算法</seg>
       </tuv>
     </tu>
     <tu>
@@ -16358,6 +16702,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Implements Ridge detection similar to the one in &lt;a0&gt;Mathematica&lt;/a0&gt; using the eigen values from the Hessian Matrix of the input image using Sobel Derivatives.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080822Z" creationid="flyeblue" creationdate="20190308T080822Z">
+        <seg>使用Sobel Derivatives，使用来自输入图像的Hessian矩阵的特征值，实现类似于&lt;a0&gt; Mathematica &lt;/a0&gt;中的岭检测。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Implements camera parameters refinement algorithm which minimizes sum of the reprojection error squares</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072848Z" creationid="flyeblue" creationdate="20190307T072848Z">
@@ -16718,6 +17070,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Interface for implementations of Fast Bilateral Solver</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080744Z" creationid="flyeblue" creationdate="20190308T080744Z">
+        <seg>用于快速双边求解器的实现的接口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Interface for implementations of Fast Global Smoother filter</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080750Z" creationid="flyeblue" creationdate="20190308T080750Z">
+        <seg>用于实现Fast Global Smoother过滤器的接口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Interface for modalities that plug into the LINE template matching representation</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T110653Z" creationid="flyeblue" creationdate="20190307T110653Z">
@@ -16730,6 +17098,22 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T110350Z" creationid="flyeblue" creationdate="20190307T110350Z">
         <seg>插入LINE模板匹配表示的模态接口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Interface for realizations of Domain Transform filter</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080654Z" creationid="flyeblue" creationdate="20190308T080654Z">
+        <seg>用于实现域变换滤波器的接口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Interface for realizations of Guided Filter</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080803Z" creationid="flyeblue" creationdate="20190308T080803Z">
+        <seg>引导滤波器实现的接口</seg>
       </tuv>
     </tu>
     <tu>
@@ -17454,6 +17838,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Main interface for all disparity map filters</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080641Z" creationid="flyeblue" creationdate="20190308T080641Z">
+        <seg>所有视差图过滤器的主界面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Main interface for all filters, that take sparse matches as an input and produce a dense per-pixel matching (optical flow) as an output</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080833Z" creationid="flyeblue" creationdate="20190308T080833Z">
+        <seg>所有滤波器的主界面，将稀疏匹配作为输入，并产生密集的每像素匹配（光流）作为输出</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Making Borders for Images (Padding)</seg>
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190305T171016Z" creationid="Administrator" creationdate="20190305T171016Z">
@@ -17602,6 +18002,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190306T094816Z" creationid="flyeblue" creationdate="20190306T094816Z">
         <seg>更多 功能 可以查看&lt;a0&gt;Matlab regionprops 文档&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>More sophisticated learning-based automatic white balance algorithm</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080927Z" creationid="flyeblue" creationdate="20190308T080927Z">
+        <seg>更复杂的基于学习的自动白平衡算法</seg>
       </tuv>
     </tu>
     <tu>
@@ -19238,6 +19646,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sparse match interpolation algorithm based on modified locally-weighted affine estimator from &lt;a0&gt;[165]&lt;/a0&gt; and Fast Global Smoother as post-processing filter</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080705Z" creationid="flyeblue" creationdate="20190308T080705Z">
+        <seg>基于&lt;a0&gt; [165] &lt;/a0&gt;和Fast Global Smoother的改进局部加权仿射估计的稀疏匹配插值算法作为后处理滤波器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Spectral Residual approach from &lt;a0&gt;[91]&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T125345Z" creationid="flyeblue" creationdate="20190307T125033Z">
@@ -19546,6 +19962,14 @@
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190304T161329Z" creationid="Administrator" creationdate="20190304T161329Z">
         <seg>该算法返回产生最佳紧凑性的标签。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The base class for auto white balance algorithms</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080951Z" creationid="flyeblue" creationdate="20190308T080951Z">
+        <seg>自动白平衡算法的基类</seg>
       </tuv>
     </tu>
     <tu>
@@ -20302,6 +20726,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This algorithm decomposes image into two layers: base layer and detail layer using bilateral filter and compresses contrast of the base layer thus preserving all the details</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080944Z" creationid="flyeblue" creationdate="20190308T080944Z">
+        <seg>该算法将图像分解为两层：使用双边滤波器的基础层和细节层，压缩基础层的对比度，从而保留所有细节</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This algorithm transforms image to contrast using gradients on all levels of gaussian pyramid...</seg>
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190305T123001Z" creationid="Administrator" creationdate="20190305T123001Z">
@@ -20682,6 +21114,14 @@
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190305T142130Z" creationid="Administrator" creationdate="20190305T142130Z">
         <seg>这是分水岭背后的“哲学”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is the proxy class for passing read-only input arrays into OpenCV functions</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080958Z" creationid="flyeblue" creationdate="20190308T080958Z">
+        <seg>这是用于将只读输入数组传递到OpenCV函数的代理类</seg>
       </tuv>
     </tu>
     <tu>
@@ -21098,6 +21538,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T080130Z" creationid="flyeblue" creationdate="20190307T080130Z">
         <seg>Voronoi diagram-based seam estimator</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>WaldBoost detector</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080910Z" creationid="flyeblue" creationdate="20190308T080910Z">
+        <seg>WaldBoost探测器</seg>
       </tuv>
     </tu>
     <tu>
@@ -21678,6 +22126,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>\[ d(z_a,z_b)=\sum (a_n - s b_n e^{j(n \alpha +\phi )})^2 \]</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080631Z" creationid="flyeblue" creationdate="20190308T080631Z">
+        <seg>\ [d（z_a，z_b）= \ sum（a_n  -  s b_n e ^ {j（n \ alpha + \ phi）}）^ 2 \]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>base class BaseSFM declares a common API that would be used in a typical scene reconstruction scenari...</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T125551Z" creationid="flyeblue" creationdate="20190307T125551Z">
@@ -21946,6 +22402,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072132Z" creationid="flyeblue" creationdate="20190307T072132Z">
         <seg>d0/d44/structcv_1_1cudev_1_1ThreshTruncFunc.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d0/d46/classcv_1_1__InputOutputArray.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080959Z" creationid="flyeblue" creationdate="20190308T080959Z">
+        <seg>d0/d46/classcv_1_1__InputOutputArray.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -22510,6 +22974,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d0/de3/citelist.html#CITEREF_Achanta2012</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080859Z" creationid="flyeblue" creationdate="20190308T080859Z">
+        <seg>d0/de3/citelist.html#CITEREF_Achanta2012</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d0/de3/citelist.html#CITEREF_Agrawal08</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080422Z" creationid="flyeblue" creationdate="20190308T080422Z">
@@ -22566,6 +23038,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d0/de3/citelist.html#CITEREF_Dollar2013</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080838Z" creationid="flyeblue" creationdate="20190308T080838Z">
+        <seg>d0/de3/citelist.html#CITEREF_Dollar2013</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d0/de3/citelist.html#CITEREF_FGS</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T124845Z" creationid="flyeblue" creationdate="20190307T124845Z">
@@ -22614,6 +23094,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d0/de3/citelist.html#CITEREF_Lee14</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080755Z" creationid="flyeblue" creationdate="20190308T080755Z">
+        <seg>d0/de3/citelist.html#CITEREF_Lee14</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d0/de3/citelist.html#CITEREF_LiCVPR2015LSC</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080846Z" creationid="flyeblue" creationdate="20190308T080846Z">
+        <seg>d0/de3/citelist.html#CITEREF_LiCVPR2015LSC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d0/de3/citelist.html#CITEREF_LiaoSBWL17</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T150703Z" creationid="flyeblue" creationdate="20190307T150703Z">
@@ -22626,6 +23122,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080415Z" creationid="flyeblue" creationdate="20190308T080415Z">
         <seg>d0/de3/citelist.html#CITEREF_Lowe04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d0/de3/citelist.html#CITEREF_M_RF</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080814Z" creationid="flyeblue" creationdate="20190308T080814Z">
+        <seg>d0/de3/citelist.html#CITEREF_M_RF</seg>
       </tuv>
     </tu>
     <tu>
@@ -22650,6 +23154,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080518Z" creationid="flyeblue" creationdate="20190308T080518Z">
         <seg>d0/de3/citelist.html#CITEREF_PFF2004</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d0/de3/citelist.html#CITEREF_Revaud2015</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080701Z" creationid="flyeblue" creationdate="20190308T080701Z">
+        <seg>d0/de3/citelist.html#CITEREF_Revaud2015</seg>
       </tuv>
     </tu>
     <tu>
@@ -22726,10 +23238,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d0/de3/citelist.html#CITEREF_VBRV14</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080853Z" creationid="flyeblue" creationdate="20190308T080853Z">
+        <seg>d0/de3/citelist.html#CITEREF_VBRV14</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d0/de3/citelist.html#CITEREF_WJ10</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T073449Z" creationid="flyeblue" creationdate="20190307T073449Z">
         <seg>d0/de3/citelist.html#CITEREF_WJ10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d0/de3/citelist.html#CITEREF_ZitnickECCV14edgeBoxes</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080713Z" creationid="flyeblue" creationdate="20190308T080713Z">
+        <seg>d0/de3/citelist.html#CITEREF_ZitnickECCV14edgeBoxes</seg>
       </tuv>
     </tu>
     <tu>
@@ -22762,6 +23290,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T115606Z" creationid="flyeblue" creationdate="20190307T115606Z">
         <seg>d0/de3/citelist.html#CITEREF_histogramUnwrapping</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d0/de3/citelist.html#CITEREF_segleafvein</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080813Z" creationid="flyeblue" creationdate="20190308T080813Z">
+        <seg>d0/de3/citelist.html#CITEREF_segleafvein</seg>
       </tuv>
     </tu>
     <tu>
@@ -23294,6 +23830,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d1/d8b/classcv_1_1xphoto_1_1SimpleWB.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080929Z" creationid="flyeblue" creationdate="20190308T080929Z">
+        <seg>d1/d8b/classcv_1_1xphoto_1_1SimpleWB.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d1/d8b/structcv_1_1cudev_1_1numeric__limits_3_01short_01_4.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T070554Z" creationid="flyeblue" creationdate="20190307T070554Z">
@@ -23410,6 +23954,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T094158Z" creationid="flyeblue" creationdate="20190307T094158Z">
         <seg>d1/db2/classcv_1_1flann_1_1Index.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d1/db3/classcv_1_1xphoto_1_1TonemapDurand.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080939Z" creationid="flyeblue" creationdate="20190308T080939Z">
+        <seg>d1/db3/classcv_1_1xphoto_1_1TonemapDurand.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -24598,6 +25150,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d3/d30/namespacecv_1_1xobjdetect.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080902Z" creationid="flyeblue" creationdate="20190308T080902Z">
+        <seg>d3/d30/namespacecv_1_1xobjdetect.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d3/d31/structcv_1_1cudev_1_1MakeVec_3_01ushort_00_012_01_4.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T070440Z" creationid="flyeblue" creationdate="20190307T070440Z">
@@ -24814,6 +25374,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d3/d9d/classcv_1_1ximgproc_1_1DTFilter.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080649Z" creationid="flyeblue" creationdate="20190308T080649Z">
+        <seg>d3/d9d/classcv_1_1ximgproc_1_1DTFilter.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d3/da0/structcv_1_1cudev_1_1RGBA__to__YUV4__func.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072049Z" creationid="flyeblue" creationdate="20190307T072049Z">
@@ -24842,6 +25410,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T075030Z" creationid="flyeblue" creationdate="20190307T075030Z">
         <seg>d3/da9/classcv_1_1detail_1_1NoSeamFinder.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d3/da9/classcv_1_1ximgproc_1_1SuperpixelSLIC.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080856Z" creationid="flyeblue" creationdate="20190308T080856Z">
+        <seg>d3/da9/classcv_1_1ximgproc_1_1SuperpixelSLIC.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -25254,6 +25830,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d4/d32/classcv_1_1__InputArray.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080952Z" creationid="flyeblue" creationdate="20190308T080952Z">
+        <seg>d4/d32/classcv_1_1__InputArray.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d4/d36/classcv_1_1ximgproc_1_1RidgeDetectionFilter.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080808Z" creationid="flyeblue" creationdate="20190308T080808Z">
+        <seg>d4/d36/classcv_1_1ximgproc_1_1RidgeDetectionFilter.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d4/d36/structcv_1_1dnn__objdetect_1_1object.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T092821Z" creationid="flyeblue" creationdate="20190307T092821Z">
@@ -25266,6 +25858,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T070239Z" creationid="flyeblue" creationdate="20190307T070239Z">
         <seg>d4/d37/structcv_1_1cudev_1_1hypot__func_3_01float_01_4.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d4/d3b/classcv_1_1xphoto_1_1LearningBasedWB.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080922Z" creationid="flyeblue" creationdate="20190308T080922Z">
+        <seg>d4/d3b/classcv_1_1xphoto_1_1LearningBasedWB.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -25622,6 +26222,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d4/da8/classcv_1_1ximgproc_1_1SparseMatchInterpolator.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080828Z" creationid="flyeblue" creationdate="20190308T080828Z">
+        <seg>d4/da8/classcv_1_1ximgproc_1_1SparseMatchInterpolator.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d4/db2/classcv_1_1aruco_1_1Board.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T052800Z" creationid="flyeblue" creationdate="20190307T052800Z">
@@ -25834,6 +26442,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T065529Z" creationid="flyeblue" creationdate="20190307T065529Z">
         <seg>d4/df0/structcv_1_1cudev_1_1BGRA__to__HSV4__FULL__func_3_01float_01_4.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d4/dfa/classcv_1_1ximgproc_1_1EdgeAwareInterpolator.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080658Z" creationid="flyeblue" creationdate="20190308T080658Z">
+        <seg>d4/dfa/classcv_1_1ximgproc_1_1EdgeAwareInterpolator.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -26338,6 +26954,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T064959Z" creationid="flyeblue" creationdate="20190307T064959Z">
         <seg>d5/d9d/structcv_1_1cudev_1_1BGR__to__HLS4__FULL__func.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d5/da0/classcv_1_1ximgproc_1_1SuperpixelLSC.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080843Z" creationid="flyeblue" creationdate="20190308T080843Z">
+        <seg>d5/da0/classcv_1_1ximgproc_1_1SuperpixelLSC.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -27654,6 +28278,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d7/d71/classcv_1_1xphoto_1_1GrayworldWB.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080915Z" creationid="flyeblue" creationdate="20190308T080915Z">
+        <seg>d7/d71/classcv_1_1xphoto_1_1GrayworldWB.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d7/d71/structcv_1_1cudev_1_1HSV__to__RGBA__FULL__func.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T070231Z" creationid="flyeblue" creationdate="20190307T070231Z">
@@ -28250,6 +28882,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T080457Z" creationid="flyeblue" creationdate="20190307T080457Z">
         <seg>d8/d53/classcv_1_1dnn_1_1CropAndResizeLayer.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d8/d54/classcv_1_1ximgproc_1_1StructuredEdgeDetection.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080835Z" creationid="flyeblue" creationdate="20190308T080835Z">
+        <seg>d8/d54/classcv_1_1ximgproc_1_1StructuredEdgeDetection.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -29030,6 +29670,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d9/d51/classcv_1_1ximgproc_1_1DisparityWLSFilter.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080643Z" creationid="flyeblue" creationdate="20190308T080643Z">
+        <seg>d9/d51/classcv_1_1ximgproc_1_1DisparityWLSFilter.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d9/d52/structcv_1_1cudev_1_1MakeVec_3_01uint_00_011_01_4.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T070437Z" creationid="flyeblue" creationdate="20190307T070437Z">
@@ -29146,6 +29794,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T070458Z" creationid="flyeblue" creationdate="20190307T070458Z">
         <seg>d9/d77/structcv_1_1cudev_1_1negate.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d9/d7a/classcv_1_1xphoto_1_1WhiteBalancer.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080946Z" creationid="flyeblue" creationdate="20190308T080946Z">
+        <seg>d9/d7a/classcv_1_1xphoto_1_1WhiteBalancer.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -30582,6 +31238,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>db/d50/classcv_1_1ximgproc_1_1FastBilateralSolverFilter.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080738Z" creationid="flyeblue" creationdate="20190308T080738Z">
+        <seg>db/d50/classcv_1_1ximgproc_1_1FastBilateralSolverFilter.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>db/d58/structcv_1_1cudev_1_1BGR__to__HLS__func_3_01float_01_4.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T065006Z" creationid="flyeblue" creationdate="20190307T065006Z">
@@ -30626,6 +31290,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T124309Z" creationid="flyeblue" creationdate="20190307T124309Z">
         <seg>db/d6a/classcv_1_1reg_1_1MapperPyramid.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>db/d72/classcv_1_1ximgproc_1_1DisparityFilter.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080636Z" creationid="flyeblue" creationdate="20190308T080636Z">
+        <seg>db/d72/classcv_1_1ximgproc_1_1DisparityFilter.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -31590,6 +32262,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>dc/dca/classcv_1_1ximgproc_1_1RFFeatureGetter.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080805Z" creationid="flyeblue" creationdate="20190308T080805Z">
+        <seg>dc/dca/classcv_1_1ximgproc_1_1RFFeatureGetter.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>dc/dcd/classcv_1_1dnn_1_1ReLU6Layer.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T092645Z" creationid="flyeblue" creationdate="20190307T092645Z">
@@ -32134,6 +32814,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>dd/d65/classcv_1_1ximgproc_1_1EdgeBoxes.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080707Z" creationid="flyeblue" creationdate="20190308T080707Z">
+        <seg>dd/d65/classcv_1_1ximgproc_1_1EdgeBoxes.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>dd/d6b/structcv_1_1cudev_1_1HSV4__to__RGB__FULL__func_3_01float_01_4.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T070200Z" creationid="flyeblue" creationdate="20190307T070200Z">
@@ -32614,6 +33302,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>de/d0e/classcv_1_1xobjdetect_1_1WBDetector.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080905Z" creationid="flyeblue" creationdate="20190308T080905Z">
+        <seg>de/d0e/classcv_1_1xobjdetect_1_1WBDetector.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>de/d13/classcv_1_1ximgproc_1_1FastGlobalSmootherFilter.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080745Z" creationid="flyeblue" creationdate="20190308T080745Z">
+        <seg>de/d13/classcv_1_1ximgproc_1_1FastGlobalSmootherFilter.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>de/d13/structcv_1_1cudev_1_1sinh__func_3_01uint_01_4.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072108Z" creationid="flyeblue" creationdate="20190307T072108Z">
@@ -32898,6 +33602,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190308T053605Z" creationid="flyeblue" creationdate="20190308T053605Z">
         <seg>de/d72/classcv_1_1tracking_1_1UnscentedKalmanFilter.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>de/d73/classcv_1_1ximgproc_1_1GuidedFilter.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080758Z" creationid="flyeblue" creationdate="20190308T080758Z">
+        <seg>de/d73/classcv_1_1ximgproc_1_1GuidedFilter.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -33534,6 +34246,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>df/d4c/classcv_1_1ximgproc_1_1FastLineDetector.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080752Z" creationid="flyeblue" creationdate="20190308T080752Z">
+        <seg>df/d4c/classcv_1_1ximgproc_1_1FastLineDetector.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>df/d4e/classcv_1_1img__hash_1_1PHash.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T105508Z" creationid="flyeblue" creationdate="20190307T105508Z">
@@ -33690,6 +34410,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T080254Z" creationid="flyeblue" creationdate="20190307T080254Z">
         <seg>df/d7b/classcv_1_1dnn_1_1BackendWrapper.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>df/d81/classcv_1_1ximgproc_1_1SuperpixelSEEDS.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080850Z" creationid="flyeblue" creationdate="20190308T080850Z">
+        <seg>df/d81/classcv_1_1ximgproc_1_1SuperpixelSEEDS.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -33866,6 +34594,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T080114Z" creationid="flyeblue" creationdate="20190307T080114Z">
         <seg>df/db9/classcv_1_1detail_1_1TimelapserCrop.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>df/db9/namespacecv_1_1xphoto.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080912Z" creationid="flyeblue" creationdate="20190308T080912Z">
+        <seg>df/db9/namespacecv_1_1xphoto.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -34110,6 +34846,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>http://reference.wolfram.com/language/ref/RidgeFilter.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080811Z" creationid="flyeblue" creationdate="20190308T080811Z">
+        <seg>http://reference.wolfram.com/language/ref/RidgeFilter.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>http://www.mathworks.com/matlabcentral/fileexchange/47152-icp-registration-using-efficient-variants-and-multi-resolution-scheme</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T122334Z" creationid="flyeblue" creationdate="20190307T122334Z">
@@ -34346,6 +35090,14 @@
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190305T155341Z" creationid="Administrator" creationdate="20190305T155341Z">
         <seg>警告</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>where \( a_n \) and \( b_n \) are Fourier descriptors of \( z_a \) and \( z_b \) and s is a scaling factor and \( \phi \) is angle rotation and \( \alpha \) is starting point factor adjustement</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T080634Z" creationid="flyeblue" creationdate="20190308T080634Z">
+        <seg>其中\（a_n \）和\（b_n \）是\（z_a \）和\（z_b \）的傅里叶描述符，s是缩放因子，\（\ phi \）是角度旋转和\（\ alpha \）是起点因素 adjustement</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
