@@ -2902,6 +2902,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;FromFileMotionReader&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T072923Z" creationid="flyeblue" creationdate="20190308T072923Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;FromFileMotionReader&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;GArrayU&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T073550Z" creationid="flyeblue" creationdate="20190307T073550Z">
@@ -3154,6 +3162,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T073447Z" creationid="flyeblue" creationdate="20190307T073447Z">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;GainCompensator&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;GaussianMotionFilter&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T072926Z" creationid="flyeblue" creationdate="20190308T072926Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;GaussianMotionFilter&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3870,6 +3886,46 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;IDenseOptFlowEstimator&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T072929Z" creationid="flyeblue" creationdate="20190308T072929Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;IDenseOptFlowEstimator&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;IFrameSource&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T072932Z" creationid="flyeblue" creationdate="20190308T072932Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;IFrameSource&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;ILog&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T072935Z" creationid="flyeblue" creationdate="20190308T072935Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;ILog&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;IMotionStabilizer&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T073005Z" creationid="flyeblue" creationdate="20190308T073005Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;IMotionStabilizer&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;IOutlierRejector&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T073037Z" creationid="flyeblue" creationdate="20190308T073037Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;IOutlierRejector&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;IR_affine&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072226Z" creationid="flyeblue" creationdate="20190307T072226Z">
@@ -3930,6 +3986,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072227Z" creationid="flyeblue" creationdate="20190307T072227Z">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;IS_weizmannObj&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;ISparseOptFlowEstimator&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T073040Z" creationid="flyeblue" creationdate="20190308T073040Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;ISparseOptFlowEstimator&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3946,6 +4010,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T073824Z" creationid="flyeblue" creationdate="20190307T073824Z">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;ImageFeatures&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;ImageMotionEstimatorBase&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T072938Z" creationid="flyeblue" creationdate="20190308T072938Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;ImageMotionEstimatorBase&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4002,6 +4074,22 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T080659Z" creationid="flyeblue" creationdate="20190307T080659Z">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;InnerProductLayer&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;InpainterBase&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T073008Z" creationid="flyeblue" creationdate="20190308T073008Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;InpainterBase&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;InpaintingPipeline&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T073011Z" creationid="flyeblue" creationdate="20190308T073011Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;InpaintingPipeline&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4106,6 +4194,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T105932Z" creationid="flyeblue" creationdate="20190307T105932Z">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;KeyLine&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;KeypointBasedMotionEstimator&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T073043Z" creationid="flyeblue" creationdate="20190308T073043Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;KeypointBasedMotionEstimator&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4510,6 +4606,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;LogToStdout&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T073110Z" creationid="flyeblue" creationdate="20190308T073110Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;LogToStdout&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;LogisticRegression&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T113237Z" creationid="flyeblue" creationdate="20190307T113237Z">
@@ -4522,6 +4626,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T063751Z" creationid="flyeblue" creationdate="20190307T063751Z">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;LookUpTable&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;LpMotionStabilizer&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T073113Z" creationid="flyeblue" creationdate="20190308T073113Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;LpMotionStabilizer&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5250,6 +5362,38 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T132349Z" creationid="flyeblue" creationdate="20190307T132349Z">
         <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;ModifiedCsCensus&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;MoreAccurateMotionWobbleSuppressor&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T073116Z" creationid="flyeblue" creationdate="20190308T073116Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;MoreAccurateMotionWobbleSuppressor&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;MoreAccurateMotionWobbleSuppressorBase&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T073119Z" creationid="flyeblue" creationdate="20190308T073119Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;MoreAccurateMotionWobbleSuppressorBase&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;MotionEstimatorBase&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T073122Z" creationid="flyeblue" creationdate="20190308T073122Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;MotionEstimatorBase&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;MotionEstimatorL1&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T073149Z" creationid="flyeblue" creationdate="20190308T073149Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;C&lt;/s1&gt;&lt;/s0&gt;&lt;a2&gt;MotionEstimatorL1&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12462,6 +12606,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Base class for all global motion estimation methods</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T073146Z" creationid="flyeblue" creationdate="20190308T073146Z">
+        <seg>Base class for all global motion estimation methods</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Base class for all minimum graph-cut-based seam estimators</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T073804Z" creationid="flyeblue" creationdate="20190307T073804Z">
@@ -12490,6 +12642,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T060820Z" creationid="flyeblue" creationdate="20190307T060820Z">
         <seg>卷积（或互相关）运算符的基类.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Base class for global 2D motion estimation methods which take frames as input</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T073002Z" creationid="flyeblue" creationdate="20190308T073002Z">
+        <seg>Base class for global 2D motion estimation methods which take frames as input</seg>
       </tuv>
     </tu>
     <tu>
@@ -13782,10 +13942,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Describes a global 2D motion estimation method which minimizes &lt;a0&gt;L1&lt;/a0&gt; error</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T073204Z" creationid="flyeblue" creationdate="20190308T073204Z">
+        <seg>描述了一种全局2D运动估计方法，其最小化&lt;a0&gt; L1 &lt;/ a0&gt;误差</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Describes a global 2D motion estimation method which uses keypoints detection and optical flow for matching</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T073107Z" creationid="flyeblue" creationdate="20190308T073107Z">
+        <seg>Describes a global 2D motion estimation method which uses keypoints detection and optical flow for matching</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Describes camera parameters</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T073137Z" creationid="flyeblue" creationdate="20190307T073137Z">
         <seg>描述相机参数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Describes the Fast Marching Method implementation</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T072920Z" creationid="flyeblue" creationdate="20190308T072920Z">
+        <seg>Describes the Fast Marching Method implementation</seg>
       </tuv>
     </tu>
     <tu>
@@ -20486,6 +20670,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d0/d53/classcv_1_1videostab_1_1MoreAccurateMotionWobbleSuppressorBase.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T073118Z" creationid="flyeblue" creationdate="20190308T073118Z">
+        <seg>d0/d53/classcv_1_1videostab_1_1MoreAccurateMotionWobbleSuppressorBase.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d0/d56/structcv_1_1cudev_1_1RGBA__to__HLS4__FULL__func.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072005Z" creationid="flyeblue" creationdate="20190307T072005Z">
@@ -21238,6 +21430,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d0/df6/classcv_1_1videostab_1_1IMotionStabilizer.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T073004Z" creationid="flyeblue" creationdate="20190308T073004Z">
+        <seg>d0/df6/classcv_1_1videostab_1_1IMotionStabilizer.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d1/d03/structcv_1_1cudev_1_1less__equal.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T070316Z" creationid="flyeblue" creationdate="20190307T070316Z">
@@ -21586,6 +21786,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072024Z" creationid="flyeblue" creationdate="20190307T072024Z">
         <seg>d1/d7d/structcv_1_1cudev_1_1RGBA__to__HSV__func.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d1/d81/classcv_1_1videostab_1_1IFrameSource.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T072931Z" creationid="flyeblue" creationdate="20190308T072931Z">
+        <seg>d1/d81/classcv_1_1videostab_1_1IFrameSource.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -22894,6 +23102,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d3/d59/classcv_1_1videostab_1_1LpMotionStabilizer.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T073111Z" creationid="flyeblue" creationdate="20190308T073111Z">
+        <seg>d3/d59/classcv_1_1videostab_1_1LpMotionStabilizer.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d3/d63/classcv_1_1Mat.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T080324Z" creationid="flyeblue" creationdate="20190307T080324Z">
@@ -23662,6 +23878,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d4/d7f/structcv_1_1L1.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T073151Z" creationid="flyeblue" creationdate="20190308T073151Z">
+        <seg>d4/d7f/structcv_1_1L1.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d4/d7f/structcv_1_1cudev_1_1HSV4__to__RGB__FULL__func.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T070138Z" creationid="flyeblue" creationdate="20190307T070138Z">
@@ -23870,6 +24094,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d4/dd1/classcv_1_1videostab_1_1ImageMotionEstimatorBase.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T072937Z" creationid="flyeblue" creationdate="20190308T072937Z">
+        <seg>d4/dd1/classcv_1_1videostab_1_1ImageMotionEstimatorBase.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d4/dd2/classcv_1_1dnn_1_1BatchNormLayer.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T080437Z" creationid="flyeblue" creationdate="20190307T080437Z">
@@ -23962,6 +24194,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072219Z" creationid="flyeblue" creationdate="20190307T072219Z">
         <seg>d4/dff/structcv_1_1cudev_1_1ZipPtr_3_01tuple_3_01Ptr0_00_01Ptr1_00_01Ptr2_01_4_01_4.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d5/d00/classcv_1_1videostab_1_1InpainterBase.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T073007Z" creationid="flyeblue" creationdate="20190308T073007Z">
+        <seg>d5/d00/classcv_1_1videostab_1_1InpainterBase.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -24558,6 +24798,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d5/de0/classcv_1_1videostab_1_1LogToStdout.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T073108Z" creationid="flyeblue" creationdate="20190308T073108Z">
+        <seg>d5/de0/classcv_1_1videostab_1_1LogToStdout.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d5/de3/classcv_1_1ocl_1_1ProgramSource.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T115012Z" creationid="flyeblue" creationdate="20190307T115012Z">
@@ -24570,6 +24818,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T070205Z" creationid="flyeblue" creationdate="20190307T070205Z">
         <seg>d5/dea/structcv_1_1cudev_1_1HSV4__to__RGBA__func.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d5/dec/classcv_1_1videostab_1_1KeypointBasedMotionEstimator.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T073041Z" creationid="flyeblue" creationdate="20190308T073041Z">
+        <seg>d5/dec/classcv_1_1videostab_1_1KeypointBasedMotionEstimator.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -25442,6 +25698,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T065005Z" creationid="flyeblue" creationdate="20190307T065005Z">
         <seg>d7/d28/structcv_1_1cudev_1_1BGR__to__HLS__func.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d7/d29/classcv_1_1videostab_1_1MotionEstimatorL1.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T073147Z" creationid="flyeblue" creationdate="20190308T073147Z">
+        <seg>d7/d29/classcv_1_1videostab_1_1MotionEstimatorL1.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -26358,6 +26622,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d8/d95/classcv_1_1videostab_1_1ILog.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T072934Z" creationid="flyeblue" creationdate="20190308T072934Z">
+        <seg>d8/d95/classcv_1_1videostab_1_1ILog.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d8/d9b/group__features2d__match.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T105744Z" creationid="flyeblue" creationdate="20190307T105744Z">
@@ -26386,6 +26658,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T072105Z" creationid="flyeblue" creationdate="20190307T072105Z">
         <seg>d8/da0/structcv_1_1cudev_1_1sinh__func.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d8/da1/classcv_1_1videostab_1_1MoreAccurateMotionWobbleSuppressor.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T073114Z" creationid="flyeblue" creationdate="20190308T073114Z">
+        <seg>d8/da1/classcv_1_1videostab_1_1MoreAccurateMotionWobbleSuppressor.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -27174,6 +27454,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d9/db3/classcv_1_1videostab_1_1FromFileMotionReader.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T072921Z" creationid="flyeblue" creationdate="20190308T072921Z">
+        <seg>d9/db3/classcv_1_1videostab_1_1FromFileMotionReader.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d9/db3/structcv_1_1detail_1_1ocl__get__out_3_01cv_1_1GMat_01_4.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T075306Z" creationid="flyeblue" creationdate="20190307T075306Z">
@@ -27218,6 +27506,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T133514Z" creationid="flyeblue" creationdate="20190307T133514Z">
         <seg>d9/dbb/classcv_1_1structured__light_1_1StructuredLightPattern.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d9/dbb/classcv_1_1videostab_1_1IOutlierRejector.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T073035Z" creationid="flyeblue" creationdate="20190308T073035Z">
+        <seg>d9/dbb/classcv_1_1videostab_1_1IOutlierRejector.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -28710,6 +29006,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>db/df1/classcv_1_1videostab_1_1MotionEstimatorBase.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T073121Z" creationid="flyeblue" creationdate="20190308T073121Z">
+        <seg>db/df1/classcv_1_1videostab_1_1MotionEstimatorBase.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>db/df4/structcv_1_1detail_1_1scratch__helper.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T075804Z" creationid="flyeblue" creationdate="20190307T075804Z">
@@ -29258,6 +29562,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T064800Z" creationid="flyeblue" creationdate="20190307T064800Z">
         <seg>dc/dbc/structcv_1_1cudev_1_1vec__math__detail_1_1SatCastHelper_3_012_00_01VecD_01_4.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>dc/dc0/classcv_1_1videostab_1_1InpaintingPipeline.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T073010Z" creationid="flyeblue" creationdate="20190308T073010Z">
+        <seg>dc/dc0/classcv_1_1videostab_1_1InpaintingPipeline.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -30230,6 +30542,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>de/d06/classcv_1_1videostab_1_1GaussianMotionFilter.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T072924Z" creationid="flyeblue" creationdate="20190308T072924Z">
+        <seg>de/d06/classcv_1_1videostab_1_1GaussianMotionFilter.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>de/d08/structcv_1_1cudev_1_1BGRA__to__HLS__func.html</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T065527Z" creationid="flyeblue" creationdate="20190307T065527Z">
@@ -30258,6 +30578,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T092807Z" creationid="flyeblue" creationdate="20190307T092807Z">
         <seg>de/d24/classcv_1_1dnn_1_1ShuffleChannelLayer.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>de/d24/classcv_1_1videostab_1_1IDenseOptFlowEstimator.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T072927Z" creationid="flyeblue" creationdate="20190308T072927Z">
+        <seg>de/d24/classcv_1_1videostab_1_1IDenseOptFlowEstimator.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -31522,6 +31850,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T070300Z" creationid="flyeblue" creationdate="20190307T070300Z">
         <seg>df/ddf/structcv_1_1cudev_1_1Lab__to__LBGRA__func.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>df/de2/classcv_1_1videostab_1_1ISparseOptFlowEstimator.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T073038Z" creationid="flyeblue" creationdate="20190308T073038Z">
+        <seg>df/de2/classcv_1_1videostab_1_1ISparseOptFlowEstimator.html</seg>
       </tuv>
     </tu>
     <tu>
