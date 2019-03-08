@@ -13960,8 +13960,8 @@
       <tuv lang="EN-US">
         <seg>Describes a global 2D motion estimation method which uses keypoints detection and optical flow for matching</seg>
       </tuv>
-      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T073107Z" creationid="flyeblue" creationdate="20190308T073107Z">
-        <seg>Describes a global 2D motion estimation method which uses keypoints detection and optical flow for matching</seg>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T073937Z" creationid="flyeblue" creationdate="20190308T073107Z">
+        <seg>描述了一种全局2D运动估计方法，该方法使用关键点检测和光流进行匹配</seg>
       </tuv>
     </tu>
     <tu>
@@ -29530,6 +29530,14 @@
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T070501Z" creationid="flyeblue" creationdate="20190307T070501Z">
         <seg>dc/da6/structcv_1_1cudev_1_1NormL2.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>dc/daa/structcv_1_1L2.html</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T074013Z" creationid="flyeblue" creationdate="20190308T074013Z">
+        <seg>dc/daa/structcv_1_1L2.html</seg>
       </tuv>
     </tu>
     <tu>
