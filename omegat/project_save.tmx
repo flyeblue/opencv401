@@ -16150,6 +16150,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Model of dynamical system for Unscented Kalman filter.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T052232Z" creationid="flyeblue" creationdate="20190308T052232Z">
+        <seg>Unscented卡尔曼滤波器动力系统模型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Modified .prototxt file with the model description can be found in &lt;c4&gt;opencv_contrib/modules/text/samples/textbox.prototxt&lt;/c4&gt;</seg>
       </tuv>
       <tuv lang="ZH" changeid="flyeblue" changedate="20190307T152439Z" creationid="flyeblue" creationdate="20190307T152439Z">
