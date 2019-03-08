@@ -302,6 +302,86 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>#letter_g</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T092433Z" creationid="flyeblue" creationdate="20190308T092433Z">
+        <seg>#letter_g</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>#letter_h</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T092456Z" creationid="flyeblue" creationdate="20190308T092456Z">
+        <seg>#letter_h</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>#letter_i</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T092520Z" creationid="flyeblue" creationdate="20190308T092520Z">
+        <seg>#letter_i</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>#letter_j</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T092543Z" creationid="flyeblue" creationdate="20190308T092543Z">
+        <seg>#letter_j</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>#letter_k</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T092607Z" creationid="flyeblue" creationdate="20190308T092607Z">
+        <seg>#letter_k</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>#letter_l</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T092630Z" creationid="flyeblue" creationdate="20190308T092630Z">
+        <seg>#letter_l</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>#letter_m</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T092654Z" creationid="flyeblue" creationdate="20190308T092654Z">
+        <seg>#letter_m</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>#letter_n</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T092718Z" creationid="flyeblue" creationdate="20190308T092718Z">
+        <seg>#letter_n</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>#letter_o</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T092741Z" creationid="flyeblue" creationdate="20190308T092741Z">
+        <seg>#letter_o</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>#letter_p</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="flyeblue" changedate="20190308T092805Z" creationid="flyeblue" creationdate="20190308T092805Z">
+        <seg>#letter_p</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(I will show an example later.)</seg>
       </tuv>
       <tuv lang="ZH" changeid="Administrator" changedate="20190305T074908Z" creationid="Administrator" creationdate="20190305T074908Z">
